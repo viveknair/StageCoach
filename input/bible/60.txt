@@ -3,7 +3,7 @@
 <title>301 Moved Permanently</title>
 </head><body>
 <h1>Moved Permanently</h1>
-<p>The document has moved <a href="http://www.gutenberg.org/zipcat2.php/7999/7999-h/book60.htm">here</a>.</p>
+<p>The document has moved <a href="http://www.gutenberg.org/zipcat2.php/7999dd/7999-h/book60.htm">here</a>.</p>
 <hr>
 <address>Apache Server at www.gutenberg.org Port 80</address>
 </body></html>
