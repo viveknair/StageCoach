@@ -1,0 +1,2 @@
+Remove verse lines:
+  %s/<p>\d\d:\d\d\d:\d\d\d/<p>/g
