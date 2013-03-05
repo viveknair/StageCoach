@@ -9,6 +9,7 @@ import configuration.*;
  * 			defines the behavior of a custom traversal. 
 */
 public class Unit {
+
 	private static UnitConfig uconf;
 
 	public Unit(UnitConfig uconf) {
