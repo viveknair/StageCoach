@@ -32,7 +32,6 @@ public class Test {
 
 	private static void quoteAttrTest(Play play) {
 		// TODO Auto-generated method stub
-		for (Quote q : play.)
 	}
 
 	private static void charPrintTest(Play play) {
