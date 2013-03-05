@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 import play.Play;
+import quote.Quote;
 import configuration.PlayConfig;
 import configuration.PlayType;
 
@@ -21,5 +22,15 @@ public class Test {
 		
 		// Construct the features
 		play.constructFeatures();
+		
+		System.out.println("-----");
+		
+		for (character.Character dude : play.returnCharacters(null, null).values()) {
+			System.out.println("Name: " + dude.getName());
+			System.out.println("Description: " + dude.getDescription());
+			for (Quote q : dude.getQuotes()) {
+				System.out.println(q.getRawQuote());
+			}
+		}
 	}
 }
