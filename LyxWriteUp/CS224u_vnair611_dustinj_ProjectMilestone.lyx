@@ -72,15 +72,6 @@ Vivek Nair and Dustin A.
  Janatpour
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Section
 Introduction
 \end_layout
@@ -114,14 +105,16 @@ How could we best construct this system to iteratively test hypotheses about
 \end_layout
 
 \begin_layout Standard
-Our Github repository can be viewed publicly at the following URL: <
+We are developing a system named StageCoach to answer these questions.
+ The Github repository for StageCoach can be viewed publicly at the following
+ URL: <
 \begin_inset CommandInset href
 LatexCommand href
 target "https://github.com/VivekNair/NarrativeAnalysis"
 
 \end_inset
 
-> 
+>
 \end_layout
 
 \begin_layout Section
