@@ -25,6 +25,17 @@ public class Test {
 		
 		System.out.println("-----");
 		
+		charPrintTest(play);
+		quoteAttrTest(play);
+		
+	}
+
+	private static void quoteAttrTest(Play play) {
+		// TODO Auto-generated method stub
+		for (Quote q : play.)
+	}
+
+	private static void charPrintTest(Play play) {
 		for (character.Character dude : play.returnCharacters(null, null).values()) {
 			System.out.println("Name: " + dude.getName());
 			System.out.println("Description: " + dude.getDescription());

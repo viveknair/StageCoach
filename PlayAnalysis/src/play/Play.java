@@ -177,6 +177,8 @@ public class Play {
 	/*
 	 * Specify a start unit of time to an end unit of time 
 	 * to collect information.
+	 * 
+	 * TODO: Rewrite so we can access characters for a given act or scene
 	 */
 	public HashMap<String, Character> returnCharacters(Unit stime, Unit etime) {
 		// Traversal of the linked list to gather all of the characters	
