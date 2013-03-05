@@ -22,7 +22,7 @@ public class Play {
 
 	
 	private String title = null;
-	private ArrayList<Character> characters = new ArrayList<Character>();
+	private HashMap<String, Character> characters = new HashMap<String, Character>();
 	private ArrayList<Quote> quotes = new ArrayList<Quote>();
 	private ArrayList<StageDirection> stageDirections = new ArrayList<StageDirection>();
 	private ArrayList<String> rawLines = null;
@@ -71,14 +71,15 @@ public class Play {
 			if (characterSectionStarted && rawLines.get(i).trim().length() == 0) {
 				break;
 			}
-			StringTokenizer characterTokenizer = new StringTokenizer(rawLines.get(i), " ,");
+			StringTokenizer characterTokenizer = new StringTokenizer(rawLines.get(i), ",");
 			String characterToken = null;
 			if (characterTokenizer.hasMoreTokens()) {
 				characterToken = characterTokenizer.nextToken();
 			}			
 			if (characterSectionStarted) {
 				String description = concatenateTokens(characterTokenizer);
-				characters.add(new Character(characterToken, description));
+				characters.put(characterToken, new Character(characterToken, description));
+				System.out.println("Added character: " + characterToken);
 			}
 			
 			if (characterToken != null && characterToken.equals(CHARACTER_TOKEN)) {
@@ -176,10 +177,16 @@ public class Play {
 	/*
 	 * Specify a start unit of time to an end unit of time 
 	 * to collect information.
+	 * 
+	 * TODO: Rewrite so we can access characters for a given act or scene
 	 */
-	public ArrayList<Character> returnCharacters(Unit stime, Unit etime) {
+	public HashMap<String, Character> returnCharacters(Unit stime, Unit etime) {
 		// Traversal of the linked list to gather all of the characters	
 		// Returns the characters at the defined unit of time
-		return new ArrayList<Character>();
+		//TODO: Add time component
+		if (!characters.isEmpty()) {
+			return characters;
+		}
+		return new HashMap<String, Character>();
 	}
 }
