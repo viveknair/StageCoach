@@ -17,4 +17,12 @@ public class StageDirection {
 	public ArrayList<Character> getCharacterMentions(ArrayList<Character> allCharacters) {
 		return allCharacters;
 	}
+
+  public String getLocation() {
+    // Will return a string for now representing the
+    // raw location parameters (if applicable)
+    // Probably will be encapsulated as an object 'Location'
+    // later.
+    return null; 
+  }
 }
