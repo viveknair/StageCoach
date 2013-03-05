@@ -4,7 +4,7 @@ import java.util.*;
 import character.Character;
 
 public class StageDirection {
-	private static String description;
+	private String description;
 	
 	public StageDirection(String description) {
 		this.description = description;

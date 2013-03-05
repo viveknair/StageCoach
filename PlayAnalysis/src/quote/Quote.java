@@ -1,18 +1,25 @@
 package quote;
 
 import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 import character.Character;
 import action.Action;
 
 public class Quote {
-	private static String rawQuote;
-	private static Character speaker;
-	private static ArrayList<Action> containedActions = new ArrayList<Action>();
-	private static ArrayList<Character> mentionedCharacters = new ArrayList<Character>();
+
+	private static final Pattern bracketsPattern = Pattern.compile("\\[(.*?)\\]");
+	
+	private String rawQuote;
+	private String speaker;
+	private Character character = null; 
+	private ArrayList<Action> containedActions = new ArrayList<Action>();
+	private ArrayList<Character> mentionedCharacters = new ArrayList<Character>();
 	
 	// Tracks the token location in the quote up to which we
 	// have parsed
-	private static int quoteCursor = 0;
+	private int quoteCursor = 0;
 	
 	/*
 	 * Public API: 
@@ -22,14 +29,13 @@ public class Quote {
 	 * 	getActions
 	 */
 	
-	public Character getSpeaker() {
+	public String getSpeaker() {
 		return speaker; 
 	}
 	
 	public String getRawQuote() {
 		return rawQuote;
 	}
-	
 	
 	public ArrayList<Character> getMentionedCharacters() {
 		return mentionedCharacters; 
@@ -40,27 +46,37 @@ public class Quote {
 	}
 	
 	/*
-	 * Internal parse of the different sections of the
-	 * play (e.g. the speaker, characters, actions)
+	 * The speaker is given as a quote to the 
+	 * new Quote object. So we have to associate this 
+	 * speaker to one of the available characters.
 	 */
-	
-	private Character parsedSpeaker() {
-		return new Character(null, null); 
+	public void associateSpeakerToCharacter(ArrayList<Character> characters) {
+		character = characters.get(0);
 	}
 	
-	private ArrayList<Character> parsedMentionChars() {
-		return new ArrayList<Character>();
+	/*
+	 * Can only be called once the associateSpeakerToCharacter 
+	 * has been called by the client.
+	 */
+	public Character returnSpeakingCharacter() {
+		return character;
 	}
 	
-	private ArrayList<Action> parsedActions() {
-		return new ArrayList<Action>();
+	/* 
+	 * Returns the actions from the corresponding Quote
+	 */
+	private void parseActions() {
+		Matcher bracketsMatch = bracketsPattern.matcher(rawQuote);
+		while (bracketsMatch.find()) {
+			String relation = bracketsMatch.group(1);
+			containedActions.add( new Action(speaker, relation));
+		}
 	}
 
-	
-	public Quote(String rawQuote) {
+	public Quote(String speaker, String rawQuote) {
 		this.rawQuote = rawQuote;
-		this.speaker = parsedSpeaker();
-		this.mentionedCharacters = parsedMentionChars();
-		this.containedActions = parsedActions();
+		this.speaker = speaker;
+		
+		parseActions();
 	}
 }

@@ -5,10 +5,9 @@ import java.util.*;
 
 
 public class PlayConfig {
-	private static PlayType type;
-	private static String fileName;
-	private static ArrayList<String> lines = null;
-	private static HashMap<String, String> conf = new HashMap<String, String>();
+	private PlayType type;
+	private ArrayList<String> lines = null;
+	private HashMap<String, String> conf = new HashMap<String, String>();
 
 	public PlayConfig(PlayType type) {
 		this.type = type;
@@ -22,17 +21,17 @@ public class PlayConfig {
 		return conf.get(key);
 	}
 	
-	public ArrayList<String> returnLines() throws Exception {
+	public ArrayList<String> returnLines() throws IOException {
 		if (lines != null) {
 			return lines;
 		}
 		lines = new ArrayList<String>();
 		
-		FileInputStream fstream = new FileInputStream(this.fileName);
+		FileInputStream fstream = new FileInputStream(conf.get("fileName"));
         DataInputStream in = new DataInputStream(fstream);
         BufferedReader br = new BufferedReader(new InputStreamReader(in));
         String currentLine;
-        while ((currentLine = br.readLine()) != null){
+        while ((currentLine = br.readLine()) != null) {
         	lines.add(currentLine);
         }
 		return lines;

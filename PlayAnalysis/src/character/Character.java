@@ -4,9 +4,9 @@ import java.util.*;
 import quote.Quote;
 
 public class Character {
-	private static String name;
-	private static String description;
-	private static ArrayList<Quote> quotes = new ArrayList<Quote>();
+	private String name = null;
+	private String description = null;
+	private ArrayList<Quote> quotes = new ArrayList<Quote>();
 	
 	public ArrayList<Quote> getQuotes() {
 		return quotes;
@@ -14,6 +14,14 @@ public class Character {
 	
 	public void addQuote(Quote quote) {
 		quotes.add(quote);
+	}
+	
+	public String getName() {
+		return name;
+	}
+	
+	public String getDescription() {
+		return description;
 	}
 
 	public Character(String name, String description) {

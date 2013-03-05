@@ -18,23 +18,27 @@ public class Action {
 	private String relation;
 	
 	// Subject character: The assumed person who is doing to action.
-	private static Character scharacter;
+	private String scharacter;
 	
 	// Object character (optional): Don't 
 	// necessarily need an object character.
-	private static Character ocharacter;
+	private String ocharacter;
 
-	public Action(Character scharacter, String relation) {
+	public Action(String scharacter, String relation) {
 		this.scharacter = scharacter;
 		this.relation = relation;
 	}
 	
-	public Character getSubjectCharacter() {
-		return this.scharacter;
+	public String getSubjectCharacter() {
+		return scharacter;
 	}
 	
-	public Character getObjectCharacter() {
-		return this.ocharacter;
+	public String getObjectCharacter() {
+		return ocharacter;
+	}
+	
+	public String getRelation() {
+		return relation;
 	}
 	
 	public double sentimentAnalysisScore() {
