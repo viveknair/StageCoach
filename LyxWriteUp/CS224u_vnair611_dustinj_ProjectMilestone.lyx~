@@ -80,7 +80,7 @@ Introduction
 Initially, the goal for our project was to extend the social network extraction
  research of Elson et.
  al.
- (2010) on 19th century British fiction to theatrical works.
+ on 19th century British fiction to theatrical works.
  These works often contain dialogue with attached attributions, stage directions
  for specific characters, and other structured information that allows for
  the direct creation of social networks without the use of Named Entity
@@ -101,7 +101,7 @@ How feasible is developing a structured, in-memory representation of the
 
 \begin_layout Itemize
 How could we best construct this system to iteratively test hypotheses about
- these relationship?
+ these relationships?
 \end_layout
 
 \begin_layout Standard
@@ -122,10 +122,7 @@ Previous Approaches
 \end_layout
 
 \begin_layout Standard
-As the primary goal of our project is to extract and evaluate character
- relationships from written text, we have looked to two papers which directly
- address this task.
- The first is Elson et al.
+We primarily draw from Elson et al.
  (2010)’s paper on extracting social networks from 19th Century British
  fiction.
  This approach involves using an “adjacency” metric for relatedness wherein
@@ -169,9 +166,8 @@ Current Approach
 \end_layout
 
 \begin_layout Standard
-Currently our implementation of the architecture provides class encapsulation
- for the fundamental models of a theatrical work: StageDirection, Quote,
- Character, Action.
+Our architecture provides class encapsulation for the fundamental models
+ of a theatrical work: StageDirection, Quote, Character, Action.
  Perhaps the most fundamental unit of representation in our play architecture
  is the abstract class Line, from which both StageDirection and Quote inherit.
  Through these two classes, we capture the distinction between scene-specific

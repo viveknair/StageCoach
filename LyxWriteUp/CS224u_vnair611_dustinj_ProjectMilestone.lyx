@@ -80,7 +80,7 @@ Introduction
 Initially, the goal for our project was to extend the social network extraction
  research of Elson et.
  al.
- (2010) on 19th century British fiction to theatrical works.
+ on 19th century British fiction to theatrical works.
  These works often contain dialogue with attached attributions, stage directions
  for specific characters, and other structured information that allows for
  the direct creation of social networks without the use of Named Entity
@@ -122,12 +122,15 @@ Previous Approaches
 \end_layout
 
 \begin_layout Standard
-As the primary goal of our project is to extract and evaluate character
- relationships from written text, we have looked to two papers which directly
- address this task.
- The first is Elson et al.
- (2010)’s paper on extracting social networks from 19th Century British
- fiction.
+We primarily draw from Elson et al.
+ (2010)’s paper
+\begin_inset CommandInset citation
+LatexCommand cite
+key "elson2010extracting"
+
+\end_inset
+
+ on extracting social networks from 19th Century British fiction.
  This approach involves using an “adjacency” metric for relatedness wherein
  the strength of the relationship between two characters is determined by
  the number of words exchanged between them.
@@ -140,9 +143,16 @@ As the primary goal of our project is to extract and evaluate character
 
 \begin_layout Standard
 Jing et al.
- (2007) provides more insight into constructing these character relationships
- by specifically mining dialogue (in the form of interview transcripts)
- to extract biographical and relational information.
+ (2007)
+\begin_inset CommandInset citation
+LatexCommand cite
+key "jing2007extracting"
+
+\end_inset
+
+ provides more insight into constructing these character relationships by
+ specifically mining dialogue (in the form of interview transcripts) to
+ extract biographical and relational information.
  Again, the method’s performance is highly reliant on annotation and speaker-rol
 e identification (an equivalent to quote attribution) which is build into
  the structure of theatrical works.
@@ -155,9 +165,23 @@ Other sources of inspiration for developing the system were related Information
  Extraction (IE) systems such as KnowItAll and TextRunner, as described
  in Etzioni et.
  al.
- (2005) and Banko et.
+ (2005)
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Etzioni200591"
+
+\end_inset
+
+ and Banko et.
  al.
- (2007), respectively.
+ (2007)
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Banko07openinformation"
+
+\end_inset
+
+, respectively.
  Their research in providing a structured semantic representation for unstructur
 ed relations gave us the initial idea for constructing a unified representation
  of important semantic and lexical elements of the play.
@@ -169,11 +193,38 @@ Current Approach
 \end_layout
 
 \begin_layout Standard
-Currently our implementation of the architecture provides class encapsulation
- for the fundamental models of a theatrical work: StageDirection, Quote,
- Character, Action.
- Perhaps the most fundamental unit of representation in our play architecture
- is the abstract class Line, from which both StageDirection and Quote inherit.
+StageCoach encapsulates the fundamental models of a theatrical work in several
+ classes: 
+\begin_inset Formula $\mathtt{StageDirection}$
+\end_inset
+
+, 
+\begin_inset Formula $\mathtt{Quote}$
+\end_inset
+
+, 
+\begin_inset Formula $\mathtt{Character}$
+\end_inset
+
+, and 
+\begin_inset Formula $\mathtt{Action}$
+\end_inset
+
+.
+ The most fundamental unit of representation in our play architecture is
+ the abstract class 
+\begin_inset Formula $\mathtt{Line}$
+\end_inset
+
+, from which both 
+\begin_inset Formula $\mathtt{StageDirection}$
+\end_inset
+
+ and 
+\begin_inset Formula $\mathtt{Quote}$
+\end_inset
+
+ inherit.
  Through these two classes, we capture the distinction between scene-specific
  and character-specific context - two ideas which are crucial in understanding
  the semantic scope of the theatrical work [see diagram b)].
@@ -183,25 +234,17 @@ Currently our implementation of the architecture provides class encapsulation
 \begin_layout Standard
 In order to represent temporal segments (e.g.
  ranges across lines, scenes, and acts, and arbitrary periods), we have
- defined an abstract unit of time Unit that allows for information extraction
- on user-defined units of time (e.g.
+ defined an abstract unit of time 
+\begin_inset Formula $\mathtt{Unit}$
+\end_inset
+
+ that allows for information extraction on user-defined units of time (e.g.
  number of character mentions, relations for a certain character).
  We have also started to develop a traversal architecture that moves between
  these units of time efficiently by associating acts and scenes to the Global
- Line List, a linked-list structure which holds the entire line-by-line
- representation of the play.
- The exact semantics of the architecture are shown in the diagram a).
-\end_layout
-
-\begin_layout Standard
-Perhaps the most difficult challenge so far in constructing this architecture
- was parsing each of the lines in the play and either representing each
- element as a well-formed Java object [see diagram c for an example line
- extraction] or discarding it as malformed.
- We quickly realized that there were many edge cases in handling dialogue
- and stage directions which often had special characters that were misinterprete
-d.
- 
+ Line List, a list structure which holds the entire line-by-line representation
+ of the play.
+ The exact semantics of the architecture are shown in Figure 1.
 \end_layout
 
 \begin_layout Section
@@ -223,18 +266,6 @@ We have built the basic classes and modularity of StageCoach in Java as
  We eventually expect to integrate this pre-processing step into the existing
  StageCoach architecture.
  
-\end_layout
-
-\begin_layout Standard
-We still need to improve the traversal architecture (as described in the
- previous section) to improve the precision of quote attribution.
- In particular, it is commonly the case that character’s names are listed
- in full at the beginning of a work, but only referred with aliases or abbreviat
-ions later.
- Currently, our system does not handle these cases gracefully and robustly.
- One potential solution we have considered is to use similarity metrics
- such as Levenshtein distance to determine these character aliases and abbreviat
-ions.
 \end_layout
 
 \begin_layout Standard
