@@ -381,7 +381,7 @@ In order to represent temporal segments (e.g.
  these units of time efficiently by associating acts and scenes to the Global
  Line List, a list structure which holds the entire line-by-line representation
  of the play.
- This conceptual layout of the architecture is partially shown in 
+ The conceptual layout of the architecture is partially shown in 
 \begin_inset Formula $\mathtt{Figure}$
 \end_inset
 

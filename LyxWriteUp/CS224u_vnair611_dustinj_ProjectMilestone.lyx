@@ -202,6 +202,13 @@ status open
 \begin_inset Caption
 
 \begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:1"
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename Images/StageCoachInMemory.png
 	scale 40
@@ -231,6 +238,13 @@ status open
 \begin_inset Caption
 
 \begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:2"
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename Images/TraversalSystem.png
 	scale 40
@@ -260,6 +274,13 @@ status open
 \begin_inset Caption
 
 \begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:3"
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename Images/LineClass.png
 	scale 40
@@ -289,6 +310,13 @@ status open
 \begin_inset Caption
 
 \begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:4"
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename Images/AdditionalExtraction.png
 	scale 40
@@ -319,7 +347,10 @@ StageCoach [see
 \end_inset
 
  
-\begin_inset Formula $\mathtt{1}$
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:1"
+
 \end_inset
 
 ] encapsulates the fundamental models of a theatrical work in several classes:
@@ -361,7 +392,10 @@ StageCoach [see
 \end_inset
 
  
-\begin_inset Formula $\mathtt{3}$
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:3"
+
 \end_inset
 
 ].
@@ -386,7 +420,10 @@ In order to represent temporal segments (e.g.
 \end_inset
 
  
-\begin_inset Formula $\mathtt{2}$
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:2"
+
 \end_inset
 
 .
@@ -510,7 +547,10 @@ The first obstacle we have encountered is inconsistent formatting for certain
 \end_inset
 
  
-\begin_inset Formula $4$
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:4"
+
 \end_inset
 
 ].
