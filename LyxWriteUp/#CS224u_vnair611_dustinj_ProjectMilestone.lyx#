@@ -95,24 +95,26 @@ However, we quickly realized that there is currently no existing relational
 \end_layout
 
 \begin_layout Itemize
-Could we provide a structured, in-memory representation of the semantic
- and lexical context of a play? 
+How feasible is developing a structured, in-memory representation of the
+ semantic and lexical context of character relationships in a play? 
 \end_layout
 
 \begin_layout Itemize
 How could we best construct this system to iteratively test hypotheses about
- the information in a play?
+ these relationships?
 \end_layout
 
 \begin_layout Standard
-Our Github repository can be viewed publicly at the following URL: <
+We are currently building a system named StageCoach to answer these questions.
+ The Github repository for StageCoach can be viewed publicly at the following
+ URL: <
 \begin_inset CommandInset href
 LatexCommand href
-target "https://github.com/VivekNair/NarrativeAnalysis"
+target "https://github.com/VivekNair/CS224U-StageCoach"
 
 \end_inset
 
-> 
+>
 \end_layout
 
 \begin_layout Section
@@ -362,6 +364,50 @@ The greatest obstacle for the summative evaluation is time.
  to provide gold standard results over a handful of works.
  If needed, though, we will reach out to our peers.
  
+\end_layout
+
+\begin_layout Section
+Figures
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/AdditionalExtraction.png
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/StageCoachInMemory.png
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/TraversalSystem.png
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Images/LineClass.png
+	scale 60
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
