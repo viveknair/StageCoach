@@ -192,6 +192,10 @@ ed relations gave us the initial idea for constructing a unified representation
 Current Approach
 \end_layout
 
+\begin_layout Subsection
+Architecture
+\end_layout
+
 \begin_layout Standard
 StageCoach encapsulates the fundamental models of a theatrical work in several
  classes: 
@@ -247,16 +251,10 @@ In order to represent temporal segments (e.g.
  The exact semantics of the architecture are shown in Figure 1.
 \end_layout
 
-\begin_layout Section
-Progress and Next Steps
-\end_layout
-
 \begin_layout Standard
-We have built the basic classes and modularity of StageCoach in Java as
- described in the previous section and a preprocessing script in Ruby which
- allow us to extract and relationally store the characters, quotes, and
- stage directions for Chekhov plays that conform to the Project Gutenberg
- format.
+We have built the basic classes of StageCoach in Java and a preprocessing
+ script in Ruby, which together allow us to represent Chekhov plays that
+ conform to the Project Gutenberg format.
  The Ruby script currently handles tasks unrelated to the information content
  of the play; it removes the Project Gutenberg headers and footers, html
  tags, newlines, etc.
@@ -266,6 +264,10 @@ We have built the basic classes and modularity of StageCoach in Java as
  We eventually expect to integrate this pre-processing step into the existing
  StageCoach architecture.
  
+\end_layout
+
+\begin_layout Subsection
+Network Extraction
 \end_layout
 
 \begin_layout Standard
@@ -307,7 +309,7 @@ An extension to this will make use of relation extraction, applied both
  by other methods.
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsection
 Evaluation
 \end_layout
 
