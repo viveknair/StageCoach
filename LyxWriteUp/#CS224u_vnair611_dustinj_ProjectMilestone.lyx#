@@ -69,7 +69,7 @@ Structured Relationship Extraction from Theatrical Works using StageCoach
 
 \begin_layout Author
 Vivek Nair and Dustin A.
- Janatpour
+ Janatpou
 \end_layout
 
 \begin_layout Section
@@ -192,6 +192,123 @@ ed relations gave us the initial idea for constructing a unified representation
 Current Approach
 \end_layout
 
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/StageCoachInMemory.png
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/TraversalSystem.png
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/LineClass.png
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/AdditionalExtraction.png
+	width 13cm
+	rotateOrigin center
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 Architecture
 \end_layout
@@ -291,11 +408,6 @@ The most basic metric for relatedness in a play is the number of times,
  Building off of Elson, we plan to next try an adjacency-based network generatio
 n model, which looks not for lines spoken in the same scene, but within
  some specified word distance from each other.
- Elson also mentions a “spoken reference” metric, which may require the
- application of coreference resolution to determine when characters refer
- to each other.
- In this method, it is supposed that is Character A frequently mentions
- Character B, then the two are likely to have a strong relationship.
 \end_layout
 
 \begin_layout Standard
@@ -309,33 +421,23 @@ An extension to this will make use of relation extraction, applied both
  by other methods.
 \end_layout
 
-\begin_layout Standard
-
+\begin_layout Subsection
+Evaluation
 \end_layout
 
 \begin_layout Standard
-The modularity of our representation should allow us to mix and match these
- methods, as well as modify them iteratively.
- We can easily change a method which uses a 300-word window to measure adjacency
- to instead use Scenes, or entire Acts, or the set of all scenes which contain
- the word “gun.” We can choose to use only Quotes, or only StageDirections,
- or both (though in general, stage directions aren’t associated to any single
- character).
- We can give special attention to extracted actions, or compare the social
- network from the first half of a play to that in the second half.
-\end_layout
+Our formative evaluation methods will necessarily be qualitative and manual.
+ We will need to exploit the modularity of our architecture to run many
+ different social network construction techniques, beginning with the 
+\begin_inset Quotes eld
+\end_inset
 
-\begin_layout Standard
-The value of this modularity is that it will allow us to do manual, qualitative,
- formative evaluation in a reasonable timeframe.
- By using a small development set we can get each of these methods to a
- point where we can at least confirm that it is producing the expected,
- if not precise, output.
- Then, once we’ve designed a battery of methods to run, we will easily be
- able to parse new plays and try every method on each new one.
- In this stage, we will have to rely on seeing what “looks right,” as there
- is no automatic gold standard for the social networks implicit in theatrical
- works.
+low-hanging fruit
+\begin_inset Quotes erd
+\end_inset
+
+ of very intuitive approaches such as scene coappearance.
+ From there we will need to run ma
 \end_layout
 
 \begin_layout Standard
@@ -397,50 +499,6 @@ The greatest obstacle for the summative evaluation is time.
  to provide gold standard results over a handful of works.
  If needed, though, we will reach out to our peers.
  
-\end_layout
-
-\begin_layout Section
-Figures
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename Images/StageCoachInMemory.png
-	scale 60
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename Images/TraversalSystem.png
-	scale 60
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename Images/LineClass.png
-	scale 60
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename Images/AdditionalExtraction.png
-	width 13cm
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard

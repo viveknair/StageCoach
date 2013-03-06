@@ -69,7 +69,7 @@ Structured Relationship Extraction from Theatrical Works using StageCoach
 
 \begin_layout Author
 Vivek Nair and Dustin A.
- Janatpour
+ Janatpou
 \end_layout
 
 \begin_layout Section
@@ -192,6 +192,123 @@ ed relations gave us the initial idea for constructing a unified representation
 Current Approach
 \end_layout
 
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/StageCoachInMemory.png
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/TraversalSystem.png
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/LineClass.png
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Images/AdditionalExtraction.png
+	scale 40
+	rotateOrigin center
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 Architecture
 \end_layout
@@ -291,11 +408,6 @@ The most basic metric for relatedness in a play is the number of times,
  Building off of Elson, we plan to next try an adjacency-based network generatio
 n model, which looks not for lines spoken in the same scene, but within
  some specified word distance from each other.
- Elson also mentions a “spoken reference” metric, which may require the
- application of coreference resolution to determine when characters refer
- to each other.
- In this method, it is supposed that is Character A frequently mentions
- Character B, then the two are likely to have a strong relationship.
 \end_layout
 
 \begin_layout Standard
@@ -314,36 +426,35 @@ Evaluation
 \end_layout
 
 \begin_layout Standard
-The modularity of our representation should allow us to mix and match these
- methods, as well as modify them iteratively.
- We can easily change a method which uses a 300-word window to measure adjacency
- to instead use Scenes, or entire Acts, or the set of all scenes which contain
- the word “gun.” We can choose to use only Quotes, or only StageDirections,
- or both (though in general, stage directions aren’t associated to any single
- character).
- We can give special attention to extracted actions, or compare the social
- network from the first half of a play to that in the second half.
+Our formative evaluation methods will necessarily be qualitative and manual.
+ We will need to exploit the modularity of our architecture to run many
+ different social network construction techniques, beginning with the 
+\begin_inset Quotes eld
+\end_inset
+
+low-hanging fruit
+\begin_inset Quotes erd
+\end_inset
+
+ of very intuitive approaches such as scene coappearance.
+ As we try new methods, we will use theatrical works with which we are familiar
+ to establish a set of results that 
+\begin_inset Quotes eld
+\end_inset
+
+looks right
+\begin_inset Quotes erd
+\end_inset
+
+ before testing the methods on other works.
+ 
 \end_layout
 
 \begin_layout Standard
-The value of this modularity is that it will allow us to do manual, qualitative,
- formative evaluation in a reasonable timeframe.
- By using a small development set we can get each of these methods to a
- point where we can at least confirm that it is producing the expected,
- if not precise, output.
- Then, once we’ve designed a battery of methods to run, we will easily be
- able to parse new plays and try every method on each new one.
- In this stage, we will have to rely on seeing what “looks right,” as there
- is no automatic gold standard for the social networks implicit in theatrical
- works.
-\end_layout
-
-\begin_layout Standard
-We will need a gold standard, though, to perform a quantitative summative
+We will need a gold standard, though, to perform a quantitative, summative
  evaluation and determine the success of our work.
  This will still need to be manual, as the only gold standard we can hope
- for is human understanding of the relationships presented in a theatrical
- work.
+ for is human understanding of the relationships presented.
  To do this, we will select 3 or 4 plays, or perhaps 3 or 4 Acts from plays
  that we will use as our test dataset.
  We can ask annotators to provide “yes” or “no” answers regarding whether
@@ -354,8 +465,8 @@ ter relationship (e.g.
 \end_layout
 
 \begin_layout Standard
-We’ll then need to correct for inter-annotator agreement and map our continuousl
-y weighted edges to binary labels on each relationship.
+We’ll then need to measure Cohen's kappa for our annotators and map our
+ continuously weighted edges to binary labels on each relationship.
  With these, we’ll easily be able to compute precision and recall over the
  presence and absence of relationships.
  For specific relationships (if we include that approach), we will be much
@@ -373,12 +484,6 @@ The first obstacle we have encountered is inconsistent formatting, even
  These inconsistencies prevented us from generalizing the initial parsing
  steps, but we hope that by expanding the preprocessing script we can make
  this critical step a fairly robust one.
- A previous obstacle was the extreme non-triviality of quote attribution
- (a subtask which Elson et al.
- (2010) glosses over by referring to another paper).
- We are circumventing this by using plays, which have built-in quote attribution
-, but we have yet to get full usage out of this and need to account for
- edge cases in order to do so.
 \end_layout
 
 \begin_layout Standard
@@ -389,58 +494,6 @@ Once we have the data structure fully functional and the parser operating
  We can personally annotate a few development examples to use as targets,
  but in the end we’ll be doing a lot of evaluation by inspection to improve
  our results from run to run.
-\end_layout
-
-\begin_layout Standard
-The greatest obstacle for the summative evaluation is time.
- In an ideal scenario, we’d reach out to the Drama or English Department
- to provide gold standard results over a handful of works.
- If needed, though, we will reach out to our peers.
- 
-\end_layout
-
-\begin_layout Section
-Figures
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename Images/StageCoachInMemory.png
-	scale 60
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename Images/TraversalSystem.png
-	scale 60
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename Images/LineClass.png
-	scale 60
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename Images/AdditionalExtraction.png
-	width 13cm
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
