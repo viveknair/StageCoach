@@ -314,8 +314,16 @@ Architecture
 \end_layout
 
 \begin_layout Standard
-StageCoach encapsulates the fundamental models of a theatrical work in several
- classes: 
+StageCoach [see 
+\begin_inset Formula $\mathtt{Figure}$
+\end_inset
+
+ 
+\begin_inset Formula $\mathtt{1}$
+\end_inset
+
+] encapsulates the fundamental models of a theatrical work in several classes:
+ 
 \begin_inset Formula $\mathtt{StageDirection}$
 \end_inset
 
@@ -348,7 +356,15 @@ StageCoach encapsulates the fundamental models of a theatrical work in several
  inherit.
  Through these two classes, we capture the distinction between scene-specific
  and character-specific context - two ideas which are crucial in understanding
- the semantic scope of the theatrical work [see diagram b)].
+ the semantic scope of the theatrical work [see 
+\begin_inset Formula $\mathtt{Figure}$
+\end_inset
+
+ 
+\begin_inset Formula $\mathtt{3}$
+\end_inset
+
+].
  
 \end_layout
 
@@ -365,7 +381,15 @@ In order to represent temporal segments (e.g.
  these units of time efficiently by associating acts and scenes to the Global
  Line List, a list structure which holds the entire line-by-line representation
  of the play.
- The exact semantics of the architecture are shown in Figure 1.
+ This conceptual layout of the architecture is partially shown in 
+\begin_inset Formula $\mathtt{Figure}$
+\end_inset
+
+ 
+\begin_inset Formula $\mathtt{2}$
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
@@ -479,35 +503,30 @@ Obstacles
 \end_layout
 
 \begin_layout Standard
-The first obstacle we have encountered is inconsistent formatting, even
- for plays by a single author and obtained from a single source.
+The first obstacle we have encountered is inconsistent formatting for certain
+ input plays, an issue which results in incorrect data representation in
+ StageCoach's parsing system [see 
+\begin_inset Formula $\mathtt{Figure}$
+\end_inset
+
+ 
+\begin_inset Formula $4$
+\end_inset
+
+].
  These inconsistencies prevented us from generalizing the initial parsing
  steps, but we hope that by expanding the preprocessing script we can make
- this critical step a fairly robust one.
- A previous obstacle was the extreme non-triviality of quote attribution
- (a subtask which Elson et al.
- (2010) glosses over by referring to another paper).
- We are circumventing this by using plays, which have built-in quote attribution
-, but we have yet to get full usage out of this and need to account for
- edge cases in order to do so.
+ this critical step fairly robust.
 \end_layout
 
 \begin_layout Standard
 Once we have the data structure fully functional and the parser operating
  smoothly, the biggest hurdle will be evaluation, both formative and summative.
  In our formative evaluation, it is simply infeasible to take a thorough
- quantitative approach for every extraction method we’d like to test.
+ quantitative approach for every extraction method we would like to test.
  We can personally annotate a few development examples to use as targets,
  but in the end we’ll be doing a lot of evaluation by inspection to improve
  our results from run to run.
-\end_layout
-
-\begin_layout Standard
-The greatest obstacle for the summative evaluation is time.
- In an ideal scenario, we’d reach out to the Drama or English Department
- to provide gold standard results over a handful of works.
- If needed, though, we will reach out to our peers.
- 
 \end_layout
 
 \begin_layout Standard
