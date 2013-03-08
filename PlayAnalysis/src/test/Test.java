@@ -2,7 +2,7 @@ package test;
 import java.io.IOException;
 
 import play.Play;
-import quote.Quote;
+import line.quote.Quote;
 import configuration.PlayConfig;
 import configuration.PlayType;
 

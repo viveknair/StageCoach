@@ -1,16 +1,18 @@
-package stage_direction;
+package line.stage_direction;
+
+import line.Line;
 
 import java.util.*;
 import character.Character;
 
-public class StageDirection {
+public class StageDirection extends Line {
 	private String description;
 	
 	public StageDirection(String description) {
 		this.description = description;
 	}
 	
-	public String getDescription(String Description) {
+	public String getDescription() {
 		return description;
 	}
 	

@@ -1,7 +1,7 @@
 package character;
 
 import java.util.*;
-import quote.Quote;
+import line.quote.Quote;
 
 public class Character {
 	private String name = null;

@@ -6,11 +6,11 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import time.*;
-import quote.*;
+import line.quote.*;
 import configuration.*;
 import character.Character;
 import action.Action;
-import stage_direction.StageDirection;
+import line.stage_direction.StageDirection;
 
 public class Play {
 	private static final String FILE_NAME_KEY = "fileName";
