@@ -1,6 +1,7 @@
 package line.quote;
 
 import line.Line;
+import line.LineType;
 
 import java.util.*;
 import java.util.regex.Matcher;
@@ -75,7 +76,8 @@ public class Quote extends Line {
 		}
 	}
 
-	public Quote(String speaker, String rawQuote) {
+	public Quote(LineType type, String speaker, String rawQuote) {
+		super(type);
 		this.rawQuote = rawQuote;
 		this.speaker = speaker;
 		

@@ -6,6 +6,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import time.*;
+import line.LineType;
 import line.quote.*;
 import configuration.*;
 import character.Character;
@@ -98,7 +99,7 @@ public class Play {
 			}
 			if (mainDirection != null) {
 				System.out.println("The stage direction is " + mainDirection);
-				return new StageDirection(mainDirection);
+				return new StageDirection(LineType.STAGE_DIRECTION, mainDirection);
 			}
 		}
 		return null; 
@@ -118,7 +119,7 @@ public class Play {
 			String restQuote = concatenateTokens(quoteTokenizer);
 			if (restQuote != null) {
 				System.out.println(restQuote);
-				Quote newQuote = new Quote(potentialCharacter, restQuote);
+				Quote newQuote = new Quote(LineType.QUOTE, potentialCharacter, restQuote);
 				for( Action action : newQuote.getActions()) {
 					System.out.println("	action: " + action.getRelation());
 				}

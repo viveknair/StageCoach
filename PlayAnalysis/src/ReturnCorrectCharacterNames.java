@@ -34,7 +34,7 @@ public class ReturnCorrectCharacterNames {
 	}
 
 	@Test
-	public void test() {
+	public void returnCorrectCharacterNames() {
 		characters = currentPlay.returnCharacters(null, null);
 		ArrayList<String> returnCharNames = new ArrayList<String>();
 		// For now we'll check for the character names.
