@@ -5,7 +5,7 @@ import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import unit.*;
+import time.*;
 import quote.*;
 import configuration.*;
 import character.Character;
@@ -19,7 +19,6 @@ public class Play {
 	private static final char STAGE_DIRECTION_ITEM = '[';
 	
 	private Pattern p = Pattern.compile("\\[(.*?)\\]");
-
 	
 	private String title = null;
 	private HashMap<String, Character> characters = new HashMap<String, Character>();
@@ -152,7 +151,16 @@ public class Play {
 			}
 		}
 	}
-
+	
+	// Definitely could be an all-encompassing 
+	// play construction. Why would they want 
+	// to split up these features?
+	public void constructPlay() {
+		constructFeatures();
+		constructLineList(); 
+	}
+	
+	// Should I make this public? 
 	public void constructFeatures() {
 		try {
 			System.out.println("The file name is: " + pconf.get("fileName"));
@@ -164,6 +172,11 @@ public class Play {
 		parseTitle();
 		parseCharacters();
 		parseBodyLines();
+	}
+	
+	// Should I make this public?
+	public void constructLineList() {
+		// TODO Construct the line list.
 	}
 	
 	private String concatenateTokens(StringTokenizer tokenizer) {
@@ -180,7 +193,7 @@ public class Play {
 	 * 
 	 * TODO: Rewrite so we can access characters for a given act or scene
 	 */
-	public HashMap<String, Character> returnCharacters(Unit stime, Unit etime) {
+	public HashMap<String, Character> returnCharacters(TimeUnit stime, TimeUnit etime) {
 		// Traversal of the linked list to gather all of the characters	
 		// Returns the characters at the defined unit of time
 		//TODO: Add time component
