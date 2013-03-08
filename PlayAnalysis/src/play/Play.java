@@ -196,6 +196,8 @@ public class Play {
 	public HashMap<String, Character> returnCharacters(TimeUnit stime, TimeUnit etime) {
 		// Traversal of the linked list to gather all of the characters	
 		// Returns the characters at the defined unit of time
+		// We DON't want to edge case in here for values of stime and etime but
+		// for now we'll concentrate on it returning the proper characters.
 		//TODO: Add time component
 		if (!characters.isEmpty()) {
 			return characters;

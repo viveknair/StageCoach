@@ -10,13 +10,9 @@ public abstract class Line {
 		return description; 
 	}
 	
-	// This logic is not specific to either Quote or
-	// StageDirection
+	// This logic is not specific to either 
+	// Quote or StageDirection
 	public TimeUnit returnLocation() {
 		return null; 
-	}
-	
-	public Line(String description) {
-		this.description = description; 
-	}
+	}	
 }
