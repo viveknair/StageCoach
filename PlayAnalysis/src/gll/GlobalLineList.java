@@ -1,5 +1,6 @@
 package gll;
 
+import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.List;
@@ -9,12 +10,30 @@ import line.Line;
 import gll.LineNodeHeader;
 
 public class GlobalLineList implements List<GlobalLineNode>{
-	GlobalLineNode rootGll = new GlobalLineNode(null, LineNodeHeader.START, null);
-	GlobalLineNode tailGll = rootGll; 
+	// Instantiate the pure line linked list
+	GlobalLineNode rootLineGll = new GlobalLineNode(null, LineNodeHeader.START, null);
+	GlobalLineNode tailLineGll = rootLineGll; 
+	
+	// Instantiate the pure scene linked list
+	GlobalLineNode tailSceneGll = rootLineGll;
+	
+	// Instantiate the pure scene linked list
+	GlobalLineNode tailActGll = rootLineGll;
 	
 	public void addLine(Line nextLine, LineNodeHeader header) {
-		GlobalLineNode nextNode = new GlobalLineNode(tailGll, header, nextLine);
-		tailGll.setNext(nextNode);
+		ArrayList<GlobalLineNode> transitionNodes = new ArrayList<GlobalLineNode>(); 
+		transitionNodes.add(tailLineGll);
+		transitionNodes.add(tailSceneGll);
+		transitionNodes.add(tailActGll);
+		GlobalLineNode nextNode = new GlobalLineNode(transitionNodes, header, nextLine);
+		
+		if (nextNode.getHeader().equals(LineNodeHeader.ACT)) {
+			tailActGll = nextNode; 
+		}
+		
+		if (nextNode.getHeader().equals(LineNodeHeader.SCENE)) {
+			tailSceneGll = nextNode; 	
+		}
 	}
 
 	@Override

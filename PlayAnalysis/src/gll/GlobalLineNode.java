@@ -1,11 +1,35 @@
 package gll;
 
+import java.util.ArrayList;
+import java.util.HashMap;
+
 import line.LineType;
 import line.Line; 
 
 public class GlobalLineNode {
-	private GlobalLineNode prev;
-	private GlobalLineNode next; 
+	
+	private class NodeTransition {
+		private GlobalLineNode prev = null;
+		private GlobalLineNode next = null; 
+		
+		public void setPrevious(GlobalLineNode prev) {
+			this.prev = prev; 
+		}
+		
+		public void setNext(GlobalLineNode next) {
+			this.next = next; 
+		}
+		
+		public GlobalLineNode getPrevious() {
+			return prev; 
+		}
+		
+		public GlobalLineNode getNext() {
+			return next; 
+		}
+	}
+	
+	HashMap<LineNodeHeader, NodeTransition> transitions = new HashMap<LineNodeHeader, NodeTransition> (); 
 	
 	private LineNodeHeader header;
 	private Line internalLine = null; 
@@ -31,27 +55,20 @@ public class GlobalLineNode {
 		return gllIndex; 
 	}
 	
-	public void setNext(GlobalLineNode next) {
-		this.next = next; 
+	private void setTransitions(ArrayList<GlobalLineNode> headerNodes) {
+		for(GlobalLineNode headerNode : headerNodes) {
+			NodeTransition transition = new NodeTransition(); 
+			transition.setPrevious(headerNode);
+			transition.setNext(null);
+			transitions.put(headerNode.getHeader(), transition);
+		}
 	}
-	
-	public void setPrevious(GlobalLineNode prev) {
-		this.prev = prev; 
-	}
-	
-	public GlobalLineNode getNext() {
-		return next; 
-	}
-	
-	public GlobalLineNode getPrevious() {
-		return prev; 
-	}
-	
-	public GlobalLineNode(GlobalLineNode prev, LineNodeHeader header, Line line) {
+
+	public GlobalLineNode(ArrayList<GlobalLineNode> headerNodes, LineNodeHeader header, Line line) {
 		this.header = header; 
 		
 		setLine(line);
-		setHeader(header); 
-		setPrevious(prev);
+		setHeader(header);
+		setTransitions(headerNodes); 
 	}
 }

@@ -6,6 +6,7 @@ import line.quote.Quote;
 import configuration.PlayConfig;
 import configuration.PlayType;
 
+// Green Test: Basically to see if the code is running correctly or not.
 public class GreenTest {
 	
 	public static void main(String [] args) throws IOException {

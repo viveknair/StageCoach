@@ -9,12 +9,6 @@ public abstract class Line {
 
 	public String getDescription() {
 		return description; 
-	}
-	
-	// This logic is not specific to either 
-	// Quote or StageDirection
-	public TimeUnit returnLocation() {
-		return null; 
 	}	
 	
 	public Line(LineType type) {
