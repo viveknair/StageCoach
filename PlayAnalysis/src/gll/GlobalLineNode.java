@@ -3,7 +3,6 @@ package gll;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import line.LineType;
 import line.Line; 
 
 public class GlobalLineNode {

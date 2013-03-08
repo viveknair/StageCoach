@@ -7,6 +7,7 @@ public abstract class Line {
 	private String description = null;
 	private LineType type = LineType.QUOTE; 
 
+	// Is this necessary?
 	public String getDescription() {
 		return description; 
 	}	
