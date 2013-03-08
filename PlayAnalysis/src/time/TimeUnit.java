@@ -1,4 +1,4 @@
-package unit;
+package time;
 
 import configuration.*;
 
@@ -8,17 +8,20 @@ import configuration.*;
  * 			This will have to involve implemented a custom configuration object that
  * 			defines the behavior of a custom traversal. 
 */
-public class Unit {
+public class TimeUnit {
 
 	private static UnitConfig uconf;
 
-	public Unit(UnitConfig uconf) {
+	public TimeUnit(UnitConfig uconf) {
 		this.uconf = uconf;
 	}
 
-
-	public Unit() {
+	public TimeUnit() {
 		// Defaults to play execution (e.g. action or dialogue point)
 		this( new UnitConfig(UnitType.DEFAULT));
+	}
+	
+	public int setState(int cstate) {
+		return cstate;
 	}
 }
