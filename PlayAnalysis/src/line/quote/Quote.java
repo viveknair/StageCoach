@@ -1,4 +1,7 @@
-package quote;
+package line.quote;
+
+import line.Line;
+import line.LineType;
 
 import java.util.*;
 import java.util.regex.Matcher;
@@ -7,7 +10,7 @@ import java.util.regex.Pattern;
 import character.Character;
 import action.Action;
 
-public class Quote {
+public class Quote extends Line {
 
 	private static final Pattern bracketsPattern = Pattern.compile("\\[(.*?)\\]");
 	
@@ -73,7 +76,8 @@ public class Quote {
 		}
 	}
 
-	public Quote(String speaker, String rawQuote) {
+	public Quote(LineType type, String speaker, String rawQuote) {
+		super(type);
 		this.rawQuote = rawQuote;
 		this.speaker = speaker;
 		

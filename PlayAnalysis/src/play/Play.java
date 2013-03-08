@@ -6,11 +6,12 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import time.*;
-import quote.*;
+import line.LineType;
+import line.quote.*;
 import configuration.*;
 import character.Character;
 import action.Action;
-import stage_direction.StageDirection;
+import line.stage_direction.StageDirection;
 
 public class Play {
 	private static final String FILE_NAME_KEY = "fileName";
@@ -98,7 +99,7 @@ public class Play {
 			}
 			if (mainDirection != null) {
 				System.out.println("The stage direction is " + mainDirection);
-				return new StageDirection(mainDirection);
+				return new StageDirection(LineType.STAGE_DIRECTION, mainDirection);
 			}
 		}
 		return null; 
@@ -118,7 +119,7 @@ public class Play {
 			String restQuote = concatenateTokens(quoteTokenizer);
 			if (restQuote != null) {
 				System.out.println(restQuote);
-				Quote newQuote = new Quote(potentialCharacter, restQuote);
+				Quote newQuote = new Quote(LineType.QUOTE, potentialCharacter, restQuote);
 				for( Action action : newQuote.getActions()) {
 					System.out.println("	action: " + action.getRelation());
 				}
@@ -196,6 +197,8 @@ public class Play {
 	public HashMap<String, Character> returnCharacters(TimeUnit stime, TimeUnit etime) {
 		// Traversal of the linked list to gather all of the characters	
 		// Returns the characters at the defined unit of time
+		// We DON't want to edge case in here for values of stime and etime but
+		// for now we'll concentrate on it returning the proper characters.
 		//TODO: Add time component
 		if (!characters.isEmpty()) {
 			return characters;
