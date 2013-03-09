@@ -7,24 +7,41 @@ import java.util.List;
 import java.util.ListIterator;
 
 import line.Line;
+import line.LineType;
+import line.meta_information.MetaInformation;
 import gll.LineNodeHeader;
 
 public class GlobalLineList implements List<GlobalLineNode>{
-	// Instantiate the pure line linked list
-	GlobalLineNode rootLineGll = new GlobalLineNode(null, LineNodeHeader.START, null);
-	GlobalLineNode tailLineGll = rootLineGll; 
+	// Instantiate the line linked list
+	GlobalLineNode rootNodeGll; 
+	GlobalLineNode tailLineGll; 
 	
-	// Instantiate the pure scene linked list
-	GlobalLineNode tailSceneGll = rootLineGll;
+	// Instantiate the scene linked list
+	GlobalLineNode tailSceneGll;
 	
-	// Instantiate the pure scene linked list
-	GlobalLineNode tailActGll = rootLineGll;
+	// Instantiate the act linked list
+	GlobalLineNode tailActGll;
 	
-	public void addLine(Line nextLine, LineNodeHeader header) {
-		ArrayList<GlobalLineNode> transitionNodes = new ArrayList<GlobalLineNode>(); 
+	ArrayList<GlobalLineNode> transitionNodes; 
+	
+	private static final String ROOT_NODE_DESCRIPTION = "Root node:";
+	
+	public GlobalLineList() {
+		Line rootLineGll = new MetaInformation(ROOT_NODE_DESCRIPTION);
+		rootNodeGll = new GlobalLineNode(null, LineNodeHeader.START, rootLineGll);
+		tailLineGll = rootNodeGll; 
+		tailSceneGll = rootNodeGll; 
+		tailActGll = rootNodeGll; 
+		
+		transitionNodes = new ArrayList<GlobalLineNode>();
+		// Instantiate these instance variables
 		transitionNodes.add(tailLineGll);
 		transitionNodes.add(tailSceneGll);
 		transitionNodes.add(tailActGll);
+		transitionNodes.add(rootNodeGll);
+	}
+		
+	public void addLine(Line nextLine, LineNodeHeader header) {
 		GlobalLineNode nextNode = new GlobalLineNode(transitionNodes, header, nextLine);
 		
 		if (nextNode.getHeader().equals(LineNodeHeader.ACT)) {
@@ -34,6 +51,23 @@ public class GlobalLineList implements List<GlobalLineNode>{
 		if (nextNode.getHeader().equals(LineNodeHeader.SCENE)) {
 			tailSceneGll = nextNode; 	
 		}
+	}
+	
+	// Write out the line, act, and scene linked list.
+	@Override
+	public String toString() {
+		StringBuffer lineList = new StringBuffer("");
+		GlobalLineNode currentNode = rootNodeGll;
+		// Currently this will only work for one node since 
+		// flags for next are 'null'.
+		while (currentNode != null) {
+			// More informative test later.
+			Line currentLine = currentNode.getLine();
+			lineList.append(currentLine.toString() + "\n");
+			
+			currentNode = currentNode.getNextNode(LineNodeHeader.DEFAULT);
+		}
+		return lineList.toString(); 
 	}
 
 	@Override

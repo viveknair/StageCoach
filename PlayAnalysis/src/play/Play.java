@@ -10,6 +10,7 @@ import line.LineType;
 import line.quote.*;
 import configuration.*;
 import character.Character;
+import gll.GlobalLineList;
 import action.Action;
 import line.stage_direction.StageDirection;
 
@@ -22,6 +23,7 @@ public class Play {
 	private Pattern p = Pattern.compile("\\[(.*?)\\]");
 	
 	private String title = null;
+	private GlobalLineList gll; 
 	private HashMap<String, Character> characters = new HashMap<String, Character>();
 	private ArrayList<Quote> quotes = new ArrayList<Quote>();
 	private ArrayList<StageDirection> stageDirections = new ArrayList<StageDirection>();
@@ -35,6 +37,7 @@ public class Play {
 
 	public Play(PlayConfig pconf) {
 		this.pconf = pconf;
+		gll = new GlobalLineList();
 	}
 	
 	public String getTitle() {
@@ -99,7 +102,7 @@ public class Play {
 			}
 			if (mainDirection != null) {
 				System.out.println("The stage direction is " + mainDirection);
-				return new StageDirection(LineType.STAGE_DIRECTION, mainDirection);
+				return new StageDirection(mainDirection);
 			}
 		}
 		return null; 
@@ -116,14 +119,23 @@ public class Play {
 		// the play. This matches the Project Gutenberg convention
 		// for denoting characters.
 		if (potentialCharacter.equals(potentialCharacter.toUpperCase())) {
-			String restQuote = concatenateTokens(quoteTokenizer);
-			if (restQuote != null) {
-				System.out.println(restQuote);
-				Quote newQuote = new Quote(LineType.QUOTE, potentialCharacter, restQuote);
-				for( Action action : newQuote.getActions()) {
-					System.out.println("	action: " + action.getRelation());
+			ArrayList<String> charNames = new ArrayList<String>(characters.keySet());
+			Character foundCharacter = null;
+			for (String charName : charNames) {
+				if (charName.indexOf(potentialCharacter) != -1) {
+					foundCharacter = characters.get(charName);
 				}
-				return newQuote;
+			}
+			if (foundCharacter != null) {
+				String restQuote = concatenateTokens(quoteTokenizer);
+				if (restQuote != null) {
+					System.out.println(restQuote);
+					Quote newQuote = new Quote(foundCharacter, restQuote);
+					for (Action action : newQuote.getActions()) {
+						System.out.println("	Action: " + action.getRelation());
+					}
+					return newQuote;
+				}
 			}
 		}
 		return null; 
