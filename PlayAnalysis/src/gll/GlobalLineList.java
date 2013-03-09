@@ -45,7 +45,7 @@ public class GlobalLineList implements List<GlobalLineNode>{
 		GlobalLineNode nextNode = new GlobalLineNode(transitionNodes, header, nextLine);
 		
 		if (nextNode.getHeader().equals(LineNodeHeader.ACT)) {
-			tailActGll = nextNode; 
+			tailActGll = nextNode;
 		}
 		
 		if (nextNode.getHeader().equals(LineNodeHeader.SCENE)) {
