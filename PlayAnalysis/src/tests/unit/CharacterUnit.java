@@ -26,7 +26,7 @@ public class CharacterUnit {
 	@Test
 	public void basicAssertions() {
 		assertTrue(character.getName().equals("Vivek Nair"));
-		assertTrue(character.getDescription().equals("Some description"));	
+		assertTrue(character.getDescription().equals("Some description"));
 	}
 	
 	@Test

@@ -37,7 +37,6 @@ public class Play {
 
 	public Play(PlayConfig pconf) {
 		this.pconf = pconf;
-		gll = new GlobalLineList();
 	}
 	
 	public String getTitle() {
@@ -174,10 +173,10 @@ public class Play {
 		constructLineList(); 
 	}
 	
-	// Should I make this public? 
-	public void constructFeatures() {
+	// Creating the boilerplate for constructing the line list
+	private void constructFeatures() {
 		try {
-			System.out.println("The file name is: " + pconf.get("fileName"));
+			System.out.println("About to read from the file: " + pconf.get("fileName"));
 			rawLines = pconf.returnLines();
 		} catch(IOException e) {
 			System.out.println("Error with the reading of the fileName: " + pconf.get("fileName"));
@@ -188,9 +187,9 @@ public class Play {
 		parseBodyLines();
 	}
 	
-	// Should I make this public?
-	public void constructLineList() {
-		// TODO Construct the line list.
+	// Creating the boilerplate for constructing the line list
+	private void constructLineList() {
+		gll = new GlobalLineList();
 	}
 	
 	private String concatenateTokens(StringTokenizer tokenizer) {
