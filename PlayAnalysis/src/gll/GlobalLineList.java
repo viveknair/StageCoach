@@ -7,7 +7,6 @@ import java.util.List;
 import java.util.ListIterator;
 
 import line.Line;
-import line.LineType;
 import line.meta_information.MetaInformation;
 import gll.LineNodeHeader;
 
@@ -29,12 +28,14 @@ public class GlobalLineList implements List<GlobalLineNode>{
 	public GlobalLineList() {
 		Line rootLineGll = new MetaInformation(ROOT_NODE_DESCRIPTION);
 		rootNodeGll = new GlobalLineNode(null, LineNodeHeader.START, rootLineGll);
-		tailLineGll = rootNodeGll; 
-		tailSceneGll = rootNodeGll; 
+		
+		// Three different linked lists for line, scene, and act.
+		tailLineGll = rootNodeGll;
+		tailSceneGll = rootNodeGll;
 		tailActGll = rootNodeGll; 
 		
 		transitionNodes = new ArrayList<GlobalLineNode>();
-		// Instantiate these instance variables
+		
 		transitionNodes.add(tailLineGll);
 		transitionNodes.add(tailSceneGll);
 		transitionNodes.add(tailActGll);
@@ -58,10 +59,10 @@ public class GlobalLineList implements List<GlobalLineNode>{
 	public String toString() {
 		StringBuffer lineList = new StringBuffer("");
 		GlobalLineNode currentNode = rootNodeGll;
+		
 		// Currently this will only work for one node since 
 		// flags for next are 'null'.
 		while (currentNode != null) {
-			// More informative test later.
 			Line currentLine = currentNode.getLine();
 			lineList.append(currentLine.toString() + "\n");
 			

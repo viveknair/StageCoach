@@ -21,8 +21,9 @@ public class GlobalLineListOutput {
 	public void instantiateGll() {
 		gll = new GlobalLineList();
 		Line nextLine1 = new MetaInformation("LineType1");
+		Line nextLine2 = new MetaInformation("LineType2");
 		gll.addLine(nextLine1, LineNodeHeader.DEFAULT);
-		// gll.addLine(nextLine2, LineNodeHeader.DEFAULT);
+		gll.addLine(nextLine2, LineNodeHeader.SCENE);
 	}
 	
 	@Test
