@@ -39,18 +39,30 @@ public class GlobalLineList implements List<GlobalLineNode>{
 		transitionNodes.add(tailLineGll);
 		transitionNodes.add(tailSceneGll);
 		transitionNodes.add(tailActGll);
-		transitionNodes.add(rootNodeGll);
 	}
 		
 	public void addLine(Line nextLine, LineNodeHeader header) {
-		GlobalLineNode nextNode = new GlobalLineNode(transitionNodes, header, nextLine);
 		
-		if (nextNode.getHeader().equals(LineNodeHeader.ACT)) {
-			tailActGll = nextNode;
+		// Instantiates the links on its own
+		new GlobalLineNode(transitionNodes, header, nextLine);
+		
+		GlobalLineNode nextActGll = tailActGll.getNextNode(LineNodeHeader.ACT);
+		GlobalLineNode nextSceneGll = tailSceneGll.getNextNode(LineNodeHeader.SCENE);
+		GlobalLineNode nextLineGll = tailLineGll.getNextNode(LineNodeHeader.DEFAULT);
+
+		if (nextLineGll != null) {
+			transitionNodes.remove(0);
+			transitionNodes.add(0, nextLineGll);
+		}
+	
+		if (nextSceneGll != null) {
+			transitionNodes.remove(1);
+			transitionNodes.add(1, nextSceneGll);
 		}
 		
-		if (nextNode.getHeader().equals(LineNodeHeader.SCENE)) {
-			tailSceneGll = nextNode; 	
+		if (nextActGll != null) {
+			transitionNodes.remove(2);
+			transitionNodes.add(2, nextActGll);
 		}
 	}
 	
@@ -60,8 +72,6 @@ public class GlobalLineList implements List<GlobalLineNode>{
 		StringBuffer lineList = new StringBuffer("");
 		GlobalLineNode currentNode = rootNodeGll;
 		
-		// Currently this will only work for one node since 
-		// flags for next are 'null'.
 		while (currentNode != null) {
 			Line currentLine = currentNode.getLine();
 			lineList.append(currentLine.toString() + "\n");

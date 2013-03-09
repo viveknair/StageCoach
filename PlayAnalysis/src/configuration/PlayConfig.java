@@ -58,7 +58,6 @@ public class PlayConfig {
 		return stageDirections; 
 	}
 	
-	// Creating the boilerplate for constructing the line list
 	public void constructFeatures() {
 		try {
 			System.out.println("About to read from the file: " + conf.get(FILE_NAME_KEY));

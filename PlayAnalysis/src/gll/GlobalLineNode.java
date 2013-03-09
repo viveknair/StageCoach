@@ -61,23 +61,38 @@ public class GlobalLineNode {
 		return transition.getNext();
 	}
 	
+	public void setNextNode(LineNodeHeader header, GlobalLineNode nextNode) {
+		NodeTransition transition = transitions.get(header);
+		transition.setNext(nextNode);
+		transitions.put(header, transition);
+	}
+	
 	private void setTransitions(ArrayList<GlobalLineNode> headerNodes) {
-		System.out.println(headerNodes);
-		for(GlobalLineNode headerNode : headerNodes) {
+		for(int i = 0; i < headerNodes.size(); i++) {
+			GlobalLineNode headerNode = headerNodes.get(i);
 			NodeTransition transition = transitions.get(headerNode.getHeader());
 			transition.setPrevious(headerNode);
+			
+			// Super hacky but I'll refactor later
+			if (i == 0 && header == LineNodeHeader.DEFAULT) {
+				headerNode.setNextNode(LineNodeHeader.DEFAULT, this);
+			}
+			
+			if (i == 1 && header == LineNodeHeader.SCENE) {
+				headerNode.setNextNode(LineNodeHeader.SCENE, this);
+			}
+			
+			if (i == 2 && header == LineNodeHeader.ACT) {
+				headerNode.setNextNode(LineNodeHeader.ACT, this);
+			}
 			
 			transitions.put(headerNode.getHeader(), transition);
 		}
 	}
 	
 	public void intializeTransitions() {
-		NodeTransition[] emptyTransitions = { new NodeTransition(), new NodeTransition(), 
-											  new NodeTransition(), new NodeTransition() };
-		LineNodeHeader[] headerTypes = { LineNodeHeader.ACT, LineNodeHeader.SCENE, 
-										 LineNodeHeader.DEFAULT, LineNodeHeader.START };
-		for (int i= 0; i < emptyTransitions.length; i ++) {
-			transitions.put(headerTypes[i], emptyTransitions[i]);
+		for (LineNodeHeader header : LineNodeHeader.values()) {
+			transitions.put(header, new NodeTransition());
 		}
 	}
 

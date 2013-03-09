@@ -20,10 +20,10 @@ public class GlobalLineListOutput {
 	@Before
 	public void instantiateGll() {
 		gll = new GlobalLineList();
-		Line nextLine1 = new MetaInformation("LineType1");
-		Line nextLine2 = new MetaInformation("LineType2");
+		Line nextLine1 = new MetaInformation("LineType 1");
+		Line nextLine2 = new MetaInformation("LineType 2");
 		gll.addLine(nextLine1, LineNodeHeader.DEFAULT);
-		gll.addLine(nextLine2, LineNodeHeader.SCENE);
+		gll.addLine(nextLine2, LineNodeHeader.DEFAULT);
 	}
 	
 	@Test
