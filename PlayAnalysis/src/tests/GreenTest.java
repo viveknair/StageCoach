@@ -18,7 +18,7 @@ public class GreenTest {
 		Play play = new Play(config);
 		
 		// Construct the features
-		play.constructFeatures();
+		play.instantiatePlay();
 		System.out.println("-----");
 		
 		charPrintTest(play);

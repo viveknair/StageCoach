@@ -31,7 +31,7 @@ public class ReturnCorrectCharacterNames {
 		currentPlay = new Play(config);
 		
 		// Construct the features
-		currentPlay.constructFeatures();
+		currentPlay.instantiatePlay();
 		System.out.println("-----");
 	}
 
