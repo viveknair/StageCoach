@@ -55,12 +55,14 @@ public class GlobalLineNode {
 	}
 	
 	private void setTransitions(ArrayList<GlobalLineNode> headerNodes) {
+		NodeTransition transition;
 		for(GlobalLineNode headerNode : headerNodes) {
-			NodeTransition transition = new NodeTransition(); 
+			transition = new NodeTransition(); 
 			transition.setPrevious(headerNode);
 			transition.setNext(null);
 			transitions.put(headerNode.getHeader(), transition);
 		}
+		
 	}
 
 	public GlobalLineNode(ArrayList<GlobalLineNode> headerNodes, LineNodeHeader header, Line line) {
