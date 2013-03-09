@@ -1,7 +1,6 @@
 package action;
 
-import java.util.*;
-import character.Character;
+import character.Character; 
 
 /*
  * Class Action:
@@ -18,22 +17,22 @@ public class Action {
 	private String relation;
 	
 	// Subject character: The assumed person who is doing to action.
-	private String scharacter;
+	private Character scharacter;
 	
 	// Object character (optional): Don't 
 	// necessarily need an object character.
-	private String ocharacter;
+	private Character ocharacter;
 
-	public Action(String scharacter, String relation) {
+	public Action(Character scharacter, String relation) {
 		this.scharacter = scharacter;
 		this.relation = relation;
 	}
 	
-	public String getSubjectCharacter() {
+	public Character getSubjectCharacter() {
 		return scharacter;
 	}
 	
-	public String getObjectCharacter() {
+	public Character getObjectCharacter() {
 		return ocharacter;
 	}
 	
