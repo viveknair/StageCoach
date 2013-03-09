@@ -131,6 +131,7 @@ public class Play {
 				if (restQuote != null) {
 					System.out.println(restQuote);
 					Quote newQuote = new Quote(foundCharacter, restQuote);
+					foundCharacter.addQuote(newQuote);
 					for (Action action : newQuote.getActions()) {
 						System.out.println("	Action: " + action.getRelation());
 					}

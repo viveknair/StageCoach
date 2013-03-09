@@ -20,15 +20,11 @@ public class Quote extends Line {
 	
 	/*
 	 * Public API: 
-	 * 	getSpeaker
+	 * 	getCharacter
 	 * 	getRawQuote
 	 * 	getMentionedCharacters
 	 * 	getActions
 	 */
-	
-	public String getName() {
-		return character.getName();
-	}
 	
 	public String getRawQuote() {
 		return description;
@@ -41,21 +37,13 @@ public class Quote extends Line {
 	public ArrayList<Action> getActions() {
 		return containedActions;
 	}
-	
-	/*
-	 * The speaker is given as a quote to the 
-	 * new Quote object. So we have to associate this 
-	 * speaker to one of the available characters.
-	 */
-	public void associateSpeakerToCharacter(ArrayList<Character> characters) {
-		character = characters.get(0);
-	}
+
 	
 	/*
 	 * Can only be called once the associateSpeakerToCharacter 
 	 * has been called by the client.
 	 */
-	public Character returnSpeakingCharacter() {
+	public Character getCharacter() {
 		return character;
 	}
 	
