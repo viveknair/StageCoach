@@ -45,6 +45,7 @@ public class ReturnCorrectCharacterNames {
 		}
 		
 		for (int i = 0; i < characterNames.length; i ++) {
+			System.out.println(characterNames[i]);
 			if (returnCharNames.contains(characterNames[i])) {
 				assertTrue(true);
 				return; 

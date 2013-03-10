@@ -42,6 +42,7 @@ public class GlobalLineList implements List<GlobalLineNode>{
 	}
 		
 	public void addLine(Line nextLine, LineNodeHeader header) {
+		System.out.println("The tail of the line is " + tailLineGll.getLine().toString());
 		
 		// Instantiates the links on its own
 		new GlobalLineNode(transitionNodes, header, nextLine);
@@ -53,16 +54,22 @@ public class GlobalLineList implements List<GlobalLineNode>{
 		if (nextLineGll != null) {
 			transitionNodes.remove(0);
 			transitionNodes.add(0, nextLineGll);
+			
+			tailLineGll = nextLineGll;
 		}
 	
 		if (nextSceneGll != null) {
 			transitionNodes.remove(1);
 			transitionNodes.add(1, nextSceneGll);
+			
+			tailSceneGll = nextSceneGll;
 		}
 		
 		if (nextActGll != null) {
 			transitionNodes.remove(2);
 			transitionNodes.add(2, nextActGll);
+			
+			tailActGll = nextActGll;
 		}
 	}
 	
