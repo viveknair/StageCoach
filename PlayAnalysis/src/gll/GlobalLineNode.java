@@ -92,6 +92,7 @@ public class GlobalLineNode {
 			
 			transitions.put(headerNode.getHeader(), transition);
 		}
+		
 	}
 	
 	public void intializeTransitions() {
