@@ -7,6 +7,8 @@ import java.util.regex.Pattern;
 
 import action.Action;
 
+import line.Line;
+import line.meta_information.MetaInformation;
 import line.quote.Quote;
 import line.stage_direction.StageDirection;
 
@@ -28,6 +30,9 @@ public class PlayConfig {
 	HashMap<String, Character> characters = new HashMap<String, Character>();
 	private ArrayList<StageDirection> stageDirections = new ArrayList<StageDirection>();
 	private ArrayList<Quote> quotes = new ArrayList<Quote>();
+	
+	private List<Pattern> metaPatterns = new ArrayList<Pattern>();
+	private ArrayList<Line> parsedLines = new ArrayList<Line>();
 	
 	// Index into the ArrayList of raw lines, 
 	// describing up to what file the lines have 
@@ -56,6 +61,10 @@ public class PlayConfig {
 	
 	public ArrayList<StageDirection> getStageDirections() {
 		return stageDirections; 
+	}
+	
+	public ArrayList<Line> getParsedLines() {
+		return parsedLines;
 	}
 	
 	public void constructFeatures() {
@@ -119,12 +128,18 @@ public class PlayConfig {
 			if (lines.get(i).trim().length() == 0)
 				continue; 
 			
+			MetaInformation meta = parseMetaInformation(lines.get(i));
+			if	(meta != null) {
+				parsedLines.add(meta);
+			}
+			
 			/*
 			 * Stage Direction: Parsing out the single-line stage directions
 			 */
 			StageDirection sdir = parseStageDirection(lines.get(i));
 			if (sdir != null) {
 				stageDirections.add(sdir);
+				parsedLines.add(sdir);
 				continue;
 			}
 			
@@ -133,11 +148,29 @@ public class PlayConfig {
 			 */
 			Quote diagQuote = parseQuote(lines.get(i));
 			if (diagQuote != null) {
+				parsedLines.add(diagQuote);
 				quotes.add(diagQuote);
 			}
 		}
 	}
 	
+	
+	private MetaInformation parseMetaInformation(String rawLine) {
+		if (metaPatterns.isEmpty()) {
+			metaPatterns.add(Pattern.compile("Act [0-9]+"));
+			metaPatterns.add(Pattern.compile("Act [0-9]+ Scene [0-9]+"));
+		}
+		
+		for (Pattern p : metaPatterns) {
+			if (p.matcher(rawLine).matches()) {
+				MetaInformation newMeta = new MetaInformation(rawLine);
+				return newMeta;
+			}
+		}
+		
+		return null;
+	}
+
 	private Quote parseQuote(String line) {
 		StringTokenizer quoteTokenizer = new StringTokenizer(line, ".");
 		if (!quoteTokenizer.hasMoreTokens()) {

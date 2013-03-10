@@ -16,7 +16,7 @@ import play.Play;
 public class ReturnCorrectCharacterNames {
 	
 	// Obviously terrible but I have no idea how to pass functions into a jUnit test. 
-	private static final String LOCATION = "/Users/viveknair/Downloads/narrative_analysis/PlayAnalysis/datasets/parsed_chekhov_plays";
+	private static final String LOCATION = "/Users/dustinjanatpour/Documents/w/NarrativeAnalysis/input/parsed_chekhov_plays";
 	
 	// Add in more characters later.
 	private static final String[] characterNames = {"TIHON EVSTIGNEYEV"};
