@@ -29,9 +29,6 @@ public class Play {
 		return pconf.get(key);
 	}
 	
-	// Definitely could be an all-encompassing 
-	// play construction. Why would they want 
-	// to split up these features?
 	public void instantiatePlay() {
 		pconf.constructFeatures();
 		characters = pconf.getCharacters();
@@ -45,6 +42,26 @@ public class Play {
 	// Creating the boilerplate for constructing the line list
 	private void constructLineList() {
 		gll = new GlobalLineList();
+	}
+	
+	/*
+	 * Specify a start unit of time to an end unit of time 
+	 * to collect information.
+	 * 
+	 * TODO: Rewrite so we can access stage directions for a given act or scene
+	 */
+	public ArrayList<StageDirection> returnStageDirections(TimeUnit stime, TimeUnit etime) {
+		return stageDirections;
+	}
+	
+	/*
+	 * Specify a start unit of time to an end unit of time 
+	 * to collect information.
+	 * 
+	 * TODO: Rewrite so we can access stage directions for a given act or scene
+	 */
+	public ArrayList<Quote> returnQuotes(TimeUnit stime, TimeUnit etime) {
+		return quotes;
 	}
 
 	/*

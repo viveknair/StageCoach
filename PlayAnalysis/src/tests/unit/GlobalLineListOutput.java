@@ -35,8 +35,8 @@ public class GlobalLineListOutput {
 	
 	@Test
 	public void test() {
-		System.out.println(gll.toString());
-		assertTrue(true);
+		String gllOutput = gll.toString();
+		String expectedOutput = "Root node:\nLineType 1\nLineType 2\nSome raw quote [Gestures action]\n";
+		assertTrue(gllOutput.equals(expectedOutput));
 	}
-
 }

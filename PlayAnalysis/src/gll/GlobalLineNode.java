@@ -73,7 +73,6 @@ public class GlobalLineNode {
 			NodeTransition transition = transitions.get(headerNode.getHeader());
 			transition.setPrevious(headerNode);
 			
-			// Super hacky but I'll refactor later
 			if (i == 0 && header == LineNodeHeader.DEFAULT) {
 				headerNode.setNextNode(LineNodeHeader.DEFAULT, this);
 			}
