@@ -6,7 +6,7 @@ import line.LineType;
 public class MetaInformation extends Line {
 
 	public MetaInformation(String description) {
-		super(LineType.METAINFORMATION);
+		super(LineType.META_INFORMATION);
 		
 		this.description = description;
 	}	
