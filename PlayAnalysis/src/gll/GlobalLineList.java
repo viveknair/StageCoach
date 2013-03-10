@@ -42,8 +42,6 @@ public class GlobalLineList implements List<GlobalLineNode>{
 	}
 		
 	public void addLine(Line nextLine, LineNodeHeader header) {
-		System.out.println("The tail of the line is " + tailLineGll.getLine().toString());
-		
 		// Instantiates the links on its own
 		new GlobalLineNode(transitionNodes, header, nextLine);
 		
