@@ -21,7 +21,7 @@ public class PlayConfig {
 	private static final char STAGE_DIRECTION_ITEM = '[';
 	private static final String FILE_NAME_KEY = "fileName";
 	
-	private Pattern p = Pattern.compile("\\[(.*?)\\]");
+	private static Pattern p = Pattern.compile("\\[(.*?)\\]");
 	
 	private PlayType type;
 	private ArrayList<String> lines = null;
@@ -41,6 +41,11 @@ public class PlayConfig {
 
 	public PlayConfig(PlayType type) {
 		this.type = type;
+		
+		if (metaPatterns.isEmpty()) {
+			metaPatterns.add(Pattern.compile("Act [0-9]+"));
+			metaPatterns.add(Pattern.compile("Act [0-9]+ Scene [0-9]+"));
+		}
 	}
 	
 	public void set(String key, String value) {
@@ -88,7 +93,7 @@ public class PlayConfig {
 			if (titleTokenizer.hasMoreTokens()) {
 				titleIdentifier = titleTokenizer.nextToken();
 				titleToken = concatenateTokens(titleTokenizer);
-				System.out.println(titleToken);
+				// System.out.println(titleToken);
 			}
 			if (titleToken != null && titleIdentifier != null && titleIdentifier.equals(TITLE_TOKEN)) {
 				parseCursor ++;
@@ -113,7 +118,7 @@ public class PlayConfig {
 			if (characterSectionStarted) {
 				String description = concatenateTokens(characterTokenizer);
 				characters.put(characterToken, new Character(characterToken, description));
-				System.out.println("Added character: " + characterToken);
+				// System.out.println("Added character: " + characterToken);
 			}
 			
 			if (characterToken != null && characterToken.equals(CHARACTER_TOKEN)) {
@@ -124,7 +129,6 @@ public class PlayConfig {
 	}
 	
 	private void parseBodyLines() {
-		// parseToStart();
 		for (int i = parseCursor; i < lines.size(); i++) {
 			if (lines.get(i).trim().length() == 0)
 				continue; 
@@ -157,13 +161,10 @@ public class PlayConfig {
 	
 	
 	private MetaInformation parseMetaInformation(String rawLine) {
-		if (metaPatterns.isEmpty()) {
-			metaPatterns.add(Pattern.compile("Act [0-9]+"));
-			metaPatterns.add(Pattern.compile("Act [0-9]+ Scene [0-9]+"));
-		}
-		
 		for (Pattern p : metaPatterns) {
-			if (p.matcher(rawLine).matches()) {
+			Matcher m = p.matcher(rawLine);
+			if (m.find()) {
+				// We can use m.group(1) to specifically refer to extracted values.
 				MetaInformation newMeta = new MetaInformation(rawLine);
 				return newMeta;
 			}
@@ -193,11 +194,11 @@ public class PlayConfig {
 			if (foundCharacter != null) {
 				String restQuote = concatenateTokens(quoteTokenizer);
 				if (restQuote != null) {
-					System.out.println(restQuote);
+					// System.out.println(restQuote);
 					Quote newQuote = new Quote(foundCharacter, restQuote);
 					foundCharacter.addQuote(newQuote);
 					for (Action action : newQuote.getActions()) {
-						System.out.println("	Action: " + action.getRelation());
+						// System.out.println("	Action: " + action.getRelation());
 					}
 					return newQuote;
 				}
@@ -215,7 +216,7 @@ public class PlayConfig {
 				mainDirection = extractStageDirection.group(1);
 			}
 			if (mainDirection != null) {
-				System.out.println("The stage direction is " + mainDirection);
+				// System.out.println("The stage direction is " + mainDirection);
 				return new StageDirection(mainDirection);
 			}
 		}
@@ -237,7 +238,6 @@ public class PlayConfig {
         }
 		return lines;
 	}
-	
 	
 	private String concatenateTokens(StringTokenizer tokenizer) {
 		StringBuffer totalString = new StringBuffer("");
