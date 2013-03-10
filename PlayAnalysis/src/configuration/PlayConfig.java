@@ -115,6 +115,7 @@ public class PlayConfig {
 	}
 	
 	private void parseBodyLines() {
+		// parseToStart();
 		for (int i = parseCursor; i < lines.size(); i++) {
 			if (lines.get(i).trim().length() == 0)
 				continue; 
