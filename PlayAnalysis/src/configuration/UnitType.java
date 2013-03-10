@@ -1,5 +1,5 @@
 package configuration;
 
 public enum UnitType {
-	DEFAULT, SCENE, ACT
+	LINE, SCENE, ACT
 }

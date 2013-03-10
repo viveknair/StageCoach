@@ -18,7 +18,7 @@ public class TimeUnit {
 
 	public TimeUnit() {
 		// Defaults to play execution (e.g. action or dialogue point)
-		this( new UnitConfig(UnitType.DEFAULT));
+		this( new UnitConfig(UnitType.LINE));
 	}
 	
 	public int setState(int cstate) {

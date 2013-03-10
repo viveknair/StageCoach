@@ -22,7 +22,6 @@ public class CharacterUnit {
 		character.addQuote(testQuote);
 	}
 	
-	// Basic assertions
 	@Test
 	public void basicAssertions() {
 		assertTrue(character.getName().equals("Vivek Nair"));

@@ -85,6 +85,19 @@ public class GlobalLineList implements List<GlobalLineNode>{
 		}
 		return lineList.toString(); 
 	}
+	
+	public String toStringHeader(LineNodeHeader header) {
+		StringBuffer lineList = new StringBuffer("");
+		GlobalLineNode currentNode = rootNodeGll;
+		
+		while (currentNode != null) {
+			Line currentLine = currentNode.getLine();
+			lineList.append(currentLine.toString() + "\n");
+			
+			currentNode = currentNode.getNextNode(header);
+		}
+		return lineList.toString(); 
+	}
 
 	@Override
 	public boolean add(GlobalLineNode e) {

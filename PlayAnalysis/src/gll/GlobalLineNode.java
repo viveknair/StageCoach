@@ -34,8 +34,6 @@ public class GlobalLineNode {
 	private Line internalLine = null; 
 	private int gllIndex;
 	
-	// Just initializes three empty transitions
-	
 	public void setLine(Line line) {
 		this.internalLine = line; 
 	}
@@ -73,15 +71,22 @@ public class GlobalLineNode {
 			NodeTransition transition = transitions.get(headerNode.getHeader());
 			transition.setPrevious(headerNode);
 			
-			if (i == 0 && header == LineNodeHeader.DEFAULT) {
+			// Oh my god, so gross. I'm disgusted with myself.
+			if (i == 0 && (header == LineNodeHeader.END ||
+						   header == LineNodeHeader.DEFAULT || 
+						   header == LineNodeHeader.SCENE || 
+						   header == LineNodeHeader.ACT )) {
 				headerNode.setNextNode(LineNodeHeader.DEFAULT, this);
 			}
 			
-			if (i == 1 && header == LineNodeHeader.SCENE) {
+			if (i == 1 && (header == LineNodeHeader.END ||
+						   header == LineNodeHeader.SCENE ||
+						   header == LineNodeHeader.ACT)) {
 				headerNode.setNextNode(LineNodeHeader.SCENE, this);
 			}
 			
-			if (i == 2 && header == LineNodeHeader.ACT) {
+			if (i == 2 && (header == LineNodeHeader.END ||
+						   header == LineNodeHeader.ACT)) {
 				headerNode.setNextNode(LineNodeHeader.ACT, this);
 			}
 			
