@@ -1,3 +1,5 @@
+package tests.unit;
+
 import static org.junit.Assert.*;
 
 import java.util.ArrayList;
@@ -29,7 +31,7 @@ public class ReturnCorrectCharacterNames {
 		currentPlay = new Play(config);
 		
 		// Construct the features
-		currentPlay.constructFeatures();
+		currentPlay.instantiatePlay();
 		System.out.println("-----");
 	}
 

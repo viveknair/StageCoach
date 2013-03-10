@@ -34,6 +34,8 @@ public class GlobalLineNode {
 	private Line internalLine = null; 
 	private int gllIndex;
 	
+	// Just initializes three empty transitions
+	
 	public void setLine(Line line) {
 		this.internalLine = line; 
 	}
@@ -54,22 +56,56 @@ public class GlobalLineNode {
 		return gllIndex; 
 	}
 	
+	public GlobalLineNode getNextNode(LineNodeHeader header) {
+		NodeTransition transition = transitions.get(header);
+		return transition.getNext();
+	}
+	
+	public void setNextNode(LineNodeHeader header, GlobalLineNode nextNode) {
+		NodeTransition transition = transitions.get(header);
+		transition.setNext(nextNode);
+		transitions.put(header, transition);
+	}
+	
 	private void setTransitions(ArrayList<GlobalLineNode> headerNodes) {
-		NodeTransition transition;
-		for(GlobalLineNode headerNode : headerNodes) {
-			transition = new NodeTransition(); 
+		for(int i = 0; i < headerNodes.size(); i++) {
+			GlobalLineNode headerNode = headerNodes.get(i);
+			NodeTransition transition = transitions.get(headerNode.getHeader());
 			transition.setPrevious(headerNode);
-			transition.setNext(null);
+			
+			// Super hacky but I'll refactor later
+			if (i == 0 && header == LineNodeHeader.DEFAULT) {
+				headerNode.setNextNode(LineNodeHeader.DEFAULT, this);
+			}
+			
+			if (i == 1 && header == LineNodeHeader.SCENE) {
+				headerNode.setNextNode(LineNodeHeader.SCENE, this);
+			}
+			
+			if (i == 2 && header == LineNodeHeader.ACT) {
+				headerNode.setNextNode(LineNodeHeader.ACT, this);
+			}
+			
 			transitions.put(headerNode.getHeader(), transition);
 		}
 		
 	}
+	
+	public void intializeTransitions() {
+		for (LineNodeHeader header : LineNodeHeader.values()) {
+			transitions.put(header, new NodeTransition());
+		}
+	}
 
 	public GlobalLineNode(ArrayList<GlobalLineNode> headerNodes, LineNodeHeader header, Line line) {
 		this.header = header; 
-		
+	
 		setLine(line);
 		setHeader(header);
-		setTransitions(headerNodes); 
+		
+		intializeTransitions();
+		if (headerNodes != null) {
+			setTransitions(headerNodes); 
+		}
 	}
 }
