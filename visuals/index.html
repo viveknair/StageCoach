@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<style>
+
+h3 {
+  font-weight:300;
+  font-size: 28px; 
+  font-family: Helvetica;
+  color: #457ea2;
+}
+
+.text {
+  font-weight:300;
+  font-size: 17px; 
+  font-family: Helvetica;
+}
+
+.text_shadow {
+  font-family: Helvetica;
+  font-weight:100;
+  font-size: 17px; 
+  color: #fff;  
+}
+
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+</style>
+<body>
+<title> StageCoach | Elson </title>
+<h3>StageCoach | Anton Chekhov "On the High Road"</h3>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script>
+
+var DOMAIN_REP = 0.15;
+
+var width = 1260,
+    height = 800;
+
+var color = d3.scale.category20();
+
+var force = d3.layout.force()
+    .charge(-120)
+    .linkDistance(500)
+    .size([width, height]);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+function returnDomain(values) {
+  var topValue = null;
+  var bottomValue = null;
+  values.links.forEach(function(link) {
+    if (!topValue || topValue < link.value) {
+      topValue = link.value;
+    }
+
+    if (!bottomValue || bottomValue > link.value) {
+      bottomValue = link.value;
+    }
+  });
+  return [bottomValue, topValue];
+}
+
+d3.json("graph_structure.json", function(error, graph) {
+
+  var trueDomain = returnDomain(graph);
+  var usedDomain = [trueDomain[0] + DOMAIN_REP * (trueDomain[1] - trueDomain[0]), trueDomain[0] + (1-DOMAIN_REP) * (trueDomain[1] - trueDomain[0])];
+  var scale = d3.scale.linear().domain(usedDomain).range([0,20]).clamp(true);
+
+  force
+    .nodes(graph.nodes)
+    .links(graph.links)
+    .start();
+
+  var link = svg.selectAll(".link")
+      .data(graph.links)
+    .enter().append("line")
+      .attr("class", "link")
+      .style("stroke-width", function(d) { return scale(d.value); });
+
+  var node = svg.selectAll(".node")
+      .data(graph.nodes)
+    .enter().append("circle")
+    .attr("class", "node")
+      .style("fill", function(d) { return color(d.name); })
+      .attr("r", 25)
+      .call(force.drag);
+
+      node.append("title")
+      .text(function(d) { return d.name; });
+
+  var text_shadow = svg.selectAll('.text_shadow')
+    .data(graph.nodes)
+    .enter().append('svg:text')
+    .attr('class', 'text_shadow')
+    .text(function(d) { return d.name });
+
+  var text = svg.selectAll('.text')
+    .data(graph.nodes)
+    .enter().append('svg:text')
+    .attr('class', 'text')
+    .text(function(d) { return d.name });
+
+  force.on("tick", function() {
+    link.attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+    text.attr("transform", function(d) { 
+      return "translate(" + d.x + "," + d.y + ")";
+    });
+
+    text_shadow.attr("transform", function(d) { 
+      return "translate(" + d.x + "," + d.y + ")";
+    })
+
+    node.attr("cx", function(d) { return d.x; })
+        .attr("cy", function(d) { return d.y; });
+  });
+});
+
+</script>
+<html>
