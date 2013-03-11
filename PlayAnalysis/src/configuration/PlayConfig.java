@@ -1,5 +1,7 @@
 package configuration;
 
+import gll.LineNodeHeader;
+
 import java.io.*;
 import java.util.*;
 import java.util.regex.Matcher;
@@ -33,6 +35,19 @@ public class PlayConfig {
 	
 	private List<Pattern> metaPatterns = new ArrayList<Pattern>();
 	private ArrayList<Line> parsedLines = new ArrayList<Line>();
+	
+	private class LineHeaderTuple {
+		private Line line; 
+		private LineNodeHeader header; 
+		
+		public Line getLine() {
+			return line; 
+		}
+		
+		public LineNodeHeader getHeader() {
+			return header; 
+		}
+	}
 	
 	// Index into the ArrayList of raw lines, 
 	// describing up to what file the lines have 
@@ -93,7 +108,7 @@ public class PlayConfig {
 			if (titleTokenizer.hasMoreTokens()) {
 				titleIdentifier = titleTokenizer.nextToken();
 				titleToken = concatenateTokens(titleTokenizer);
-				// System.out.println(titleToken);
+				System.out.println(titleToken);
 			}
 			if (titleToken != null && titleIdentifier != null && titleIdentifier.equals(TITLE_TOKEN)) {
 				parseCursor ++;
@@ -118,7 +133,7 @@ public class PlayConfig {
 			if (characterSectionStarted) {
 				String description = concatenateTokens(characterTokenizer);
 				characters.put(characterToken, new Character(characterToken, description));
-				// System.out.println("Added character: " + characterToken);
+				System.out.println("Added character: " + characterToken);
 			}
 			
 			if (characterToken != null && characterToken.equals(CHARACTER_TOKEN)) {
@@ -165,6 +180,7 @@ public class PlayConfig {
 			Matcher m = p.matcher(rawLine);
 			if (m.find()) {
 				// We can use m.group(1) to specifically refer to extracted values.
+				System.out.println(rawLine);
 				MetaInformation newMeta = new MetaInformation(rawLine);
 				return newMeta;
 			}
@@ -194,11 +210,11 @@ public class PlayConfig {
 			if (foundCharacter != null) {
 				String restQuote = concatenateTokens(quoteTokenizer);
 				if (restQuote != null) {
-					// System.out.println(restQuote);
+					System.out.println(restQuote);
 					Quote newQuote = new Quote(foundCharacter, restQuote);
 					foundCharacter.addQuote(newQuote);
 					for (Action action : newQuote.getActions()) {
-						// System.out.println("	Action: " + action.getRelation());
+						System.out.println("	Action: " + action.getRelation());
 					}
 					return newQuote;
 				}

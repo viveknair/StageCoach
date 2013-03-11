@@ -7,17 +7,19 @@ import line.quote.*;
 import configuration.*;
 import character.Character;
 import gll.GlobalLineList;
+import gll.LineNodeHeader;
+import line.Line;
 import line.stage_direction.StageDirection;
 
-public class Play {
-	private String title = null;
+public class StageCoach {
 	private GlobalLineList gll; 
+	private String title = null;
 	private HashMap<String, Character> characters = new HashMap<String, Character>();
 	private ArrayList<Quote> quotes = new ArrayList<Quote>();
 	private ArrayList<StageDirection> stageDirections = new ArrayList<StageDirection>();
 	private PlayConfig pconf = null;
 
-	public Play(PlayConfig pconf) {
+	public StageCoach(PlayConfig pconf) {
 		this.pconf = pconf;
 	}
 	
@@ -42,6 +44,11 @@ public class Play {
 	// Creating the boilerplate for constructing the line list
 	private void constructLineList() {
 		gll = new GlobalLineList();
+		
+		ArrayList<Line> parsedLines = pconf.getParsedLines();
+		for(Line nextLine : parsedLines) {
+			gll.addLine(nextLine, LineNodeHeader.DEFAULT);
+		}
 	}
 	
 	/*

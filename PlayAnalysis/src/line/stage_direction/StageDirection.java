@@ -23,5 +23,7 @@ public class StageDirection extends Line {
 	public StageDirection(String description) {
 	  super(LineType.STAGE_DIRECTION);
 	  this.description = description;
+	  
+	  tokenizeElements();
 	}
 }

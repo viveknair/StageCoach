@@ -9,5 +9,6 @@ public class MetaInformation extends Line {
 		super(LineType.META_INFORMATION);
 		
 		this.description = description;
+		tokenizeElements();
 	}	
 }

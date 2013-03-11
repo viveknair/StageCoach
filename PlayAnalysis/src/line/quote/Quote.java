@@ -62,6 +62,7 @@ public class Quote extends Line {
 		super(LineType.QUOTE);
 		this.description = rawQuote;
 		this.character = character;
+		tokenizeElements();
 		
 		parseActions();
 	}

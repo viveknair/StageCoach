@@ -11,7 +11,7 @@ import org.junit.Test;
 import configuration.PlayConfig;
 import configuration.PlayType;
 import character.Character;
-import play.Play; 
+import play.StageCoach; 
 
 public class ReturnCorrectCharacterNames {
 	
@@ -21,14 +21,14 @@ public class ReturnCorrectCharacterNames {
 	// Add in more characters later.
 	private static final String[] characterNames = {"TIHON EVSTIGNEYEV"};
 	
-	private Play currentPlay = null; 
+	private StageCoach currentPlay = null; 
 	private HashMap<String, Character> characters = null; 
 	
 	@Before
 	public void instantiatePlay() {
 		PlayConfig config = new PlayConfig(PlayType.DEFAULT);
 		config.set("fileName", LOCATION);
-		currentPlay = new Play(config);
+		currentPlay = new StageCoach(config);
 		
 		// Construct the features
 		currentPlay.instantiatePlay();

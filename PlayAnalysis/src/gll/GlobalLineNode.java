@@ -59,6 +59,11 @@ public class GlobalLineNode {
 		return transition.getNext();
 	}
 	
+	public GlobalLineNode getPreviousNode(LineNodeHeader header) {
+		NodeTransition transition = transitions.get(header);
+		return transition.getPrevious();
+	}
+	
 	public void setNextNode(LineNodeHeader header, GlobalLineNode nextNode) {
 		NodeTransition transition = transitions.get(header);
 		transition.setNext(nextNode);
@@ -102,7 +107,8 @@ public class GlobalLineNode {
 	}
 
 	public GlobalLineNode(ArrayList<GlobalLineNode> headerNodes, LineNodeHeader header, Line line) {
-		this.header = header; 
+		this.header = header;
+		line.setGllNode(this);
 	
 		setLine(line);
 		setHeader(header);
