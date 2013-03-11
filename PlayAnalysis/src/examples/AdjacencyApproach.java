@@ -29,7 +29,7 @@ public class AdjacencyApproach {
 			}
 			if (previousQuote != null) {
 				// System.out.println("Previous node is not null");
-				System.out.println("The total token count is " + totalTokenCount);
+				// System.out.println("The total token count is " + totalTokenCount);
 				HashMap<Character, Integer> characterMap = edgeWeights.get(currentCharacter);
 				if (characterMap == null) {
 					characterMap = new HashMap<Character, Integer>();
