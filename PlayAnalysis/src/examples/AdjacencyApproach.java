@@ -27,8 +27,8 @@ public class AdjacencyApproach {
 			Character currentCharacter = characters.get(charName);
 			ArrayList<Quote> quotes = currentCharacter.getQuotes();
 			for (Quote quote : quotes) {
-				System.out.println("Character " + charName + " has " + quotes.size() + " quotes.");
 				int totalTokenCount = quote.getTotalTokens();
+				System.out.println("Character " + charName + " has " + quotes.size() + " quotes.");
 				GlobalLineNode nodeQuote = quote.getGllNode();
 				GlobalLineNode prevNodeQuote = nodeQuote.getPreviousNode(LineNodeHeader.DEFAULT);
 				GlobalLineNode nextNodeQuote = nodeQuote.getNextNode(LineNodeHeader.DEFAULT);
@@ -60,11 +60,12 @@ public class AdjacencyApproach {
 				}
 				
 				if (nextNodeQuote != null) {
-					Line nextLine = prevNodeQuote.getLine();
+					Line nextLine = nextNodeQuote.getLine();
 					if (nextLine.getType() == LineType.QUOTE) {
 						nextQuote = (Quote) nextLine; 
 					}
-					if (nextQuote != null && nextQuote.getCharacter() != previousQuote.getCharacter()) {
+					if ((nextQuote != null && previousQuote != null && nextQuote.getCharacter() != previousQuote.getCharacter()) 
+						 || (nextQuote != null)) {
 						HashMap<Character, Integer> characterMap = edgeWeights.get(currentCharacter);
 						if (characterMap == null) {
 							characterMap = new HashMap<Character, Integer>();
