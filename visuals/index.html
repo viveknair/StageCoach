@@ -40,7 +40,7 @@ h3 {
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
-var DOMAIN_REP = 0.15;
+var DOMAIN_REP = 0.05;
 
 var width = 1260,
     height = 800;
@@ -71,7 +71,7 @@ function returnDomain(values) {
   return [bottomValue, topValue];
 }
 
-d3.json("graph_structure.json", function(error, graph) {
+d3.json("graph_structure_hamlet_alt.json", function(error, graph) {
 
   var trueDomain = returnDomain(graph);
   var usedDomain = [trueDomain[0] + DOMAIN_REP * (trueDomain[1] - trueDomain[0]), trueDomain[0] + (1-DOMAIN_REP) * (trueDomain[1] - trueDomain[0])];

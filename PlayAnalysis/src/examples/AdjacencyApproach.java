@@ -108,6 +108,8 @@ public class AdjacencyApproach {
 		currentPlay = new StageCoach(config);
 		currentPlay.instantiatePlay();
 		
+		System.out.println("The number of lines is " + config.getParsedLines().size());
+		
 		constructAdjacency();
 		outputAdjacency();
 	}

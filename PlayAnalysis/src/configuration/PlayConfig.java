@@ -145,8 +145,10 @@ public class PlayConfig {
 	
 	private void parseBodyLines() {
 		for (int i = parseCursor; i < lines.size(); i++) {
-			if (lines.get(i).trim().length() == 0)
+			if (lines.get(i).trim().length() == 0) {
+				parseCursor ++; 
 				continue; 
+			}
 			
 			MetaInformation meta = parseMetaInformation(lines.get(i));
 			if	(meta != null) {
@@ -171,6 +173,8 @@ public class PlayConfig {
 				parsedLines.add(diagQuote);
 				quotes.add(diagQuote);
 			}
+			
+			parseCursor ++; 
 		}
 	}
 	
@@ -199,7 +203,7 @@ public class PlayConfig {
 		// Matches the capitalize character names at the beginning of
 		// the play. This matches the Project Gutenberg convention
 		// for denoting characters.
-		if (potentialCharacter.equals(potentialCharacter.toUpperCase())) {
+		if (!potentialCharacter.equals("[")) {
 			ArrayList<String> charNames = new ArrayList<String>(characters.keySet());
 			Character foundCharacter = null;
 			for (String charName : charNames) {
@@ -257,7 +261,7 @@ public class PlayConfig {
 	
 	private String concatenateTokens(StringTokenizer tokenizer) {
 		StringBuffer totalString = new StringBuffer("");
-		while (tokenizer.hasMoreTokens()) {
+		while (tokenizer.hasMoreTokens()) 	{
 			totalString.append(tokenizer.nextToken() + " ");
 		}
 		return totalString.toString();
