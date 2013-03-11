@@ -82,7 +82,7 @@ public class AdjacencyApproach {
 				GlobalLineNode prevNodeQuote = nodeQuote.getPreviousNode(LineNodeHeader.DEFAULT);
 				GlobalLineNode nextNodeQuote = nodeQuote.getNextNode(LineNodeHeader.DEFAULT);
 				
-				Quote previousQuote = null;
+				Quote previousQuote = null;	
 				Quote nextQuote = null;
 				
 				previousQuoteAnalysis(currentCharacter, prevNodeQuote, previousQuote, totalTokenCount);
