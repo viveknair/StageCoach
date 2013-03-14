@@ -1,7 +1,7 @@
 package tests;
 import java.io.IOException;
 
-import play.Play;
+import play.StageCoach;
 import line.quote.Quote;
 import configuration.PlayConfig;
 import configuration.PlayType;
@@ -15,7 +15,7 @@ public class GreenTest {
 			return;
 		}
 		config.set("fileName", args[0]);
-		Play play = new Play(config);
+		StageCoach play = new StageCoach(config);
 		
 		// Construct the features
 		play.instantiatePlay();
@@ -26,11 +26,11 @@ public class GreenTest {
 		
 	}
 
-	private static void quoteAttrTest(Play play) {
+	private static void quoteAttrTest(StageCoach play) {
 		// TODO Auto-generated method stub
 	}
 
-	private static void charPrintTest(Play play) {
+	private static void charPrintTest(StageCoach play) {
 		for (character.Character dude : play.returnCharacters(null, null).values()) {
 			System.out.println("Name: " + dude.getName());
 			System.out.println("Description: " + dude.getDescription());

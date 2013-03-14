@@ -1,5 +1,7 @@
 package configuration;
 
+import gll.LineNodeHeader;
+
 import java.io.*;
 import java.util.*;
 import java.util.regex.Matcher;
@@ -21,7 +23,7 @@ public class PlayConfig {
 	private static final char STAGE_DIRECTION_ITEM = '[';
 	private static final String FILE_NAME_KEY = "fileName";
 	
-	private Pattern p = Pattern.compile("\\[(.*?)\\]");
+	private static Pattern p = Pattern.compile("\\[(.*?)\\]");
 	
 	private PlayType type;
 	private ArrayList<String> lines = null;
@@ -34,6 +36,19 @@ public class PlayConfig {
 	private List<Pattern> metaPatterns = new ArrayList<Pattern>();
 	private ArrayList<Line> parsedLines = new ArrayList<Line>();
 	
+	private class LineHeaderTuple {
+		private Line line; 
+		private LineNodeHeader header; 
+		
+		public Line getLine() {
+			return line; 
+		}
+		
+		public LineNodeHeader getHeader() {
+			return header; 
+		}
+	}
+	
 	// Index into the ArrayList of raw lines, 
 	// describing up to what file the lines have 
 	// been parsed
@@ -41,6 +56,11 @@ public class PlayConfig {
 
 	public PlayConfig(PlayType type) {
 		this.type = type;
+		
+		if (metaPatterns.isEmpty()) {
+			metaPatterns.add(Pattern.compile("Act [0-9]+"));
+			metaPatterns.add(Pattern.compile("Act [0-9]+ Scene [0-9]+"));
+		}
 	}
 	
 	public void set(String key, String value) {
@@ -124,10 +144,11 @@ public class PlayConfig {
 	}
 	
 	private void parseBodyLines() {
-		// parseToStart();
 		for (int i = parseCursor; i < lines.size(); i++) {
-			if (lines.get(i).trim().length() == 0)
+			if (lines.get(i).trim().length() == 0) {
+				parseCursor ++; 
 				continue; 
+			}
 			
 			MetaInformation meta = parseMetaInformation(lines.get(i));
 			if	(meta != null) {
@@ -152,18 +173,18 @@ public class PlayConfig {
 				parsedLines.add(diagQuote);
 				quotes.add(diagQuote);
 			}
+			
+			parseCursor ++; 
 		}
 	}
 	
 	
 	private MetaInformation parseMetaInformation(String rawLine) {
-		if (metaPatterns.isEmpty()) {
-			metaPatterns.add(Pattern.compile("Act [0-9]+"));
-			metaPatterns.add(Pattern.compile("Act [0-9]+ Scene [0-9]+"));
-		}
-		
 		for (Pattern p : metaPatterns) {
-			if (p.matcher(rawLine).matches()) {
+			Matcher m = p.matcher(rawLine);
+			if (m.find()) {
+				// We can use m.group(1) to specifically refer to extracted values.
+				System.out.println(rawLine);
 				MetaInformation newMeta = new MetaInformation(rawLine);
 				return newMeta;
 			}
@@ -182,7 +203,7 @@ public class PlayConfig {
 		// Matches the capitalize character names at the beginning of
 		// the play. This matches the Project Gutenberg convention
 		// for denoting characters.
-		if (potentialCharacter.equals(potentialCharacter.toUpperCase())) {
+		if (!potentialCharacter.equals("[")) {
 			ArrayList<String> charNames = new ArrayList<String>(characters.keySet());
 			Character foundCharacter = null;
 			for (String charName : charNames) {
@@ -215,7 +236,7 @@ public class PlayConfig {
 				mainDirection = extractStageDirection.group(1);
 			}
 			if (mainDirection != null) {
-				System.out.println("The stage direction is " + mainDirection);
+				// System.out.println("The stage direction is " + mainDirection);
 				return new StageDirection(mainDirection);
 			}
 		}
@@ -238,10 +259,9 @@ public class PlayConfig {
 		return lines;
 	}
 	
-	
 	private String concatenateTokens(StringTokenizer tokenizer) {
 		StringBuffer totalString = new StringBuffer("");
-		while (tokenizer.hasMoreTokens()) {
+		while (tokenizer.hasMoreTokens()) 	{
 			totalString.append(tokenizer.nextToken() + " ");
 		}
 		return totalString.toString();
