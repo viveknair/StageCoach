@@ -1,23 +1,19 @@
 package examples;
 
-import line.Line;
 import play.StageCoach; 
 import configuration.PlayConfig;
 import configuration.PlayType;
-import java.util.HashMap;
 import character.Character; 
-import line.quote.Quote;
-import gll.GlobalLineNode;
-import gll.LineNodeHeader;
-import line.LineType;
+import networks.adjacency.AdjacencyNetwork;
 
 public class SingleCharacterCentrality {
 	
 	private static StageCoach currentPlay;
+	private static AdjacencyNetwork network; 
 	private static double THRESHOLD = 0.25; 
 	
 	private static Character calculateNextMaxCharacter() {
-		
+	
 		return null; 
 	}
 	
@@ -39,8 +35,11 @@ public class SingleCharacterCentrality {
 		currentPlay = new StageCoach(config);
 		currentPlay.instantiatePlay();
 		
+		network = new AdjacencyNetwork(currentPlay);
+		network.constructAdjacency();
+		
 		constructCharacterCentrality(THRESHOLD);
 		
-		System.out.println("The number of lines is " + config.getParsedLines().size());
+		System.out.println("The n=umber of lines is " + config.getParsedLines().size());
 	}
 }
