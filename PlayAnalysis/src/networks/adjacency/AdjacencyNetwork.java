@@ -19,8 +19,6 @@ public class AdjacencyNetwork extends Network {
 	private StageCoach currentPlay; 
 	private PlayConfig playConfig;
 	//Represents the character edges
-	private HashMap<String, Character> characters;
-	private HashMap <Character, HashMap<Character, Integer>> edgeWeights;
 
 	public AdjacencyNetwork(StageCoach currentPlay) {
 		this.currentPlay = currentPlay; 
