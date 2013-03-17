@@ -6,7 +6,7 @@ import java.util.HashMap;
 import line.Line; 
 
 public class GlobalLineNode {
-		
+	
 	HashMap<LineNodeHeader, NodeTransition> transitions = new HashMap<LineNodeHeader, NodeTransition> (); 
 	
 	private LineNodeHeader header;

@@ -176,8 +176,7 @@ public class PlayConfig {
 			
 			parseCursor ++; 
 		}
-	}
-	
+	}	
 	
 	private MetaInformation parseMetaInformation(String rawLine) {
 		for (Pattern p : metaPatterns) {
