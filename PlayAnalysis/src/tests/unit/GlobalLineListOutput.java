@@ -18,7 +18,7 @@ import gll.LineNodeHeader;
 
 public class GlobalLineListOutput {
 
-	private GlobalLineList gll = null; 
+	private GlobalLineList gll = null;
 	
 	@Before
 	public void instantiateGll() {
