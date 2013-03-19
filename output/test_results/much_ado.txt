@@ -1,0 +1,171 @@
+Character: MARGARET
+   Target Character: BENEDICK, Value: 110
+   Target Character: URSULA, Value: 12
+   Target Character: BEATRICE, Value: 438
+   Target Character: HERO, Value: 338
+   Target Character: BALTHASAR, Value: 80
+Character: DOGBERRY
+   Target Character: First Watchman, Value: 469
+   Target Character: CONRADE, Value: 141
+   Target Character: CLAUDIO, Value: 35
+   Target Character: Second Watchman, Value: 235
+   Target Character: Sexton, Value: 89
+   Target Character: BORACHIO, Value: 282
+   Target Character: DON PEDRO, Value: 134
+   Target Character: VERGES, Value: 636
+   Target Character: LEONATO, Value: 547
+Character: Messenger
+   Target Character: BENEDICK, Value: 17
+   Target Character: HERO, Value: 10
+   Target Character: BEATRICE, Value: 138
+   Target Character: DON PEDRO, Value: 4
+   Target Character: LEONATO, Value: 251
+Character: BENEDICK
+   Target Character: MARGARET, Value: 172
+   Target Character: Messenger, Value: 30
+   Target Character: URSULA, Value: 18
+   Target Character: HERO, Value: 29
+   Target Character: Boy, Value: 29
+   Target Character: DON PEDRO, Value: 2010
+   Target Character: ANTONIO, Value: 26
+   Target Character: DON JOHN, Value: 10
+   Target Character: BEATRICE, Value: 1586
+   Target Character: CLAUDIO, Value: 1334
+   Target Character: FRIAR FRANCIS, Value: 124
+   Target Character: BALTHASAR, Value: 31
+   Target Character: LEONATO, Value: 317
+Character: URSULA
+   Target Character: MARGARET, Value: 25
+   Target Character: BENEDICK, Value: 45
+   Target Character: HERO, Value: 378
+   Target Character: BEATRICE, Value: 76
+   Target Character: BALTHASAR, Value: 9
+   Target Character: ANTONIO, Value: 110
+Character: HERO
+   Target Character: MARGARET, Value: 105
+   Target Character: BENEDICK, Value: 20
+   Target Character: Messenger, Value: 7
+   Target Character: URSULA, Value: 880
+   Target Character: BEATRICE, Value: 55
+   Target Character: CLAUDIO, Value: 135
+   Target Character: FRIAR FRANCIS, Value: 135
+   Target Character: DON PEDRO, Value: 140
+   Target Character: LEONATO, Value: 32
+Character: Second Watchman
+   Target Character: First Watchman, Value: 46
+   Target Character: DOGBERRY, Value: 37
+   Target Character: CONRADE, Value: 18
+   Target Character: Sexton, Value: 17
+Character: Boy
+   Target Character: BENEDICK, Value: 7
+Character: DON PEDRO
+   Target Character: DOGBERRY, Value: 69
+   Target Character: BENEDICK, Value: 764
+   Target Character: Messenger, Value: 23
+   Target Character: DON JOHN, Value: 118
+   Target Character: HERO, Value: 124
+   Target Character: BEATRICE, Value: 243
+   Target Character: FRIAR FRANCIS, Value: 6
+   Target Character: CLAUDIO, Value: 1757
+   Target Character: BORACHIO, Value: 57
+   Target Character: BALTHASAR, Value: 144
+   Target Character: ANTONIO, Value: 51
+   Target Character: LEONATO, Value: 834
+Character: ANTONIO
+   Target Character: BENEDICK, Value: 17
+   Target Character: URSULA, Value: 38
+   Target Character: BEATRICE, Value: 35
+   Target Character: CLAUDIO, Value: 33
+   Target Character: DON PEDRO, Value: 41
+   Target Character: LEONATO, Value: 629
+Character: First Watchman
+   Target Character: DOGBERRY, Value: 172
+   Target Character: CONRADE, Value: 27
+   Target Character: Second Watchman, Value: 22
+   Target Character: Sexton, Value: 23
+   Target Character: BORACHIO, Value: 95
+   Target Character: VERGES, Value: 11
+Character: CONRADE
+   Target Character: DOGBERRY, Value: 45
+   Target Character: First Watchman, Value: 3
+   Target Character: DON JOHN, Value: 191
+   Target Character: Second Watchman, Value: 3
+   Target Character: BORACHIO, Value: 198
+   Target Character: VERGES, Value: 2
+Character: DON JOHN
+   Target Character: BENEDICK, Value: 23
+   Target Character: CONRADE, Value: 506
+   Target Character: BEATRICE, Value: 27
+   Target Character: CLAUDIO, Value: 391
+   Target Character: BORACHIO, Value: 391
+   Target Character: DON PEDRO, Value: 276
+   Target Character: LEONATO, Value: 35
+Character: BEATRICE
+   Target Character: MARGARET, Value: 199
+   Target Character: BENEDICK, Value: 1825
+   Target Character: Messenger, Value: 443
+   Target Character: URSULA, Value: 16
+   Target Character: DON JOHN, Value: 15
+   Target Character: HERO, Value: 87
+   Target Character: FRIAR FRANCIS, Value: 4
+   Target Character: CLAUDIO, Value: 105
+   Target Character: DON PEDRO, Value: 420
+   Target Character: ANTONIO, Value: 163
+   Target Character: LEONATO, Value: 1081
+Character: CLAUDIO
+   Target Character: DOGBERRY, Value: 16
+   Target Character: BENEDICK, Value: 671
+   Target Character: DON JOHN, Value: 176
+   Target Character: HERO, Value: 290
+   Target Character: BEATRICE, Value: 87
+   Target Character: CLAUDIO, Value: 123
+   Target Character: FRIAR FRANCIS, Value: 5
+   Target Character: DON PEDRO, Value: 1405
+   Target Character: Lord, Value: 117
+   Target Character: ANTONIO, Value: 30
+   Target Character: LEONATO, Value: 812
+Character: FRIAR FRANCIS
+   Target Character: BENEDICK, Value: 346
+   Target Character: BEATRICE, Value: 3
+   Target Character: HERO, Value: 53
+   Target Character: CLAUDIO, Value: 31
+   Target Character: DON PEDRO, Value: 9
+   Target Character: LEONATO, Value: 690
+Character: Sexton
+   Target Character: First Watchman, Value: 5
+   Target Character: DOGBERRY, Value: 122
+   Target Character: Second Watchman, Value: 6
+   Target Character: VERGES, Value: 23
+Character: BORACHIO
+   Target Character: First Watchman, Value: 169
+   Target Character: DOGBERRY, Value: 66
+   Target Character: CONRADE, Value: 558
+   Target Character: DON JOHN, Value: 797
+   Target Character: DON PEDRO, Value: 276
+   Target Character: LEONATO, Value: 60
+Character: BALTHASAR
+   Target Character: MARGARET, Value: 42
+   Target Character: BENEDICK, Value: 79
+   Target Character: URSULA, Value: 7
+   Target Character: DON PEDRO, Value: 215
+Character: VERGES
+   Target Character: First Watchman, Value: 20
+   Target Character: DOGBERRY, Value: 261
+   Target Character: CONRADE, Value: 6
+   Target Character: Sexton, Value: 24
+   Target Character: LEONATO, Value: 41
+Character: Lord
+   Target Character: CLAUDIO, Value: 8
+Character: LEONATO
+   Target Character: DOGBERRY, Value: 174
+   Target Character: BENEDICK, Value: 466
+   Target Character: Messenger, Value: 194
+   Target Character: DON JOHN, Value: 44
+   Target Character: HERO, Value: 24
+   Target Character: BEATRICE, Value: 441
+   Target Character: FRIAR FRANCIS, Value: 536
+   Target Character: CLAUDIO, Value: 1147
+   Target Character: BORACHIO, Value: 139
+   Target Character: VERGES, Value: 50
+   Target Character: DON PEDRO, Value: 818
+   Target Character: ANTONIO, Value: 771

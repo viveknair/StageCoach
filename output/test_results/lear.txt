@@ -1,0 +1,187 @@
+Character: CORNWALL
+   Target Character: First Servant, Value: 20
+   Target Character: OSWALD, Value: 91
+   Target Character: KING LEAR, Value: 49
+   Target Character: GLOUCESTER, Value: 241
+   Target Character: Second Servant, Value: 31
+   Target Character: KENT, Value: 304
+   Target Character: EDMUND, Value: 198
+   Target Character: REGAN, Value: 228
+   Target Character: GONERIL, Value: 14
+Character: KING LEAR
+   Target Character: CORNWALL, Value: 315
+   Target Character: F FRANCE, Value: 109
+   Target Character: ALBANY, Value: 340
+   Target Character: GLOUCESTER, Value: 1315
+   Target Character: Gentleman, Value: 293
+   Target Character: REGAN, Value: 643
+   Target Character: GONERIL, Value: 645
+   Target Character: Doctor, Value: 55
+   Target Character: CORDELIA, Value: 887
+   Target Character: OSWALD, Value: 72
+   Target Character: Fool, Value: 835
+   Target Character: EDGAR, Value: 712
+   Target Character: KENT, Value: 1631
+   Target Character: BURGUNDY, Value: 208
+   Target Character: EDMUND, Value: 106
+   Target Character: Knight, Value: 167
+   Target Character: Captain, Value: 92
+Character: ALBANY
+   Target Character: KING LEAR, Value: 57
+   Target Character: Gentleman, Value: 8
+   Target Character: EDGAR, Value: 115
+   Target Character: Herald, Value: 26
+   Target Character: KENT, Value: 80
+   Target Character: REGAN, Value: 87
+   Target Character: EDMUND, Value: 264
+   Target Character: GONERIL, Value: 623
+   Target Character: Captain, Value: 47
+   Target Character: Messenger, Value: 82
+Character: F FRANCE
+   Target Character: KING LEAR, Value: 140
+   Target Character: BURGUNDY, Value: 53
+   Target Character: GONERIL, Value: 4
+   Target Character: CORDELIA, Value: 182
+Character: Herald
+   Target Character: ALBANY, Value: 15
+   Target Character: EDGAR, Value: 14
+   Target Character: Captain, Value: 45
+Character: REGAN
+   Target Character: First Servant, Value: 8
+   Target Character: CORNWALL, Value: 257
+   Target Character: OSWALD, Value: 491
+   Target Character: ALBANY, Value: 63
+   Target Character: KING LEAR, Value: 574
+   Target Character: GLOUCESTER, Value: 254
+   Target Character: KENT, Value: 16
+   Target Character: EDMUND, Value: 199
+   Target Character: GONERIL, Value: 400
+   Target Character: CORDELIA, Value: 70
+Character: CURAN
+   Target Character: EDMUND, Value: 134
+Character: Messenger
+   Target Character: ALBANY, Value: 196
+   Target Character: CORDELIA, Value: 8
+Character: Third Servant
+   Target Character: Second Servant, Value: 38
+Character: EDGAR
+   Target Character: Old Man, Value: 175
+   Target Character: OSWALD, Value: 153
+   Target Character: ALBANY, Value: 570
+   Target Character: KING LEAR, Value: 456
+   Target Character: Fool, Value: 193
+   Target Character: Gentleman, Value: 83
+   Target Character: GLOUCESTER, Value: 1581
+   Target Character: Herald, Value: 22
+   Target Character: KENT, Value: 188
+   Target Character: EDMUND, Value: 498
+   Target Character: GONERIL, Value: 14
+   Target Character: Captain, Value: 2
+Character: KENT
+   Target Character: CORNWALL, Value: 686
+   Target Character: OSWALD, Value: 408
+   Target Character: ALBANY, Value: 36
+   Target Character: Fool, Value: 277
+   Target Character: KING LEAR, Value: 1294
+   Target Character: EDGAR, Value: 161
+   Target Character: Gentleman, Value: 904
+   Target Character: GLOUCESTER, Value: 230
+   Target Character: REGAN, Value: 28
+   Target Character: EDMUND, Value: 38
+   Target Character: CORDELIA, Value: 76
+Character: BURGUNDY
+   Target Character: F FRANCE, Value: 20
+   Target Character: KING LEAR, Value: 89
+   Target Character: CORDELIA, Value: 16
+Character: EDMUND
+   Target Character: CORNWALL, Value: 197
+   Target Character: ALBANY, Value: 614
+   Target Character: KING LEAR, Value: 3
+   Target Character: GLOUCESTER, Value: 1279
+   Target Character: Gentleman, Value: 13
+   Target Character: REGAN, Value: 84
+   Target Character: CURAN, Value: 26
+   Target Character: GONERIL, Value: 15
+   Target Character: CORDELIA, Value: 19
+   Target Character: OSWALD, Value: 5
+   Target Character: EDGAR, Value: 872
+   Target Character: KENT, Value: 31
+   Target Character: Captain, Value: 92
+Character: Knight
+   Target Character: KING LEAR, Value: 196
+Character: First Servant
+   Target Character: CORNWALL, Value: 57
+   Target Character: REGAN, Value: 48
+Character: Old Man
+   Target Character: GLOUCESTER, Value: 74
+   Target Character: EDGAR, Value: 31
+Character: GLOUCESTER
+   Target Character: Old Man, Value: 343
+   Target Character: CORNWALL, Value: 506
+   Target Character: OSWALD, Value: 22
+   Target Character: Fool, Value: 9
+   Target Character: KING LEAR, Value: 367
+   Target Character: EDGAR, Value: 881
+   Target Character: KENT, Value: 404
+   Target Character: REGAN, Value: 327
+   Target Character: EDMUND, Value: 905
+   Target Character: GONERIL, Value: 21
+Character: Gentleman
+   Target Character: ALBANY, Value: 29
+   Target Character: KING LEAR, Value: 123
+   Target Character: EDGAR, Value: 128
+   Target Character: KENT, Value: 764
+   Target Character: EDMUND, Value: 16
+   Target Character: Doctor, Value: 14
+   Target Character: CORDELIA, Value: 14
+Character: GONERIL
+   Target Character: CORNWALL, Value: 14
+   Target Character: OSWALD, Value: 324
+   Target Character: ALBANY, Value: 442
+   Target Character: Fool, Value: 301
+   Target Character: F FRANCE, Value: 25
+   Target Character: KING LEAR, Value: 444
+   Target Character: EDGAR, Value: 10
+   Target Character: GLOUCESTER, Value: 9
+   Target Character: EDMUND, Value: 130
+   Target Character: REGAN, Value: 492
+   Target Character: CORDELIA, Value: 90
+Character: Doctor
+   Target Character: KING LEAR, Value: 47
+   Target Character: Gentleman, Value: 15
+   Target Character: CORDELIA, Value: 153
+Character: CORDELIA
+   Target Character: F FRANCE, Value: 173
+   Target Character: KING LEAR, Value: 469
+   Target Character: Gentleman, Value: 17
+   Target Character: KENT, Value: 190
+   Target Character: BURGUNDY, Value: 18
+   Target Character: EDMUND, Value: 37
+   Target Character: REGAN, Value: 83
+   Target Character: GONERIL, Value: 28
+   Target Character: Doctor, Value: 306
+   Target Character: Messenger, Value: 41
+Character: OSWALD
+   Target Character: CORNWALL, Value: 184
+   Target Character: KING LEAR, Value: 23
+   Target Character: EDGAR, Value: 81
+   Target Character: GLOUCESTER, Value: 59
+   Target Character: KENT, Value: 214
+   Target Character: REGAN, Value: 104
+   Target Character: EDMUND, Value: 4
+   Target Character: GONERIL, Value: 92
+Character: Fool
+   Target Character: KING LEAR, Value: 1563
+   Target Character: GLOUCESTER, Value: 7
+   Target Character: EDGAR, Value: 143
+   Target Character: KENT, Value: 707
+   Target Character: GONERIL, Value: 158
+Character: Second Servant
+   Target Character: CORNWALL, Value: 13
+   Target Character: Third Servant, Value: 36
+Character: Captain
+   Target Character: KING LEAR, Value: 12
+   Target Character: ALBANY, Value: 17
+   Target Character: EDGAR, Value: 5
+   Target Character: Herald, Value: 2
+   Target Character: EDMUND, Value: 10

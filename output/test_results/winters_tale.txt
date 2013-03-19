@@ -1,0 +1,195 @@
+Character: CAMILLO
+   Target Character: ARCHIDAMUS, Value: 345
+   Target Character: FLORIZEL, Value: 1074
+   Target Character: PAULINA, Value: 34
+   Target Character: Clown, Value: 20
+   Target Character: Shepherd, Value: 5
+   Target Character: PERDITA, Value: 214
+   Target Character: POLIXENES, Value: 1075
+   Target Character: AUTOLYCUS, Value: 143
+   Target Character: LEONTES, Value: 792
+Character: Mariner
+   Target Character: ANTIGONUS, Value: 134
+Character: First Gentleman
+   Target Character: Third Gentleman, Value: 66
+   Target Character: AUTOLYCUS, Value: 90
+Character: EMILIA
+   Target Character: Gaoler, Value: 15
+   Target Character: PAULINA, Value: 269
+Character: Gaoler
+   Target Character: EMILIA, Value: 22
+   Target Character: PAULINA, Value: 92
+Character: Second Lady
+   Target Character: HERMIONE, Value: 13
+   Target Character: First Lady, Value: 13
+   Target Character: MAMILLIUS, Value: 18
+Character: PAULINA
+   Target Character: CAMILLO, Value: 12
+   Target Character: ANTIGONUS, Value: 174
+   Target Character: EMILIA, Value: 293
+   Target Character: Gaoler, Value: 208
+   Target Character: PERDITA, Value: 55
+   Target Character: DION, Value: 10
+   Target Character: Third Gentleman, Value: 153
+   Target Character: CLEOMENES, Value: 99
+   Target Character: First Lord, Value: 693
+   Target Character: HERMIONE, Value: 106
+   Target Character: Second Servant, Value: 61
+   Target Character: POLIXENES, Value: 98
+   Target Character: LEONTES, Value: 2021
+Character: Lord
+   Target Character: FLORIZEL, Value: 70
+   Target Character: PERDITA, Value: 45
+   Target Character: LEONTES, Value: 227
+Character: DION
+   Target Character: Officer, Value: 4
+   Target Character: CLEOMENES, Value: 134
+   Target Character: PAULINA, Value: 75
+   Target Character: LEONTES, Value: 4
+Character: Third Gentleman
+   Target Character: First Gentleman, Value: 543
+   Target Character: Second Gentleman, Value: 641
+   Target Character: PAULINA, Value: 159
+   Target Character: LEONTES, Value: 54
+Character: ARCHIDAMUS
+   Target Character: CAMILLO, Value: 280
+Character: CLEOMENES
+   Target Character: PAULINA, Value: 37
+   Target Character: LEONTES, Value: 70
+   Target Character: DION, Value: 84
+Character: First Servant
+   Target Character: First Lord, Value: 31
+   Target Character: Clown, Value: 275
+   Target Character: Shepherd, Value: 151
+   Target Character: POLIXENES, Value: 122
+   Target Character: AUTOLYCUS, Value: 66
+   Target Character: LEONTES, Value: 108
+Character: MAMILLIUS
+   Target Character: HERMIONE, Value: 59
+   Target Character: First Lady, Value: 79
+   Target Character: Second Lady, Value: 105
+   Target Character: LEONTES, Value: 42
+Character: FLORIZEL
+   Target Character: CAMILLO, Value: 790
+   Target Character: Lord, Value: 28
+   Target Character: Shepherd, Value: 132
+   Target Character: POLIXENES, Value: 434
+   Target Character: PERDITA, Value: 760
+   Target Character: AUTOLYCUS, Value: 17
+   Target Character: LEONTES, Value: 415
+Character: Clown
+   Target Character: CAMILLO, Value: 4
+   Target Character: MOPSA, Value: 184
+   Target Character: First Servant, Value: 91
+   Target Character: DORCAS, Value: 4
+   Target Character: Shepherd, Value: 1249
+   Target Character: PERDITA, Value: 14
+   Target Character: POLIXENES, Value: 27
+   Target Character: AUTOLYCUS, Value: 1211
+Character: Lords
+   Target Character: Officer, Value: 6
+   Target Character: ANTIGONUS, Value: 13
+   Target Character: HERMIONE, Value: 6
+   Target Character: LEONTES, Value: 13
+Character: Second Servant
+   Target Character: ANTIGONUS, Value: 12
+   Target Character: PAULINA, Value: 12
+Character: POLIXENES
+   Target Character: CAMILLO, Value: 1575
+   Target Character: First Servant, Value: 19
+   Target Character: HERMIONE, Value: 335
+   Target Character: FLORIZEL, Value: 443
+   Target Character: PAULINA, Value: 46
+   Target Character: Clown, Value: 18
+   Target Character: Shepherd, Value: 102
+   Target Character: PERDITA, Value: 389
+   Target Character: LEONTES, Value: 437
+Character: LEONTES
+   Target Character: CAMILLO, Value: 1324
+   Target Character: Officer, Value: 16
+   Target Character: ANTIGONUS, Value: 641
+   Target Character: Lord, Value: 90
+   Target Character: PAULINA, Value: 1428
+   Target Character: PERDITA, Value: 93
+   Target Character: DION, Value: 6
+   Target Character: Third Gentleman, Value: 80
+   Target Character: CLEOMENES, Value: 85
+   Target Character: First Lord, Value: 807
+   Target Character: First Servant, Value: 120
+   Target Character: HERMIONE, Value: 1236
+   Target Character: FLORIZEL, Value: 449
+   Target Character: MAMILLIUS, Value: 730
+   Target Character: Lords, Value: 3
+   Target Character: POLIXENES, Value: 419
+Character: MOPSA
+   Target Character: DORCAS, Value: 114
+   Target Character: Clown, Value: 92
+   Target Character: AUTOLYCUS, Value: 62
+Character: Shepard
+   Target Character: AUTOLYCUS, Value: 28
+Character: Officer
+   Target Character: HERMIONE, Value: 133
+   Target Character: Lords, Value: 35
+   Target Character: DION, Value: 53
+   Target Character: LEONTES, Value: 141
+Character: ANTIGONUS
+   Target Character: Mariner, Value: 61
+   Target Character: First Lord, Value: 185
+   Target Character: PAULINA, Value: 47
+   Target Character: Lords, Value: 16
+   Target Character: Second Servant, Value: 2
+   Target Character: LEONTES, Value: 386
+Character: First Lady
+   Target Character: HERMIONE, Value: 9
+   Target Character: Second Lady, Value: 33
+   Target Character: MAMILLIUS, Value: 56
+Character: Second Gentleman
+   Target Character: Third Gentleman, Value: 137
+Character: PERDITA
+   Target Character: CAMILLO, Value: 402
+   Target Character: FLORIZEL, Value: 747
+   Target Character: PAULINA, Value: 44
+   Target Character: Lord, Value: 16
+   Target Character: Clown, Value: 11
+   Target Character: Shepherd, Value: 52
+   Target Character: POLIXENES, Value: 365
+   Target Character: AUTOLYCUS, Value: 8
+   Target Character: LEONTES, Value: 60
+Character: First Lord
+   Target Character: ANTIGONUS, Value: 90
+   Target Character: First Servant, Value: 10
+   Target Character: PAULINA, Value: 41
+   Target Character: LEONTES, Value: 301
+Character: HERMIONE
+   Target Character: Officer, Value: 298
+   Target Character: First Lady, Value: 12
+   Target Character: MAMILLIUS, Value: 95
+   Target Character: Second Lady, Value: 23
+   Target Character: PAULINA, Value: 114
+   Target Character: Lords, Value: 1
+   Target Character: POLIXENES, Value: 443
+   Target Character: LEONTES, Value: 1810
+Character: DORCAS
+   Target Character: MOPSA, Value: 70
+   Target Character: Clown, Value: 12
+   Target Character: AUTOLYCUS, Value: 42
+Character: Shepherd
+   Target Character: CAMILLO, Value: 9
+   Target Character: First Servant, Value: 65
+   Target Character: FLORIZEL, Value: 297
+   Target Character: Clown, Value: 784
+   Target Character: PERDITA, Value: 35
+   Target Character: POLIXENES, Value: 176
+   Target Character: AUTOLYCUS, Value: 228
+Character: AUTOLYCUS
+   Target Character: CAMILLO, Value: 273
+   Target Character: MOPSA, Value: 172
+   Target Character: Shepard, Value: 67
+   Target Character: First Gentleman, Value: 18
+   Target Character: First Servant, Value: 51
+   Target Character: FLORIZEL, Value: 24
+   Target Character: DORCAS, Value: 126
+   Target Character: Clown, Value: 2127
+   Target Character: Shepherd, Value: 529
+   Target Character: PERDITA, Value: 74
+   Target Character: AUTOLYCUS, Value: 30

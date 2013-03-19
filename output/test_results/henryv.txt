@@ -1,0 +1,227 @@
+Character: ELY
+   Target Character: CANTERBURY, Value: 290
+   Target Character: EXETER, Value: 52
+Character: French Soldier
+   Target Character: Boy, Value: 45
+   Target Character: PISTOL, Value: 151
+Character: ORLEANS
+   Target Character: RAMBURES, Value: 63
+   Target Character: Messenger, Value: 8
+   Target Character: DAUPHIN, Value: 115
+   Target Character: Constable, Value: 343
+   Target Character: BOURBON, Value: 10
+Character: Boy
+   Target Character: French Soldier, Value: 92
+   Target Character: BARDOLPH, Value: 62
+   Target Character: GOWER, Value: 259
+   Target Character: PISTOL, Value: 277
+   Target Character: Hostess, Value: 63
+Character: FLUELLEN
+   Target Character: WARWICK, Value: 22
+   Target Character: WILLIAMS, Value: 255
+   Target Character: Y V, Value: 1151
+   Target Character: GOWER, Value: 1759
+   Target Character: MACMORRIS, Value: 201
+   Target Character: PISTOL, Value: 731
+   Target Character: JAMY, Value: 143
+Character: BATES
+   Target Character: WILLIAMS, Value: 130
+   Target Character: Y V, Value: 171
+   Target Character: COURT, Value: 16
+Character: QUEEN ISABEL
+   Target Character: BURGUNDY, Value: 8
+   Target Character: F FRANCE, Value: 72
+   Target Character: Y V, Value: 212
+   Target Character: ALL, Value: 80
+Character: DAUPHIN
+   Target Character: ORLEANS, Value: 557
+   Target Character: F FRANCE, Value: 192
+   Target Character: Constable, Value: 705
+   Target Character: BOURBON, Value: 69
+   Target Character: EXETER, Value: 89
+Character: ALICE
+   Target Character: Y V, Value: 91
+   Target Character: KATHARINE, Value: 231
+Character: GREY
+   Target Character: CAMBRIDGE, Value: 76
+   Target Character: Y V, Value: 46
+   Target Character: SCROOP, Value: 5
+Character: YORK
+   Target Character: Y V, Value: 14
+Character: Hostess
+   Target Character: Boy, Value: 67
+   Target Character: BARDOLPH, Value: 283
+   Target Character: NYM, Value: 281
+   Target Character: PISTOL, Value: 20
+Character: Herald
+   Target Character: Y V, Value: 16
+Character: GRANDPRE
+   Target Character: Constable, Value: 270
+Character: F FRANCE
+   Target Character: Messenger, Value: 134
+   Target Character: QUEEN ISABEL, Value: 21
+   Target Character: Y V, Value: 103
+   Target Character: DAUPHIN, Value: 161
+   Target Character: Constable, Value: 184
+   Target Character: BOURBON, Value: 144
+   Target Character: EXETER, Value: 48
+Character: BEDFORD
+   Target Character: SALISBURY, Value: 9
+   Target Character: WESTMORELAND, Value: 36
+   Target Character: GLOUCESTER, Value: 9
+   Target Character: EXETER, Value: 10
+Character: GOWER
+   Target Character: Boy, Value: 17
+   Target Character: FLUELLEN, Value: 565
+   Target Character: WILLIAMS, Value: 5
+   Target Character: Y V, Value: 2
+   Target Character: MACMORRIS, Value: 21
+   Target Character: JAMY, Value: 5
+Character: FRENCH KING
+   Target Character: Y V, Value: 152
+   Target Character: ALL, Value: 61
+   Target Character: EXETER, Value: 17
+Character: MACMORRIS
+   Target Character: FLUELLEN, Value: 139
+   Target Character: GOWER, Value: 83
+   Target Character: JAMY, Value: 188
+Character: MONTJOY
+   Target Character: GLOUCESTER, Value: 8
+   Target Character: Y V, Value: 750
+Character: ERPINGHAM
+   Target Character: GLOUCESTER, Value: 5
+   Target Character: Y V, Value: 75
+Character: WESTMORELAND
+   Target Character: CANTERBURY, Value: 101
+   Target Character: BEDFORD, Value: 50
+   Target Character: Y V, Value: 61
+   Target Character: EXETER, Value: 151
+Character: SALISBURY
+   Target Character: Y V, Value: 46
+   Target Character: BEDFORD, Value: 52
+   Target Character: EXETER, Value: 52
+Character: BURGUNDY
+   Target Character: Y V, Value: 695
+   Target Character: QUEEN ISABEL, Value: 325
+Character: CAMBRIDGE
+   Target Character: Y V, Value: 63
+   Target Character: GREY, Value: 82
+   Target Character: SCROOP, Value: 69
+Character: GLOUCESTER
+   Target Character: BEDFORD, Value: 4
+   Target Character: Y V, Value: 15
+   Target Character: EXETER, Value: 9
+   Target Character: MONTJOY, Value: 9
+   Target Character: ERPINGHAM, Value: 4
+Character: WILLIAMS
+   Target Character: FLUELLEN, Value: 157
+   Target Character: BATES, Value: 182
+   Target Character: GOWER, Value: 6
+   Target Character: Y V, Value: 859
+Character: ALL
+   Target Character: QUEEN ISABEL, Value: 1
+   Target Character: FRENCH KING, Value: 1
+Character: SCROOP
+   Target Character: CAMBRIDGE, Value: 41
+   Target Character: Y V, Value: 109
+   Target Character: GREY, Value: 6
+   Target Character: EXETER, Value: 30
+Character: Constable
+   Target Character: RAMBURES, Value: 74
+   Target Character: ORLEANS, Value: 456
+   Target Character: GRANDPRE, Value: 193
+   Target Character: Messenger, Value: 34
+   Target Character: F FRANCE, Value: 119
+   Target Character: DAUPHIN, Value: 544
+   Target Character: BOURBON, Value: 115
+Character: BOURBON
+   Target Character: ORLEANS, Value: 55
+   Target Character: F FRANCE, Value: 29
+   Target Character: DAUPHIN, Value: 65
+   Target Character: Constable, Value: 91
+Character: EXETER
+   Target Character: CANTERBURY, Value: 71
+   Target Character: ELY, Value: 24
+   Target Character: SALISBURY, Value: 9
+   Target Character: WESTMORELAND, Value: 171
+   Target Character: GLOUCESTER, Value: 9
+   Target Character: F FRANCE, Value: 628
+   Target Character: DAUPHIN, Value: 220
+   Target Character: BEDFORD, Value: 7
+   Target Character: Y V, Value: 371
+   Target Character: FRENCH KING, Value: 60
+   Target Character: SCROOP, Value: 44
+Character: GOVERNOR
+   Target Character: Y V, Value: 56
+Character: PISTOL
+   Target Character: French Soldier, Value: 239
+   Target Character: Boy, Value: 315
+   Target Character: FLUELLEN, Value: 463
+   Target Character: BARDOLPH, Value: 110
+   Target Character: Y V, Value: 208
+   Target Character: NYM, Value: 449
+   Target Character: Hostess, Value: 40
+Character: JAMY
+   Target Character: FLUELLEN, Value: 98
+   Target Character: GOWER, Value: 5
+   Target Character: MACMORRIS, Value: 88
+Character: CANTERBURY
+   Target Character: ELY, Value: 1273
+   Target Character: WESTMORELAND, Value: 136
+   Target Character: Y V, Value: 1287
+   Target Character: EXETER, Value: 269
+Character: RAMBURES
+   Target Character: ORLEANS, Value: 34
+   Target Character: Messenger, Value: 17
+   Target Character: Constable, Value: 64
+Character: Messenger
+   Target Character: RAMBURES, Value: 7
+   Target Character: ORLEANS, Value: 14
+   Target Character: F FRANCE, Value: 12
+   Target Character: Constable, Value: 20
+Character: WARWICK
+   Target Character: FLUELLEN, Value: 7
+Character: First Ambassador
+   Target Character: Y V, Value: 262
+Character: BARDOLPH
+   Target Character: Boy, Value: 21
+   Target Character: NYM, Value: 171
+   Target Character: PISTOL, Value: 137
+   Target Character: Hostess, Value: 51
+Character: Y V
+   Target Character: FLUELLEN, Value: 398
+   Target Character: BATES, Value: 378
+   Target Character: QUEEN ISABEL, Value: 148
+   Target Character: GREY, Value: 191
+   Target Character: ALICE, Value: 177
+   Target Character: YORK, Value: 9
+   Target Character: Herald, Value: 14
+   Target Character: F FRANCE, Value: 145
+   Target Character: GOWER, Value: 6
+   Target Character: FRENCH KING, Value: 160
+   Target Character: MONTJOY, Value: 801
+   Target Character: ERPINGHAM, Value: 689
+   Target Character: WESTMORELAND, Value: 38
+   Target Character: SALISBURY, Value: 418
+   Target Character: CAMBRIDGE, Value: 212
+   Target Character: BURGUNDY, Value: 468
+   Target Character: GLOUCESTER, Value: 231
+   Target Character: WILLIAMS, Value: 1153
+   Target Character: SCROOP, Value: 734
+   Target Character: GOVERNOR, Value: 330
+   Target Character: EXETER, Value: 1430
+   Target Character: PISTOL, Value: 117
+   Target Character: CANTERBURY, Value: 663
+   Target Character: First Ambassador, Value: 203
+   Target Character: KATHARINE, Value: 2384
+   Target Character: COURT, Value: 17
+Character: NYM
+   Target Character: BARDOLPH, Value: 332
+   Target Character: PISTOL, Value: 314
+   Target Character: Hostess, Value: 43
+Character: KATHARINE
+   Target Character: Y V, Value: 329
+   Target Character: ALICE, Value: 521
+Character: COURT
+   Target Character: BATES, Value: 11
+   Target Character: Y V, Value: 11

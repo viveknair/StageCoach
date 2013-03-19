@@ -1,0 +1,135 @@
+Character: ANTONIO
+   Target Character: First Officer, Value: 139
+   Target Character: SEBASTIAN, Value: 586
+   Target Character: Second Officer, Value: 113
+   Target Character: Y BELCH, Value: 46
+   Target Character: OLIVIA, Value: 23
+   Target Character: VIOLA, Value: 282
+   Target Character: DUKE ORSINO, Value: 179
+Character: First Officer
+   Target Character: ANTONIO, Value: 55
+   Target Character: Second Officer, Value: 7
+   Target Character: SIR ANDREW, Value: 7
+   Target Character: VIOLA, Value: 47
+   Target Character: DUKE ORSINO, Value: 47
+Character: SEBASTIAN
+   Target Character: ANTONIO, Value: 598
+   Target Character: SEBASTIAN, Value: 180
+   Target Character: Y BELCH, Value: 36
+   Target Character: OLIVIA, Value: 382
+   Target Character: SIR ANDREW, Value: 17
+   Target Character: VIOLA, Value: 228
+   Target Character: DUKE ORSINO, Value: 79
+   Target Character: Clown, Value: 72
+Character: FABIAN
+   Target Character: MARIA, Value: 28
+   Target Character: MALVOLIO, Value: 178
+   Target Character: Y BELCH, Value: 628
+   Target Character: OLIVIA, Value: 390
+   Target Character: SIR ANDREW, Value: 216
+   Target Character: VIOLA, Value: 106
+   Target Character: DUKE ORSINO, Value: 13
+   Target Character: Clown, Value: 14
+Character: Second Officer
+   Target Character: ANTONIO, Value: 28
+   Target Character: First Officer, Value: 10
+Character: Y BELCH
+   Target Character: ANTONIO, Value: 12
+   Target Character: MARIA, Value: 574
+   Target Character: SEBASTIAN, Value: 54
+   Target Character: FABIAN, Value: 992
+   Target Character: MALVOLIO, Value: 312
+   Target Character: OLIVIA, Value: 102
+   Target Character: SIR ANDREW, Value: 1497
+   Target Character: VIOLA, Value: 647
+   Target Character: DUKE ORSINO, Value: 17
+   Target Character: Clown, Value: 291
+Character: OLIVIA
+   Target Character: Servant, Value: 6
+   Target Character: ANTONIO, Value: 2
+   Target Character: MARIA, Value: 172
+   Target Character: FABIAN, Value: 103
+   Target Character: SEBASTIAN, Value: 294
+   Target Character: MALVOLIO, Value: 514
+   Target Character: Y BELCH, Value: 125
+   Target Character: SIR ANDREW, Value: 41
+   Target Character: VIOLA, Value: 1635
+   Target Character: DUKE ORSINO, Value: 132
+   Target Character: Priest, Value: 77
+   Target Character: Clown, Value: 265
+Character: VIOLA
+   Target Character: ANTONIO, Value: 215
+   Target Character: First Officer, Value: 24
+   Target Character: FABIAN, Value: 47
+   Target Character: SEBASTIAN, Value: 264
+   Target Character: Y BELCH, Value: 499
+   Target Character: OLIVIA, Value: 1408
+   Target Character: DUKE ORSINO, Value: 684
+   Target Character: Clown, Value: 251
+   Target Character: MARIA, Value: 26
+   Target Character: Captain, Value: 467
+   Target Character: VALENTINE, Value: 50
+   Target Character: MALVOLIO, Value: 36
+   Target Character: SIR ANDREW, Value: 97
+Character: DUKE ORSINO
+   Target Character: CURIO, Value: 174
+   Target Character: ANTONIO, Value: 60
+   Target Character: First Officer, Value: 72
+   Target Character: VALENTINE, Value: 50
+   Target Character: SEBASTIAN, Value: 34
+   Target Character: FABIAN, Value: 7
+   Target Character: Y BELCH, Value: 7
+   Target Character: SIR ANDREW, Value: 13
+   Target Character: OLIVIA, Value: 240
+   Target Character: VIOLA, Value: 1262
+   Target Character: Priest, Value: 50
+   Target Character: Clown, Value: 247
+Character: Clown
+   Target Character: MARIA, Value: 201
+   Target Character: FABIAN, Value: 21
+   Target Character: SEBASTIAN, Value: 226
+   Target Character: MALVOLIO, Value: 705
+   Target Character: Y BELCH, Value: 398
+   Target Character: SIR ANDREW, Value: 276
+   Target Character: OLIVIA, Value: 829
+   Target Character: VIOLA, Value: 538
+   Target Character: DUKE ORSINO, Value: 606
+Character: CURIO
+   Target Character: DUKE ORSINO, Value: 59
+Character: Servant
+   Target Character: OLIVIA, Value: 21
+Character: MARIA
+   Target Character: FABIAN, Value: 60
+   Target Character: MALVOLIO, Value: 219
+   Target Character: Y BELCH, Value: 1135
+   Target Character: OLIVIA, Value: 111
+   Target Character: SIR ANDREW, Value: 211
+   Target Character: VIOLA, Value: 9
+   Target Character: Clown, Value: 228
+Character: VALENTINE
+   Target Character: VIOLA, Value: 32
+   Target Character: DUKE ORSINO, Value: 70
+Character: Captain
+   Target Character: VIOLA, Value: 457
+Character: MALVOLIO
+   Target Character: MARIA, Value: 202
+   Target Character: FABIAN, Value: 671
+   Target Character: Y BELCH, Value: 940
+   Target Character: SIR ANDREW, Value: 102
+   Target Character: OLIVIA, Value: 997
+   Target Character: VIOLA, Value: 143
+   Target Character: Clown, Value: 657
+Character: SIR ANDREW
+   Target Character: MARIA, Value: 210
+   Target Character: First Officer, Value: 25
+   Target Character: SEBASTIAN, Value: 48
+   Target Character: MALVOLIO, Value: 42
+   Target Character: FABIAN, Value: 132
+   Target Character: Y BELCH, Value: 1128
+   Target Character: OLIVIA, Value: 117
+   Target Character: VIOLA, Value: 94
+   Target Character: DUKE ORSINO, Value: 88
+   Target Character: Clown, Value: 228
+Character: Priest
+   Target Character: OLIVIA, Value: 57
+   Target Character: DUKE ORSINO, Value: 57

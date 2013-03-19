@@ -1,0 +1,338 @@
+Character: COMINIUS
+   Target Character: Third Citizen, Value: 6
+   Target Character: MENENIUS, Value: 1556
+   Target Character: All Citizens, Value: 8
+   Target Character: VOLUMNIA, Value: 67
+   Target Character: TITUS, Value: 2
+   Target Character: MARCIUS, Value: 457
+   Target Character: BRUTUS, Value: 66
+   Target Character: Second Messenger, Value: 6
+   Target Character: First Senator, Value: 50
+   Target Character: All Conspirators, Value: 111
+   Target Character: Both Tribunes, Value: 15
+   Target Character: CORIOLANUS, Value: 388
+   Target Character: Second Senator, Value: 9
+   Target Character: A Patrician, Value: 3
+   Target Character: SICINIUS, Value: 153
+   Target Character: Messenger, Value: 170
+   Target Character: LARTIUS, Value: 151
+Character: MENENIUS
+   Target Character: AEdile, Value: 62
+   Target Character: COMINIUS, Value: 741
+   Target Character: VALERIA, Value: 11
+   Target Character: VIRGILIA, Value: 145
+   Target Character: All Citizens, Value: 187
+   Target Character: VOLUMNIA, Value: 592
+   Target Character: TITUS, Value: 2
+   Target Character: MARCIUS, Value: 151
+   Target Character: BRUTUS, Value: 1095
+   Target Character: All Conspirators, Value: 15
+   Target Character: First Senator, Value: 489
+   Target Character: Both Tribunes, Value: 30
+   Target Character: CORIOLANUS, Value: 709
+   Target Character: Second Senator, Value: 116
+   Target Character: First Citizen, Value: 1160
+   Target Character: Both, Value: 136
+   Target Character: A Patrician, Value: 16
+   Target Character: SICINIUS, Value: 1518
+   Target Character: Second Patrician, Value: 51
+   Target Character: First Officer, Value: 90
+Character: Second Officer
+   Target Character: First Officer, Value: 274
+Character: All Citizens
+   Target Character: COMINIUS, Value: 18
+   Target Character: MENENIUS, Value: 58
+   Target Character: Third Citizen, Value: 6
+   Target Character: CORIOLANUS, Value: 36
+   Target Character: First Citizen, Value: 9
+   Target Character: BRUTUS, Value: 30
+   Target Character: SICINIUS, Value: 76
+Character: VOLUMNIA
+   Target Character: COMINIUS, Value: 75
+   Target Character: MENENIUS, Value: 803
+   Target Character: First Senator, Value: 25
+   Target Character: CORIOLANUS, Value: 1730
+   Target Character: VALERIA, Value: 93
+   Target Character: VIRGILIA, Value: 740
+   Target Character: Gentlewoman, Value: 56
+   Target Character: BRUTUS, Value: 175
+   Target Character: SICINIUS, Value: 150
+Character: AUFIDIUS
+   Target Character: e Lords, Value: 26
+   Target Character: Lieutenant, Value: 279
+   Target Character: First Conspirator, Value: 233
+   Target Character: Lords, Value: 25
+   Target Character: Second Servingman, Value: 16
+   Target Character: MARCIUS, Value: 56
+   Target Character: Third Lord, Value: 52
+   Target Character: First Lord, Value: 58
+   Target Character: First Senator, Value: 176
+   Target Character: All Conspirators, Value: 79
+   Target Character: Second Conspirator, Value: 29
+   Target Character: CORIOLANUS, Value: 952
+   Target Character: First Servingman, Value: 96
+   Target Character: First Soldier, Value: 472
+   Target Character: Second Senator, Value: 100
+   Target Character: Third Conspirator, Value: 236
+Character: Second Messenger
+   Target Character: COMINIUS, Value: 36
+   Target Character: SICINIUS, Value: 85
+Character: Fourth Citizen
+   Target Character: CORIOLANUS, Value: 82
+   Target Character: Fifth Citizen, Value: 8
+Character: First Senator
+   Target Character: COMINIUS, Value: 30
+   Target Character: MENENIUS, Value: 531
+   Target Character: CORIOLANUS, Value: 33
+   Target Character: Second Senator, Value: 50
+   Target Character: VOLUMNIA, Value: 17
+   Target Character: AUFIDIUS, Value: 41
+   Target Character: BRUTUS, Value: 8
+   Target Character: MARCIUS, Value: 103
+   Target Character: SICINIUS, Value: 80
+Character: Second Conspirator
+   Target Character: First Conspirator, Value: 16
+   Target Character: Third Conspirator, Value: 16
+   Target Character: AUFIDIUS, Value: 44
+Character: First Servingman
+   Target Character: Second Servingman, Value: 307
+   Target Character: AUFIDIUS, Value: 4
+   Target Character: Third Servingman, Value: 73
+Character: Fifth Citizen
+   Target Character: Fourth Citizen, Value: 14
+   Target Character: CORIOLANUS, Value: 14
+Character: First Citizen
+   Target Character: Third Citizen, Value: 72
+   Target Character: MENENIUS, Value: 470
+   Target Character: All Conspirators, Value: 120
+   Target Character: CORIOLANUS, Value: 14
+   Target Character: Second Citizen, Value: 386
+   Target Character: All Citizens, Value: 28
+   Target Character: BRUTUS, Value: 30
+   Target Character: MARCIUS, Value: 12
+   Target Character: SICINIUS, Value: 57
+Character: Second Lord
+   Target Character: e People, Value: 34
+   Target Character: First Lord, Value: 26
+   Target Character: CORIOLANUS, Value: 34
+   Target Character: Third Lord, Value: 9
+Character: A Patrician
+   Target Character: COMINIUS, Value: 6
+   Target Character: MENENIUS, Value: 4
+   Target Character: CORIOLANUS, Value: 4
+Character: First Officer
+   Target Character: MENENIUS, Value: 17
+   Target Character: Second Officer, Value: 183
+Character: LARTIUS
+   Target Character: COMINIUS, Value: 19
+   Target Character: All Conspirators, Value: 10
+   Target Character: CORIOLANUS, Value: 167
+   Target Character: Lieutenant, Value: 43
+   Target Character: First Soldier, Value: 74
+   Target Character: MARCIUS, Value: 152
+   Target Character: Messenger, Value: 6
+Character: e People
+   Target Character: All Conspirators, Value: 28
+   Target Character: Second Lord, Value: 28
+Character: AEdile
+   Target Character: MENENIUS, Value: 42
+   Target Character: CORIOLANUS, Value: 15
+   Target Character: BRUTUS, Value: 58
+   Target Character: SICINIUS, Value: 36
+Character: Lords
+   Target Character: All Conspirators, Value: 4
+   Target Character: First Lord, Value: 2
+   Target Character: AUFIDIUS, Value: 6
+Character: TITUS
+   Target Character: COMINIUS, Value: 9
+   Target Character: MENENIUS, Value: 17
+   Target Character: MARCIUS, Value: 17
+Character: Herald
+   Target Character: All Conspirators, Value: 32
+   Target Character: CORIOLANUS, Value: 12
+Character: First Lord
+   Target Character: CORIOLANUS, Value: 12
+   Target Character: Lords, Value: 52
+   Target Character: Second Lord, Value: 29
+   Target Character: AUFIDIUS, Value: 29
+Character: Volsce
+   Target Character: First Roman, Value: 303
+Character: Second Citizen
+   Target Character: Third Citizen, Value: 77
+   Target Character: All Conspirators, Value: 21
+   Target Character: CORIOLANUS, Value: 26
+   Target Character: First Citizen, Value: 120
+   Target Character: BRUTUS, Value: 23
+   Target Character: SICINIUS, Value: 25
+Character: Second Soldier
+   Target Character: First Soldier, Value: 2
+Character: Young MARCIUS
+   Target Character: VIRGILIA, Value: 17
+Character: Both
+   Target Character: MENENIUS, Value: 22
+Character: SICINIUS
+   Target Character: COMINIUS, Value: 54
+   Target Character: AEdile, Value: 185
+   Target Character: MENENIUS, Value: 675
+   Target Character: Third Citizen, Value: 40
+   Target Character: VIRGILIA, Value: 5
+   Target Character: All Citizens, Value: 226
+   Target Character: VOLUMNIA, Value: 11
+   Target Character: MARCIUS, Value: 9
+   Target Character: BRUTUS, Value: 1300
+   Target Character: Second Messenger, Value: 36
+   Target Character: First Senator, Value: 41
+   Target Character: Both Tribunes, Value: 29
+   Target Character: CORIOLANUS, Value: 430
+   Target Character: Second Citizen, Value: 7
+   Target Character: First Citizen, Value: 82
+   Target Character: Messenger, Value: 43
+Character: e Lords
+   Target Character: AUFIDIUS, Value: 10
+Character: VALERIA
+   Target Character: MENENIUS, Value: 8
+   Target Character: VIRGILIA, Value: 441
+   Target Character: VOLUMNIA, Value: 237
+Character: VIRGILIA
+   Target Character: MENENIUS, Value: 29
+   Target Character: CORIOLANUS, Value: 27
+   Target Character: VALERIA, Value: 149
+   Target Character: Young MARCIUS, Value: 16
+   Target Character: VOLUMNIA, Value: 157
+   Target Character: Gentlewoman, Value: 8
+   Target Character: SICINIUS, Value: 27
+Character: First Conspirator
+   Target Character: Second Conspirator, Value: 21
+   Target Character: AUFIDIUS, Value: 62
+Character: MARCIUS
+   Target Character: COMINIUS, Value: 603
+   Target Character: MENENIUS, Value: 646
+   Target Character: First Senator, Value: 90
+   Target Character: Third Roman, Value: 89
+   Target Character: First Soldier, Value: 142
+   Target Character: TITUS, Value: 25
+   Target Character: First Citizen, Value: 206
+   Target Character: AUFIDIUS, Value: 80
+   Target Character: MARCIUS, Value: 131
+   Target Character: SICINIUS, Value: 26
+   Target Character: Messenger, Value: 27
+   Target Character: LARTIUS, Value: 254
+Character: Second Roman
+   Target Character: First Roman, Value: 3
+Character: All Conspirators
+   Target Character: e People, Value: 4
+   Target Character: Herald, Value: 5
+   Target Character: COMINIUS, Value: 3
+   Target Character: MENENIUS, Value: 2
+   Target Character: CORIOLANUS, Value: 8
+   Target Character: Second Citizen, Value: 30
+   Target Character: First Soldier, Value: 3
+   Target Character: Lords, Value: 6
+   Target Character: First Citizen, Value: 28
+   Target Character: AUFIDIUS, Value: 12
+   Target Character: BRUTUS, Value: 9
+   Target Character: LARTIUS, Value: 9
+Character: CORIOLANUS
+   Target Character: COMINIUS, Value: 894
+   Target Character: MENENIUS, Value: 1024
+   Target Character: VIRGILIA, Value: 345
+   Target Character: All Citizens, Value: 93
+   Target Character: VOLUMNIA, Value: 1348
+   Target Character: AUFIDIUS, Value: 1224
+   Target Character: Fourth Citizen, Value: 143
+   Target Character: First Senator, Value: 197
+   Target Character: All Conspirators, Value: 56
+   Target Character: Both Tribunes, Value: 17
+   Target Character: Fifth Citizen, Value: 93
+   Target Character: First Citizen, Value: 35
+   Target Character: Second Lord, Value: 17
+   Target Character: A Patrician, Value: 45
+   Target Character: LARTIUS, Value: 87
+   Target Character: AEdile, Value: 119
+   Target Character: Third Citizen, Value: 81
+   Target Character: Second Servingman, Value: 14
+   Target Character: BRUTUS, Value: 834
+   Target Character: Herald, Value: 41
+   Target Character: First Lord, Value: 111
+   Target Character: Second Citizen, Value: 74
+   Target Character: Sixth Citizen, Value: 157
+   Target Character: Third Servingman, Value: 75
+   Target Character: SICINIUS, Value: 443
+Character: Both Tribunes
+   Target Character: COMINIUS, Value: 5
+   Target Character: MENENIUS, Value: 7
+   Target Character: CORIOLANUS, Value: 8
+   Target Character: SICINIUS, Value: 4
+Character: Third Roman
+   Target Character: MARCIUS, Value: 8
+Character: Seventh Citizen
+   Target Character: Sixth Citizen, Value: 18
+Character: First Soldier
+   Target Character: All Conspirators, Value: 28
+   Target Character: Second Soldier, Value: 6
+   Target Character: AUFIDIUS, Value: 28
+   Target Character: MARCIUS, Value: 3
+   Target Character: LARTIUS, Value: 2
+Character: Third Conspirator
+   Target Character: Second Conspirator, Value: 43
+   Target Character: AUFIDIUS, Value: 74
+Character: Gentlewoman
+   Target Character: VIRGILIA, Value: 9
+   Target Character: VOLUMNIA, Value: 9
+Character: Messenger
+   Target Character: COMINIUS, Value: 124
+   Target Character: BRUTUS, Value: 161
+   Target Character: MARCIUS, Value: 30
+   Target Character: SICINIUS, Value: 155
+   Target Character: LARTIUS, Value: 10
+Character: Second Patrician
+   Target Character: MENENIUS, Value: 5
+Character: Senators
+   Target Character: BRUTUS, Value: 7
+Character: Third Citizen
+   Target Character: COMINIUS, Value: 37
+   Target Character: CORIOLANUS, Value: 65
+   Target Character: Second Citizen, Value: 324
+   Target Character: All Citizens, Value: 76
+   Target Character: First Citizen, Value: 167
+   Target Character: SICINIUS, Value: 84
+Character: First Roman
+   Target Character: Volsce, Value: 445
+   Target Character: Second Roman, Value: 6
+Character: Lieutenant
+   Target Character: AUFIDIUS, Value: 151
+   Target Character: LARTIUS, Value: 5
+Character: Second Servingman
+   Target Character: First Servingman, Value: 296
+   Target Character: CORIOLANUS, Value: 54
+   Target Character: AUFIDIUS, Value: 15
+   Target Character: Third Servingman, Value: 93
+Character: BRUTUS
+   Target Character: COMINIUS, Value: 137
+   Target Character: Senators, Value: 9
+   Target Character: AEdile, Value: 113
+   Target Character: MENENIUS, Value: 292
+   Target Character: All Citizens, Value: 61
+   Target Character: VOLUMNIA, Value: 27
+   Target Character: All Conspirators, Value: 38
+   Target Character: First Senator, Value: 6
+   Target Character: CORIOLANUS, Value: 211
+   Target Character: Second Citizen, Value: 15
+   Target Character: First Citizen, Value: 58
+   Target Character: SICINIUS, Value: 1639
+   Target Character: Messenger, Value: 24
+Character: Third Lord
+   Target Character: Second Lord, Value: 12
+   Target Character: AUFIDIUS, Value: 12
+Character: Second Senator
+   Target Character: COMINIUS, Value: 3
+   Target Character: MENENIUS, Value: 85
+   Target Character: First Senator, Value: 54
+   Target Character: AUFIDIUS, Value: 76
+Character: Sixth Citizen
+   Target Character: CORIOLANUS, Value: 12
+   Target Character: Seventh Citizen, Value: 12
+Character: Third Servingman
+   Target Character: CORIOLANUS, Value: 116
+   Target Character: First Servingman, Value: 331
+   Target Character: Second Servingman, Value: 271

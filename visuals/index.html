@@ -71,7 +71,7 @@ function returnDomain(values) {
   return [bottomValue, topValue];
 }
 
-d3.json("graph_structure_hamlet_alt.json", function(error, graph) {
+d3.json("jsonDatasets/json_networks/1henryiv.json", function(error, graph) {
 
   var trueDomain = returnDomain(graph);
   var usedDomain = [trueDomain[0] + DOMAIN_REP * (trueDomain[1] - trueDomain[0]), trueDomain[0] + (1-DOMAIN_REP) * (trueDomain[1] - trueDomain[0])];

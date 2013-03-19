@@ -1,0 +1,164 @@
+Character: TITANIA
+   Target Character: BOTTOM, Value: 220
+   Target Character: OBERON, Value: 1184
+   Target Character: ALL, Value: 82
+   Target Character: PUCK, Value: 7
+   Target Character: PEASEBLOSSOM, Value: 172
+Character: Fairy
+   Target Character: OBERON, Value: 9
+   Target Character: PUCK, Value: 354
+Character: PHILOSTRATE
+   Target Character: THESEUS, Value: 281
+Character: ALL
+   Target Character: BOTTOM, Value: 7
+   Target Character: TITANIA, Value: 4
+   Target Character: MUSTARDSEED, Value: 4
+   Target Character: QUINCE, Value: 7
+Character: PUCK
+   Target Character: LYSANDER, Value: 76
+   Target Character: TITANIA, Value: 10
+   Target Character: OBERON, Value: 915
+   Target Character: Fairy, Value: 358
+   Target Character: FLUTE, Value: 7
+   Target Character: QUINCE, Value: 62
+   Target Character: HELENA, Value: 105
+   Target Character: DEMETRIUS, Value: 108
+Character: DEMETRIUS
+   Target Character: LYSANDER, Value: 376
+   Target Character: OBERON, Value: 104
+   Target Character: PUCK, Value: 121
+   Target Character: Pyramus, Value: 16
+   Target Character: Wall, Value: 11
+   Target Character: Thisbe, Value: 20
+   Target Character: BOTTOM, Value: 4
+   Target Character: HELENA, Value: 469
+   Target Character: THESEUS, Value: 133
+   Target Character: HERMIA, Value: 239
+   Target Character: HIPPOLYTA, Value: 56
+   Target Character: Lion, Value: 3
+   Target Character: EGEUS, Value: 139
+   Target Character: Moonshine, Value: 9
+Character: PEASEBLOSSOM
+   Target Character: BOTTOM, Value: 4
+   Target Character: TITANIA, Value: 3
+   Target Character: COBWEB, Value: 3
+Character: Thisbe
+   Target Character: Pyramus, Value: 136
+   Target Character: THESEUS, Value: 94
+   Target Character: DEMETRIUS, Value: 9
+Character: MOTH
+   Target Character: MUSTARDSEED, Value: 3
+   Target Character: COBWEB, Value: 3
+Character: Prologue
+   Target Character: THESEUS, Value: 371
+Character: HERNIA
+   Target Character: HELENA, Value: 16
+Character: HELENA
+   Target Character: LYSANDER, Value: 517
+   Target Character: HERNIA, Value: 169
+   Target Character: PUCK, Value: 7
+   Target Character: DEMETRIUS, Value: 789
+   Target Character: HERMIA, Value: 1257
+Character: HERMIA
+   Target Character: LYSANDER, Value: 856
+   Target Character: OBERON, Value: 9
+   Target Character: HELENA, Value: 436
+   Target Character: DEMETRIUS, Value: 510
+   Target Character: THESEUS, Value: 200
+Character: Lion
+   Target Character: DEMETRIUS, Value: 2
+   Target Character: THESEUS, Value: 130
+Character: Moonshine
+   Target Character: LYSANDER, Value: 31
+   Target Character: DEMETRIUS, Value: 7
+   Target Character: THESEUS, Value: 41
+Character: LYSANDER
+   Target Character: OBERON, Value: 35
+   Target Character: PUCK, Value: 142
+   Target Character: HELENA, Value: 416
+   Target Character: HERMIA, Value: 1038
+   Target Character: THESEUS, Value: 240
+   Target Character: DEMETRIUS, Value: 274
+   Target Character: HIPPOLYTA, Value: 29
+   Target Character: Moonshine, Value: 2
+   Target Character: EGEUS, Value: 184
+Character: OBERON
+   Target Character: LYSANDER, Value: 52
+   Target Character: TITANIA, Value: 762
+   Target Character: Fairy, Value: 6
+   Target Character: PUCK, Value: 1163
+   Target Character: HERMIA, Value: 13
+   Target Character: DEMETRIUS, Value: 125
+Character: MUSTARDSEED
+   Target Character: BOTTOM, Value: 11
+   Target Character: ALL, Value: 2
+   Target Character: MOTH, Value: 3
+Character: STARVELING
+   Target Character: BOTTOM, Value: 18
+   Target Character: FLUTE, Value: 11
+   Target Character: QUINCE, Value: 17
+   Target Character: SNOUT, Value: 18
+Character: Pyramus
+   Target Character: DEMETRIUS, Value: 168
+   Target Character: THESEUS, Value: 186
+   Target Character: Thisbe, Value: 154
+Character: Wall
+   Target Character: THESEUS, Value: 98
+   Target Character: DEMETRIUS, Value: 82
+Character: COBWEB
+   Target Character: BOTTOM, Value: 4
+   Target Character: PEASEBLOSSOM, Value: 3
+   Target Character: MOTH, Value: 3
+Character: SNOUT
+   Target Character: BOTTOM, Value: 66
+   Target Character: STARVELING, Value: 14
+   Target Character: QUINCE, Value: 27
+Character: BOTTOM
+   Target Character: MUSTARDSEED, Value: 218
+   Target Character: TITANIA, Value: 443
+   Target Character: FLUTE, Value: 17
+   Target Character: STARVELING, Value: 101
+   Target Character: ALL, Value: 51
+   Target Character: QUINCE, Value: 1039
+   Target Character: DEMETRIUS, Value: 32
+   Target Character: COBWEB, Value: 108
+   Target Character: PEASEBLOSSOM, Value: 67
+   Target Character: SNOUT, Value: 250
+Character: FLUTE
+   Target Character: BOTTOM, Value: 60
+   Target Character: STARVELING, Value: 15
+   Target Character: QUINCE, Value: 171
+   Target Character: PUCK, Value: 4
+   Target Character: SNUG, Value: 14
+Character: QUINCE
+   Target Character: BOTTOM, Value: 754
+   Target Character: STARVELING, Value: 27
+   Target Character: FLUTE, Value: 187
+   Target Character: ALL, Value: 27
+   Target Character: PUCK, Value: 44
+   Target Character: SNUG, Value: 32
+   Target Character: SNOUT, Value: 118
+Character: THESEUS
+   Target Character: LYSANDER, Value: 341
+   Target Character: PHILOSTRATE, Value: 353
+   Target Character: Pyramus, Value: 26
+   Target Character: Wall, Value: 18
+   Target Character: DEMETRIUS, Value: 241
+   Target Character: HERMIA, Value: 369
+   Target Character: Thisbe, Value: 9
+   Target Character: HIPPOLYTA, Value: 641
+   Target Character: Lion, Value: 36
+   Target Character: Moonshine, Value: 69
+   Target Character: Prologue, Value: 18
+   Target Character: EGEUS, Value: 278
+Character: SNUG
+   Target Character: FLUTE, Value: 31
+   Target Character: QUINCE, Value: 40
+Character: HIPPOLYTA
+   Target Character: LYSANDER, Value: 19
+   Target Character: DEMETRIUS, Value: 37
+   Target Character: THESEUS, Value: 300
+Character: EGEUS
+   Target Character: LYSANDER, Value: 118
+   Target Character: DEMETRIUS, Value: 49
+   Target Character: THESEUS, Value: 412

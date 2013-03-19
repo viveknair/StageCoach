@@ -1,0 +1,329 @@
+Character: Children
+   Target Character: QUEEN ELIZABETH, Value: 26
+   Target Character: F YORK, Value: 26
+Character: f CLARENCE
+   Target Character: First Murderer, Value: 575
+   Target Character: Second Murderer, Value: 509
+   Target Character: f RIVERS, Value: 68
+   Target Character: Both, Value: 114
+   Target Character: Second murderer, Value: 16
+   Target Character: BRAKENBURY, Value: 981
+   Target Character: GLOUCESTER, Value: 308
+Character: F YORK
+   Target Character: Children, Value: 100
+   Target Character: F YORK, Value: 109
+   Target Character: of BUCKINGHAM, Value: 4
+   Target Character: YORK, Value: 130
+   Target Character: GLOUCESTER, Value: 30
+   Target Character: D III, Value: 322
+   Target Character: Girl, Value: 54
+   Target Character: Fourth Messenger, Value: 24
+   Target Character: QUEEN ELIZABETH, Value: 533
+   Target Character: QUEEN MARGARET, Value: 123
+   Target Character: LADY ANNE, Value: 48
+   Target Character: LORD STANLEY, Value: 52
+   Target Character: Boy, Value: 252
+   Target Character: DORSET, Value: 82
+Character: VAUGHAN
+   Target Character: RATCLIFF, Value: 9
+   Target Character: GREY, Value: 9
+Character: Citizens
+   Target Character: of BUCKINGHAM, Value: 2
+Character: D III
+   Target Character: LORDS, Value: 57
+   Target Character: F YORK, Value: 225
+   Target Character: of BUCKINGHAM, Value: 534
+   Target Character: STANLEY, Value: 410
+   Target Character: Fourth Messenger, Value: 319
+   Target Character: QUEEN ELIZABETH, Value: 1854
+   Target Character: Third Messenger, Value: 44
+   Target Character: RATCLIFF, Value: 584
+   Target Character: SURREY, Value: 22
+   Target Character: NORFOLK, Value: 255
+   Target Character: DERBY, Value: 25
+   Target Character: RICHMOND, Value: 67
+   Target Character: CATESBY, Value: 325
+   Target Character: Page, Value: 63
+   Target Character: TYRREL, Value: 305
+Character: LOVEL
+   Target Character: f HASTINGS, Value: 7
+   Target Character: GLOUCESTER, Value: 26
+Character: Girl
+   Target Character: QUEEN ELIZABETH, Value: 11
+   Target Character: F YORK, Value: 27
+   Target Character: Boy, Value: 38
+Character: f HASTINGS
+   Target Character: F ELY, Value: 110
+   Target Character: of BUCKINGHAM, Value: 156
+   Target Character: GLOUCESTER, Value: 336
+   Target Character: D IV, Value: 23
+   Target Character: CARDINAL, Value: 4
+   Target Character: STANLEY, Value: 137
+   Target Character: LOVEL, Value: 48
+   Target Character: Fourth Messenger, Value: 150
+   Target Character: QUEEN ELIZABETH, Value: 18
+   Target Character: PRINCE EDWARD, Value: 39
+   Target Character: RATCLIFF, Value: 159
+   Target Character: DERBY, Value: 72
+   Target Character: QUEEN MARGARET, Value: 38
+   Target Character: Pursuivant, Value: 136
+   Target Character: f RIVERS, Value: 49
+   Target Character: CATESBY, Value: 323
+Character: Sheriff
+   Target Character: of BUCKINGHAM, Value: 18
+Character: Pursuivant
+   Target Character: Priest, Value: 4
+   Target Character: f HASTINGS, Value: 24
+Character: QUEEN MARGARET
+   Target Character: QUEEN ELIZABETH, Value: 968
+   Target Character: f HASTINGS, Value: 117
+   Target Character: F YORK, Value: 456
+   Target Character: f RIVERS, Value: 54
+   Target Character: of BUCKINGHAM, Value: 496
+   Target Character: DORSET, Value: 77
+   Target Character: GLOUCESTER, Value: 1049
+Character: LADY ANNE
+   Target Character: QUEEN ELIZABETH, Value: 493
+   Target Character: F YORK, Value: 42
+   Target Character: LORD STANLEY, Value: 49
+   Target Character: DORSET, Value: 5
+   Target Character: GLOUCESTER, Value: 1446
+Character: GREY
+   Target Character: QUEEN ELIZABETH, Value: 68
+   Target Character: f RIVERS, Value: 75
+   Target Character: VAUGHAN, Value: 17
+   Target Character: of BUCKINGHAM, Value: 8
+Character: Page
+   Target Character: D III, Value: 72
+Character: CATESBY
+   Target Character: QUEEN ELIZABETH, Value: 16
+   Target Character: RATCLIFF, Value: 2
+   Target Character: f HASTINGS, Value: 199
+   Target Character: ANOTHER, Value: 9
+   Target Character: of BUCKINGHAM, Value: 213
+   Target Character: GLOUCESTER, Value: 47
+   Target Character: D III, Value: 209
+   Target Character: Fourth Messenger, Value: 7
+Character: First Citizen
+   Target Character: Second Citizen, Value: 30
+   Target Character: Third Citizen, Value: 87
+Character: Boy
+   Target Character: QUEEN ELIZABETH, Value: 9
+   Target Character: F YORK, Value: 209
+   Target Character: Girl, Value: 67
+Character: OXFORD
+   Target Character: RICHMOND, Value: 13
+   Target Character: HERBERT, Value: 13
+Character: f GREY
+   Target Character: f RIVERS, Value: 12
+   Target Character: f VAUGHAN, Value: 12
+Character: First Murderer
+   Target Character: Second Murderer, Value: 391
+   Target Character: f CLARENCE, Value: 182
+   Target Character: BRAKENBURY, Value: 30
+   Target Character: GLOUCESTER, Value: 74
+Character: LORDS
+   Target Character: RICHMOND, Value: 20
+   Target Character: D III, Value: 3
+Character: Second Citizen
+   Target Character: First Citizen, Value: 56
+   Target Character: Third Citizen, Value: 125
+Character: GENTLEMEN
+   Target Character: GLOUCESTER, Value: 4
+Character: Both
+   Target Character: f CLARENCE, Value: 18
+Character: D IV
+   Target Character: QUEEN ELIZABETH, Value: 45
+   Target Character: f HASTINGS, Value: 83
+   Target Character: f RIVERS, Value: 101
+   Target Character: of BUCKINGHAM, Value: 28
+   Target Character: GLOUCESTER, Value: 324
+   Target Character: DORSET, Value: 52
+Character: Gentleman
+   Target Character: GLOUCESTER, Value: 18
+Character: Third Citizen
+   Target Character: Second Citizen, Value: 158
+   Target Character: First Citizen, Value: 284
+Character: BLUNT
+   Target Character: RICHMOND, Value: 80
+   Target Character: HERBERT, Value: 19
+Character: PRINCE EDWARD
+   Target Character: f HASTINGS, Value: 8
+   Target Character: YORK, Value: 97
+   Target Character: of BUCKINGHAM, Value: 240
+   Target Character: GLOUCESTER, Value: 212
+Character: SURREY
+   Target Character: D III, Value: 18
+Character: Second Murderer
+   Target Character: First Murderer, Value: 648
+   Target Character: f CLARENCE, Value: 147
+   Target Character: BRAKENBURY, Value: 17
+Character: NORFOLK
+   Target Character: D III, Value: 82
+Character: HERBERT
+   Target Character: BLUNT, Value: 10
+   Target Character: OXFORD, Value: 10
+Character: Second murderer
+   Target Character: f CLARENCE, Value: 16
+Character: of BUCKINGHAM
+   Target Character: F ELY, Value: 73
+   Target Character: F YORK, Value: 41
+   Target Character: Lord Mayor, Value: 433
+   Target Character: Citizens, Value: 22
+   Target Character: YORK, Value: 28
+   Target Character: GLOUCESTER, Value: 2203
+   Target Character: D IV, Value: 74
+   Target Character: CARDINAL, Value: 238
+   Target Character: D III, Value: 255
+   Target Character: QUEEN ELIZABETH, Value: 55
+   Target Character: PRINCE EDWARD, Value: 96
+   Target Character: f HASTINGS, Value: 149
+   Target Character: Sheriff, Value: 115
+   Target Character: DERBY, Value: 16
+   Target Character: QUEEN MARGARET, Value: 67
+   Target Character: f RIVERS, Value: 149
+   Target Character: CATESBY, Value: 365
+   Target Character: GREY, Value: 8
+   Target Character: TYRREL, Value: 17
+   Target Character: DORSET, Value: 16
+Character: CARDINAL
+   Target Character: f HASTINGS, Value: 18
+   Target Character: of BUCKINGHAM, Value: 130
+Character: STANLEY
+   Target Character: f HASTINGS, Value: 168
+   Target Character: D III, Value: 271
+Character: f VAUGHAN
+   Target Character: f GREY, Value: 18
+Character: Fourth Messenger
+   Target Character: QUEEN ELIZABETH, Value: 70
+   Target Character: Third Messenger, Value: 76
+   Target Character: f HASTINGS, Value: 208
+   Target Character: F YORK, Value: 50
+   Target Character: CATESBY, Value: 9
+   Target Character: D III, Value: 14
+Character: CHRISTOPHER
+   Target Character: DERBY, Value: 65
+Character: Third Messenger
+   Target Character: Second Messenger, Value: 9
+   Target Character: D III, Value: 66
+   Target Character: Fourth Messenger, Value: 7
+Character: DERBY
+   Target Character: CHRISTOPHER, Value: 63
+   Target Character: F ELY, Value: 40
+   Target Character: QUEEN ELIZABETH, Value: 60
+   Target Character: f HASTINGS, Value: 30
+   Target Character: RICHMOND, Value: 286
+   Target Character: f RIVERS, Value: 51
+   Target Character: of BUCKINGHAM, Value: 15
+   Target Character: GLOUCESTER, Value: 8
+   Target Character: D III, Value: 7
+Character: RICHMOND
+   Target Character: LORDS, Value: 148
+   Target Character: BLUNT, Value: 177
+   Target Character: DERBY, Value: 109
+   Target Character: D III, Value: 440
+   Target Character: OXFORD, Value: 121
+Character: ANOTHER
+   Target Character: CATESBY, Value: 11
+Character: TYRREL
+   Target Character: of BUCKINGHAM, Value: 4
+   Target Character: D III, Value: 318
+Character: F ELY
+   Target Character: f HASTINGS, Value: 20
+   Target Character: DERBY, Value: 18
+   Target Character: of BUCKINGHAM, Value: 25
+   Target Character: GLOUCESTER, Value: 13
+Character: Priest
+   Target Character: Pursuivant, Value: 11
+Character: Second Messenger
+   Target Character: Third Messenger, Value: 23
+Character: Lord Mayor
+   Target Character: of BUCKINGHAM, Value: 43
+   Target Character: GLOUCESTER, Value: 199
+Character: BRAKENBURY
+   Target Character: QUEEN ELIZABETH, Value: 62
+   Target Character: First Murderer, Value: 93
+   Target Character: Second Murderer, Value: 57
+   Target Character: f CLARENCE, Value: 129
+   Target Character: GLOUCESTER, Value: 100
+Character: YORK
+   Target Character: QUEEN ELIZABETH, Value: 19
+   Target Character: PRINCE EDWARD, Value: 109
+   Target Character: F YORK, Value: 257
+   Target Character: of BUCKINGHAM, Value: 36
+   Target Character: GLOUCESTER, Value: 239
+Character: GLOUCESTER
+   Target Character: F ELY, Value: 59
+   Target Character: First Murderer, Value: 211
+   Target Character: F YORK, Value: 74
+   Target Character: f CLARENCE, Value: 720
+   Target Character: Lord Mayor, Value: 387
+   Target Character: GENTLEMEN, Value: 5
+   Target Character: YORK, Value: 184
+   Target Character: BRAKENBURY, Value: 273
+   Target Character: of BUCKINGHAM, Value: 1697
+   Target Character: D IV, Value: 219
+   Target Character: LOVEL, Value: 78
+   Target Character: Gentleman, Value: 49
+   Target Character: QUEEN ELIZABETH, Value: 646
+   Target Character: PRINCE EDWARD, Value: 307
+   Target Character: f HASTINGS, Value: 447
+   Target Character: DERBY, Value: 31
+   Target Character: QUEEN MARGARET, Value: 603
+   Target Character: LADY ANNE, Value: 1445
+   Target Character: f RIVERS, Value: 485
+   Target Character: CATESBY, Value: 74
+   Target Character: DORSET, Value: 94
+Character: QUEEN ELIZABETH
+   Target Character: Children, Value: 65
+   Target Character: F YORK, Value: 447
+   Target Character: BRAKENBURY, Value: 69
+   Target Character: YORK, Value: 26
+   Target Character: of BUCKINGHAM, Value: 32
+   Target Character: GLOUCESTER, Value: 381
+   Target Character: D IV, Value: 30
+   Target Character: D III, Value: 1861
+   Target Character: Fourth Messenger, Value: 57
+   Target Character: Girl, Value: 48
+   Target Character: f HASTINGS, Value: 8
+   Target Character: DERBY, Value: 84
+   Target Character: QUEEN MARGARET, Value: 298
+   Target Character: LORD STANLEY, Value: 98
+   Target Character: LADY ANNE, Value: 100
+   Target Character: f RIVERS, Value: 51
+   Target Character: GREY, Value: 58
+   Target Character: CATESBY, Value: 9
+   Target Character: Boy, Value: 30
+   Target Character: DORSET, Value: 74
+Character: RATCLIFF
+   Target Character: f HASTINGS, Value: 38
+   Target Character: f RIVERS, Value: 21
+   Target Character: CATESBY, Value: 10
+   Target Character: VAUGHAN, Value: 8
+   Target Character: D III, Value: 271
+Character: LORD STANLEY
+   Target Character: QUEEN ELIZABETH, Value: 82
+   Target Character: F YORK, Value: 51
+   Target Character: LADY ANNE, Value: 9
+Character: f RIVERS
+   Target Character: QUEEN ELIZABETH, Value: 36
+   Target Character: f GREY, Value: 20
+   Target Character: RATCLIFF, Value: 116
+   Target Character: f HASTINGS, Value: 95
+   Target Character: f CLARENCE, Value: 20
+   Target Character: DERBY, Value: 18
+   Target Character: QUEEN MARGARET, Value: 54
+   Target Character: GREY, Value: 130
+   Target Character: of BUCKINGHAM, Value: 18
+   Target Character: D IV, Value: 28
+   Target Character: DORSET, Value: 7
+   Target Character: GLOUCESTER, Value: 197
+Character: DORSET
+   Target Character: QUEEN ELIZABETH, Value: 9
+   Target Character: F YORK, Value: 53
+   Target Character: QUEEN MARGARET, Value: 14
+   Target Character: LADY ANNE, Value: 9
+   Target Character: f RIVERS, Value: 7
+   Target Character: of BUCKINGHAM, Value: 25
+   Target Character: D IV, Value: 75
+   Target Character: GLOUCESTER, Value: 26

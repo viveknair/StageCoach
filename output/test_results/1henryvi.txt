@@ -1,0 +1,273 @@
+Character: MORTIMER
+   Target Character: PLANTAGENET, Value: 790
+   Target Character: First Gaoler, Value: 217
+Character: GARGRAVE
+   Target Character: SALISBURY, Value: 18
+   Target Character: GLANSDALE, Value: 10
+Character: Officer
+   Target Character: Mayor, Value: 48
+   Target Character: GLOUCESTER, Value: 48
+Character: BEDFORD
+   Target Character: Messenger, Value: 396
+   Target Character: CHARLES, Value: 9
+   Target Character: A PUCELLE, Value: 9
+   Target Character: BURGUNDY, Value: 99
+   Target Character: JOHN TALBOT, Value: 194
+   Target Character: GLOUCESTER, Value: 83
+Character: ALL
+   Target Character: SOMERSET, Value: 8
+   Target Character: PLANTAGENET, Value: 8
+Character: First Sentinel
+   Target Character: JOHN TALBOT, Value: 22
+Character: Mayor
+   Target Character: Officer, Value: 22
+   Target Character: OF WINCHESTER, Value: 16
+   Target Character: GLOUCESTER, Value: 64
+Character: Scout
+   Target Character: CHARLES, Value: 52
+   Target Character: A PUCELLE, Value: 10
+Character: SUFFOLK
+   Target Character: WARWICK, Value: 17
+   Target Character: Y VI, Value: 176
+   Target Character: MARGARET, Value: 779
+   Target Character: VERNON, Value: 17
+   Target Character: EXETER, Value: 239
+   Target Character: SOMERSET, Value: 34
+   Target Character: REIGNIER, Value: 201
+   Target Character: PLANTAGENET, Value: 78
+   Target Character: GLOUCESTER, Value: 152
+Character: LUCY
+   Target Character: CHARLES, Value: 202
+   Target Character: SOMERSET, Value: 374
+   Target Character: YORK, Value: 165
+   Target Character: A PUCELLE, Value: 251
+Character: EXETER
+   Target Character: Messenger, Value: 60
+   Target Character: OF WINCHESTER, Value: 76
+   Target Character: SUFFOLK, Value: 15
+   Target Character: Y VI, Value: 86
+   Target Character: GLOUCESTER, Value: 124
+Character: BURGUNDY
+   Target Character: F ORLEANS, Value: 24
+   Target Character: Messenger, Value: 99
+   Target Character: BEDFORD, Value: 54
+   Target Character: CHARLES, Value: 61
+   Target Character: A PUCELLE, Value: 229
+   Target Character: JOHN TALBOT, Value: 133
+Character: JOHN TALBOT
+   Target Character: Messenger, Value: 18
+   Target Character: First Sentinel, Value: 50
+   Target Character: BEDFORD, Value: 508
+   Target Character: CHARLES, Value: 116
+   Target Character: ALENCON, Value: 45
+   Target Character: SALISBURY, Value: 331
+   Target Character: Y VI, Value: 121
+   Target Character: BURGUNDY, Value: 374
+   Target Character: JOHN TALBOT, Value: 1443
+   Target Character: GLOUCESTER, Value: 222
+   Target Character: Captain, Value: 36
+   Target Character: VERNON, Value: 15
+   Target Character: A PUCELLE, Value: 201
+   Target Character: OF AUVERGNE, Value: 358
+Character: GLOUCESTER
+   Target Character: BASSET, Value: 70
+   Target Character: Officer, Value: 19
+   Target Character: BEDFORD, Value: 94
+   Target Character: Mayor, Value: 76
+   Target Character: SUFFOLK, Value: 97
+   Target Character: WARWICK, Value: 66
+   Target Character: Y VI, Value: 467
+   Target Character: EXETER, Value: 197
+   Target Character: JOHN TALBOT, Value: 46
+   Target Character: GLOUCESTER, Value: 120
+   Target Character: WOODVILE, Value: 65
+   Target Character: OF WINCHESTER, Value: 950
+   Target Character: FASTOLFE, Value: 47
+   Target Character: SOMERSET, Value: 36
+   Target Character: First Warder, Value: 33
+Character: First Gaoler
+   Target Character: MORTIMER, Value: 38
+Character: WOODVILE
+   Target Character: GLOUCESTER, Value: 47
+Character: OF WINCHESTER
+   Target Character: Messenger, Value: 12
+   Target Character: Legate, Value: 28
+   Target Character: Mayor, Value: 18
+   Target Character: ALENCON, Value: 71
+   Target Character: WARWICK, Value: 38
+   Target Character: Y VI, Value: 35
+   Target Character: YORK, Value: 185
+   Target Character: EXETER, Value: 41
+   Target Character: GLOUCESTER, Value: 678
+Character: Lawyer
+   Target Character: VERNON, Value: 5
+   Target Character: PLANTAGENET, Value: 26
+Character: Watch
+   Target Character: A PUCELLE, Value: 12
+   Target Character: First Soldier, Value: 4
+Character: FASTOLFE
+   Target Character: Captain, Value: 30
+   Target Character: GLOUCESTER, Value: 29
+Character: VERNON
+   Target Character: BASSET, Value: 137
+   Target Character: Lawyer, Value: 9
+   Target Character: SUFFOLK, Value: 32
+   Target Character: Y VI, Value: 43
+   Target Character: YORK, Value: 63
+   Target Character: SOMERSET, Value: 107
+   Target Character: JOHN TALBOT, Value: 6
+   Target Character: PLANTAGENET, Value: 34
+Character: SU FFOLK
+   Target Character: REIGNIER, Value: 84
+Character: MARGARET
+   Target Character: SUFFOLK, Value: 420
+Character: A PUCELLE
+   Target Character: BEDFORD, Value: 18
+   Target Character: CHARLES, Value: 833
+   Target Character: Scout, Value: 15
+   Target Character: ALENCON, Value: 31
+   Target Character: WARWICK, Value: 82
+   Target Character: LUCY, Value: 113
+   Target Character: YORK, Value: 623
+   Target Character: REIGNIER, Value: 270
+   Target Character: BURGUNDY, Value: 658
+   Target Character: JOHN TALBOT, Value: 146
+   Target Character: F ORLEANS, Value: 73
+   Target Character: Watch, Value: 28
+   Target Character: Shepherd, Value: 56
+Character: OF AUVERGNE
+   Target Character: Messenger, Value: 159
+   Target Character: JOHN TALBOT, Value: 392
+Character: GLANSDALE
+   Target Character: GARGRAVE, Value: 9
+Character: BASSET
+   Target Character: Y VI, Value: 93
+   Target Character: VERNON, Value: 213
+   Target Character: YORK, Value: 9
+   Target Character: GLOUCESTER, Value: 6
+Character: Messenger
+   Target Character: OF WINCHESTER, Value: 280
+   Target Character: BEDFORD, Value: 485
+   Target Character: YORK, Value: 49
+   Target Character: EXETER, Value: 273
+   Target Character: BURGUNDY, Value: 69
+   Target Character: JOHN TALBOT, Value: 69
+   Target Character: OF AUVERGNE, Value: 54
+Character: Second Warder
+   Target Character: First Warder, Value: 38
+Character: Sentinels
+   Target Character: ALENCON, Value: 7
+Character: CHARLES
+   Target Character: F ORLEANS, Value: 122
+   Target Character: BEDFORD, Value: 8
+   Target Character: Scout, Value: 30
+   Target Character: CHARLES, Value: 59
+   Target Character: WARWICK, Value: 46
+   Target Character: ALENCON, Value: 283
+   Target Character: YORK, Value: 95
+   Target Character: LUCY, Value: 65
+   Target Character: BURGUNDY, Value: 37
+   Target Character: A PUCELLE, Value: 469
+   Target Character: REIGNIER, Value: 190
+   Target Character: JOHN TALBOT, Value: 16
+Character: ALENCON
+   Target Character: F ORLEANS, Value: 93
+   Target Character: OF WINCHESTER, Value: 33
+   Target Character: Sentinels, Value: 8
+   Target Character: CHARLES, Value: 181
+   Target Character: WARWICK, Value: 43
+   Target Character: A PUCELLE, Value: 24
+   Target Character: REIGNIER, Value: 255
+   Target Character: JOHN TALBOT, Value: 4
+Character: WARWICK
+   Target Character: OF WINCHESTER, Value: 87
+   Target Character: CHARLES, Value: 32
+   Target Character: ALENCON, Value: 8
+   Target Character: SUFFOLK, Value: 19
+   Target Character: Y VI, Value: 118
+   Target Character: YORK, Value: 137
+   Target Character: SOMERSET, Value: 180
+   Target Character: A PUCELLE, Value: 52
+   Target Character: Shepherd, Value: 6
+   Target Character: PLANTAGENET, Value: 304
+   Target Character: GLOUCESTER, Value: 75
+Character: SALISBURY
+   Target Character: GARGRAVE, Value: 75
+   Target Character: JOHN TALBOT, Value: 112
+   Target Character: Boy, Value: 29
+Character: Y VI
+   Target Character: BASSET, Value: 34
+   Target Character: OF WINCHESTER, Value: 70
+   Target Character: SUFFOLK, Value: 82
+   Target Character: WARWICK, Value: 454
+   Target Character: VERNON, Value: 114
+   Target Character: EXETER, Value: 92
+   Target Character: YORK, Value: 36
+   Target Character: SOMERSET, Value: 60
+   Target Character: JOHN TALBOT, Value: 66
+   Target Character: PLANTAGENET, Value: 109
+   Target Character: GLOUCESTER, Value: 323
+Character: YORK
+   Target Character: BASSET, Value: 8
+   Target Character: Messenger, Value: 15
+   Target Character: OF WINCHESTER, Value: 116
+   Target Character: CHARLES, Value: 73
+   Target Character: WARWICK, Value: 158
+   Target Character: Y VI, Value: 16
+   Target Character: VERNON, Value: 14
+   Target Character: LUCY, Value: 195
+   Target Character: SOMERSET, Value: 38
+   Target Character: REIGNIER, Value: 52
+   Target Character: A PUCELLE, Value: 205
+   Target Character: Shepherd, Value: 40
+Character: REIGNIER
+   Target Character: F ORLEANS, Value: 30
+   Target Character: CHARLES, Value: 120
+   Target Character: SUFFOLK, Value: 184
+   Target Character: ALENCON, Value: 213
+   Target Character: SU FFOLK, Value: 22
+   Target Character: YORK, Value: 30
+   Target Character: A PUCELLE, Value: 41
+Character: Boy
+   Target Character: SALISBURY, Value: 17
+Character: F ORLEANS
+   Target Character: CHARLES, Value: 186
+   Target Character: ALENCON, Value: 53
+   Target Character: BURGUNDY, Value: 15
+   Target Character: A PUCELLE, Value: 30
+   Target Character: REIGNIER, Value: 20
+Character: Legate
+   Target Character: OF WINCHESTER, Value: 8
+Character: Captain
+   Target Character: FASTOLFE, Value: 16
+   Target Character: SOMERSET, Value: 16
+   Target Character: JOHN TALBOT, Value: 8
+Character: SOMERSET
+   Target Character: ALL, Value: 8
+   Target Character: Captain, Value: 8
+   Target Character: WARWICK, Value: 113
+   Target Character: SUFFOLK, Value: 24
+   Target Character: Y VI, Value: 24
+   Target Character: VERNON, Value: 76
+   Target Character: LUCY, Value: 126
+   Target Character: YORK, Value: 52
+   Target Character: PLANTAGENET, Value: 447
+   Target Character: GLOUCESTER, Value: 8
+Character: Shepherd
+   Target Character: WARWICK, Value: 32
+   Target Character: YORK, Value: 169
+   Target Character: A PUCELLE, Value: 108
+Character: First Warder
+   Target Character: Second Warder, Value: 33
+   Target Character: GLOUCESTER, Value: 16
+Character: PLANTAGENET
+   Target Character: MORTIMER, Value: 307
+   Target Character: ALL, Value: 24
+   Target Character: Lawyer, Value: 6
+   Target Character: WARWICK, Value: 98
+   Target Character: SUFFOLK, Value: 87
+   Target Character: Y VI, Value: 50
+   Target Character: VERNON, Value: 19
+   Target Character: SOMERSET, Value: 415
+Character: First Soldier
+   Target Character: Watch, Value: 21

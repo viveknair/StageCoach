@@ -1,0 +1,130 @@
+Character: LUCIANA
+   Target Character: Courtezan, Value: 8
+   Target Character: AEMELIA, Value: 29
+   Target Character: ADRIANA, Value: 591
+   Target Character: ANGELO, Value: 18
+   Target Character: PINCH, Value: 11
+   Target Character: OF SYRACUSE, Value: 491
+   Target Character: OF EPHESUS, Value: 60
+   Target Character: DUKE SOLINUS, Value: 9
+Character: ANTIPHOLUS
+   Target Character: AEGEON, Value: 18
+   Target Character: LUCE, Value: 13
+   Target Character: OF SYRACUSE, Value: 31
+   Target Character: OF EPHESUS, Value: 24
+Character: ANGELO
+   Target Character: Second Merchant, Value: 222
+   Target Character: LUCIANA, Value: 15
+   Target Character: Officer, Value: 104
+   Target Character: ADRIANA, Value: 18
+   Target Character: BALTHAZAR, Value: 12
+   Target Character: OF SYRACUSE, Value: 294
+   Target Character: OF EPHESUS, Value: 433
+   Target Character: DUKE SOLINUS, Value: 38
+Character: Servant
+   Target Character: ADRIANA, Value: 85
+   Target Character: DUKE SOLINUS, Value: 131
+Character: OF SYRACUSE
+   Target Character: LUCIANA, Value: 818
+   Target Character: ANTIPHOLUS, Value: 48
+   Target Character: ANGELO, Value: 261
+   Target Character: OF SYRACUSE, Value: 3775
+   Target Character: Courtezan, Value: 249
+   Target Character: First Merchant, Value: 119
+   Target Character: Second Merchant, Value: 49
+   Target Character: AEMELIA, Value: 27
+   Target Character: LUCE, Value: 17
+   Target Character: Officer, Value: 8
+   Target Character: ADRIANA, Value: 570
+   Target Character: OF EPHESUS, Value: 935
+   Target Character: DUKE SOLINUS, Value: 32
+Character: Gaoler
+   Target Character: DUKE SOLINUS, Value: 4
+Character: Courtezan
+   Target Character: LUCIANA, Value: 7
+   Target Character: ADRIANA, Value: 43
+   Target Character: PINCH, Value: 7
+   Target Character: OF SYRACUSE, Value: 180
+   Target Character: OF EPHESUS, Value: 38
+   Target Character: DUKE SOLINUS, Value: 19
+Character: Second Merchant
+   Target Character: AEMELIA, Value: 10
+   Target Character: Officer, Value: 7
+   Target Character: ADRIANA, Value: 47
+   Target Character: ANGELO, Value: 192
+   Target Character: OF SYRACUSE, Value: 72
+   Target Character: OF EPHESUS, Value: 109
+Character: AEMELIA
+   Target Character: Second Merchant, Value: 8
+   Target Character: AEGEON, Value: 110
+   Target Character: LUCIANA, Value: 154
+   Target Character: ADRIANA, Value: 492
+   Target Character: OF SYRACUSE, Value: 60
+   Target Character: OF EPHESUS, Value: 103
+   Target Character: DUKE SOLINUS, Value: 57
+Character: First Merchant
+   Target Character: OF SYRACUSE, Value: 155
+Character: AEGEON
+   Target Character: AEMELIA, Value: 50
+   Target Character: ANTIPHOLUS, Value: 45
+   Target Character: OF EPHESUS, Value: 361
+   Target Character: DUKE SOLINUS, Value: 1700
+Character: Officer
+   Target Character: Second Merchant, Value: 12
+   Target Character: ADRIANA, Value: 76
+   Target Character: ANGELO, Value: 32
+   Target Character: OF SYRACUSE, Value: 5
+   Target Character: OF EPHESUS, Value: 52
+Character: LUCE
+   Target Character: ANTIPHOLUS, Value: 7
+   Target Character: ADRIANA, Value: 13
+   Target Character: OF SYRACUSE, Value: 17
+   Target Character: OF EPHESUS, Value: 103
+Character: ADRIANA
+   Target Character: Courtezan, Value: 39
+   Target Character: AEMELIA, Value: 374
+   Target Character: Second Merchant, Value: 61
+   Target Character: Officer, Value: 120
+   Target Character: LUCE, Value: 12
+   Target Character: LUCIANA, Value: 907
+   Target Character: Servant, Value: 18
+   Target Character: ANGELO, Value: 42
+   Target Character: PINCH, Value: 40
+   Target Character: OF SYRACUSE, Value: 1170
+   Target Character: OF EPHESUS, Value: 399
+   Target Character: DUKE SOLINUS, Value: 253
+Character: BALTHAZAR
+   Target Character: ANGELO, Value: 10
+   Target Character: OF EPHESUS, Value: 237
+Character: PINCH
+   Target Character: Courtezan, Value: 11
+   Target Character: LUCIANA, Value: 8
+   Target Character: ADRIANA, Value: 35
+   Target Character: OF EPHESUS, Value: 140
+Character: OF EPHESUS
+   Target Character: LUCIANA, Value: 261
+   Target Character: ANTIPHOLUS, Value: 131
+   Target Character: ANGELO, Value: 1112
+   Target Character: OF SYRACUSE, Value: 978
+   Target Character: Courtezan, Value: 33
+   Target Character: AEMELIA, Value: 10
+   Target Character: Second Merchant, Value: 92
+   Target Character: AEGEON, Value: 290
+   Target Character: LUCE, Value: 124
+   Target Character: Officer, Value: 139
+   Target Character: ADRIANA, Value: 608
+   Target Character: BALTHAZAR, Value: 134
+   Target Character: PINCH, Value: 59
+   Target Character: OF EPHESUS, Value: 1139
+   Target Character: DUKE SOLINUS, Value: 148
+Character: DUKE SOLINUS
+   Target Character: Courtezan, Value: 17
+   Target Character: AEMELIA, Value: 48
+   Target Character: AEGEON, Value: 602
+   Target Character: LUCIANA, Value: 24
+   Target Character: ADRIANA, Value: 91
+   Target Character: ANGELO, Value: 20
+   Target Character: Servant, Value: 68
+   Target Character: OF SYRACUSE, Value: 92
+   Target Character: Gaoler, Value: 122
+   Target Character: OF EPHESUS, Value: 157

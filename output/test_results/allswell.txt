@@ -1,0 +1,152 @@
+Character: HELENA
+   Target Character: First Gentleman, Value: 23
+   Target Character: First Lord, Value: 33
+   Target Character: Second Lord, Value: 43
+   Target Character: LAFEU, Value: 191
+   Target Character: Fourth Lord, Value: 18
+   Target Character: Clown, Value: 39
+   Target Character: KING, Value: 1167
+   Target Character: Widow, Value: 842
+   Target Character: COUNTESS, Value: 1108
+   Target Character: BERTRAM, Value: 399
+   Target Character: All, Value: 67
+   Target Character: Gentleman, Value: 375
+   Target Character: DIANA, Value: 263
+   Target Character: PAROLLES, Value: 802
+   Target Character: Second Gentleman, Value: 8
+Character: First Gentleman
+   Target Character: HELENA, Value: 27
+   Target Character: Clown, Value: 4
+   Target Character: COUNTESS, Value: 115
+Character: Servant
+   Target Character: First Lord, Value: 34
+   Target Character: Second Lord, Value: 34
+Character: First Lord
+   Target Character: HELENA, Value: 6
+   Target Character: First Soldier, Value: 58
+   Target Character: Servant, Value: 43
+   Target Character: KING, Value: 98
+   Target Character: Second Lord, Value: 837
+   Target Character: BERTRAM, Value: 276
+   Target Character: PAROLLES, Value: 99
+   Target Character: DUKE, Value: 50
+Character: Second Lord
+   Target Character: HELENA, Value: 10
+   Target Character: Servant, Value: 16
+   Target Character: First Soldier, Value: 157
+   Target Character: First Lord, Value: 844
+   Target Character: Second Soldier, Value: 44
+   Target Character: KING, Value: 58
+   Target Character: BERTRAM, Value: 396
+   Target Character: All, Value: 5
+   Target Character: PAROLLES, Value: 259
+   Target Character: DUKE, Value: 110
+Character: Steward
+   Target Character: COUNTESS, Value: 527
+Character: LAFEU
+   Target Character: HELENA, Value: 189
+   Target Character: Clown, Value: 283
+   Target Character: KING, Value: 671
+   Target Character: COUNTESS, Value: 589
+   Target Character: BERTRAM, Value: 380
+   Target Character: DIANA, Value: 47
+   Target Character: PAROLLES, Value: 1369
+   Target Character: Fourth Lord, Value: 29
+Character: Page
+   Target Character: PAROLLES, Value: 7
+Character: Fourth Lord
+   Target Character: HELENA, Value: 6
+   Target Character: LAFEU, Value: 6
+Character: DUKE
+   Target Character: First Lord, Value: 52
+   Target Character: BERTRAM, Value: 38
+   Target Character: Second Lord, Value: 24
+Character: MARIANA
+   Target Character: Widow, Value: 208
+   Target Character: PAROLLES, Value: 10
+   Target Character: DIANA, Value: 116
+Character: First Soldier
+   Target Character: First Lord, Value: 64
+   Target Character: BERTRAM, Value: 228
+   Target Character: Second Lord, Value: 89
+   Target Character: PAROLLES, Value: 652
+Character: Clown
+   Target Character: First Gentleman, Value: 49
+   Target Character: HELENA, Value: 94
+   Target Character: COUNTESS, Value: 1846
+   Target Character: LAFEU, Value: 547
+   Target Character: PAROLLES, Value: 448
+Character: Widow
+   Target Character: HELENA, Value: 432
+   Target Character: KING, Value: 23
+   Target Character: Gentleman, Value: 6
+   Target Character: DIANA, Value: 61
+   Target Character: MARIANA, Value: 135
+Character: Second Soldier
+   Target Character: Second Lord, Value: 10
+Character: KING
+   Target Character: HELENA, Value: 853
+   Target Character: First Lord, Value: 286
+   Target Character: Widow, Value: 8
+   Target Character: COUNTESS, Value: 188
+   Target Character: BERTRAM, Value: 1937
+   Target Character: Second Lord, Value: 281
+   Target Character: Both, Value: 26
+   Target Character: Gentleman, Value: 93
+   Target Character: PAROLLES, Value: 142
+   Target Character: DIANA, Value: 392
+   Target Character: LAFEU, Value: 434
+Character: COUNTESS
+   Target Character: First Gentleman, Value: 213
+   Target Character: HELENA, Value: 1012
+   Target Character: Clown, Value: 806
+   Target Character: KING, Value: 119
+   Target Character: BERTRAM, Value: 48
+   Target Character: Steward, Value: 273
+   Target Character: DIANA, Value: 33
+   Target Character: LAFEU, Value: 860
+   Target Character: Second Gentleman, Value: 164
+Character: BERTRAM
+   Target Character: HELENA, Value: 250
+   Target Character: First Soldier, Value: 77
+   Target Character: First Lord, Value: 336
+   Target Character: KING, Value: 902
+   Target Character: Second Lord, Value: 319
+   Target Character: COUNTESS, Value: 78
+   Target Character: DIANA, Value: 587
+   Target Character: PAROLLES, Value: 686
+   Target Character: LAFEU, Value: 285
+   Target Character: DUKE, Value: 54
+Character: All
+   Target Character: HELENA, Value: 16
+   Target Character: Second Lord, Value: 7
+Character: Both
+   Target Character: KING, Value: 5
+Character: Gentleman
+   Target Character: HELENA, Value: 70
+   Target Character: KING, Value: 164
+   Target Character: Widow, Value: 15
+Character: PAROLLES
+   Target Character: HELENA, Value: 989
+   Target Character: First Soldier, Value: 1320
+   Target Character: First Lord, Value: 282
+   Target Character: Clown, Value: 235
+   Target Character: KING, Value: 287
+   Target Character: BERTRAM, Value: 808
+   Target Character: Second Lord, Value: 549
+   Target Character: DIANA, Value: 7
+   Target Character: LAFEU, Value: 678
+   Target Character: Page, Value: 15
+   Target Character: MARIANA, Value: 4
+Character: DIANA
+   Target Character: HELENA, Value: 259
+   Target Character: KING, Value: 412
+   Target Character: Widow, Value: 54
+   Target Character: COUNTESS, Value: 54
+   Target Character: BERTRAM, Value: 754
+   Target Character: PAROLLES, Value: 7
+   Target Character: LAFEU, Value: 78
+   Target Character: MARIANA, Value: 7
+Character: Second Gentleman
+   Target Character: HELENA, Value: 4
+   Target Character: COUNTESS, Value: 90

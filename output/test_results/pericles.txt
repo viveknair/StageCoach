@@ -1,0 +1,187 @@
+Character: Second Pirate
+   Target Character: First Pirate, Value: 4
+Character: Third Fisherman
+   Target Character: PERICLES, Value: 98
+   Target Character: Second Fisherman, Value: 68
+   Target Character: First Fisherman, Value: 136
+Character: PHILEMON
+   Target Character: CERIMON, Value: 8
+Character: BOULT
+   Target Character: MARINA, Value: 272
+   Target Character: Bawd, Value: 635
+   Target Character: First Pirate, Value: 34
+   Target Character: LYSIMACHUS, Value: 128
+   Target Character: Pandar, Value: 49
+Character: LEONINE
+   Target Character: DIONYZA, Value: 28
+   Target Character: MARINA, Value: 121
+Character: THAISA
+   Target Character: SIMONIDES, Value: 371
+   Target Character: Second Gentleman, Value: 13
+   Target Character: HELICANUS, Value: 8
+   Target Character: CERIMON, Value: 174
+   Target Character: PERICLES, Value: 324
+Character: Second Sailor
+   Target Character: First Sailor, Value: 28
+   Target Character: PERICLES, Value: 40
+Character: First Fisherman
+   Target Character: Third Fisherman, Value: 154
+   Target Character: PERICLES, Value: 380
+   Target Character: Second Fisherman, Value: 61
+Character: ANTIOCHUS
+   Target Character: Messenger, Value: 35
+   Target Character: PERICLES, Value: 246
+   Target Character: Daughter, Value: 21
+   Target Character: THALIARD, Value: 207
+Character: First Pirate
+   Target Character: Second Pirate, Value: 2
+   Target Character: BOULT, Value: 12
+Character: All
+   Target Character: HELICANUS, Value: 3
+   Target Character: PERICLES, Value: 22
+   Target Character: Second Lord, Value: 3
+Character: BOTH
+   Target Character: SIMONIDES, Value: 6
+Character: DIONYZA
+   Target Character: LEONINE, Value: 133
+   Target Character: PERICLES, Value: 56
+   Target Character: MARINA, Value: 349
+   Target Character: CLEON, Value: 620
+Character: CERIMON
+   Target Character: Second Gentleman, Value: 199
+   Target Character: First Gentleman, Value: 314
+   Target Character: PHILEMON, Value: 18
+   Target Character: PERICLES, Value: 198
+   Target Character: THAISA, Value: 130
+   Target Character: First Servant, Value: 51
+Character: ESCANES
+   Target Character: HELICANUS, Value: 6
+   Target Character: First Lord, Value: 3
+Character: Second Fisherman
+   Target Character: Third Fisherman, Value: 4
+   Target Character: PERICLES, Value: 287
+   Target Character: First Fisherman, Value: 95
+Character: Bawd
+   Target Character: BOULT, Value: 658
+   Target Character: MARINA, Value: 351
+   Target Character: LYSIMACHUS, Value: 145
+   Target Character: Pandar, Value: 297
+Character: Second Lord
+   Target Character: Third Lord, Value: 22
+   Target Character: HELICANUS, Value: 12
+   Target Character: First Lord, Value: 78
+   Target Character: All, Value: 44
+Character: Second Knight
+   Target Character: SIMONIDES, Value: 18
+Character: THALIARD
+   Target Character: HELICANUS, Value: 228
+   Target Character: ANTIOCHUS, Value: 33
+Character: Pandar
+   Target Character: BOULT, Value: 70
+   Target Character: Bawd, Value: 272
+Character: KNIGHTS
+   Target Character: SIMONIDES, Value: 22
+Character: Second Gentleman
+   Target Character: CERIMON, Value: 45
+   Target Character: First Gentleman, Value: 67
+   Target Character: THAISA, Value: 4
+   Target Character: First Servant, Value: 46
+Character: Third Lord
+   Target Character: First Lord, Value: 9
+   Target Character: Second Lord, Value: 26
+Character: LYCHORIDA
+   Target Character: PERICLES, Value: 137
+Character: Tyrian Sailor
+   Target Character: HELICANUS, Value: 54
+   Target Character: First Gentleman, Value: 5
+   Target Character: LYSIMACHUS, Value: 13
+Character: MARINA
+   Target Character: DIONYZA, Value: 106
+   Target Character: BOULT, Value: 478
+   Target Character: LEONINE, Value: 482
+   Target Character: PERICLES, Value: 666
+   Target Character: Bawd, Value: 203
+   Target Character: LYSIMACHUS, Value: 337
+Character: Daughter
+   Target Character: ANTIOCHUS, Value: 16
+Character: First Lord
+   Target Character: SIMONIDES, Value: 44
+   Target Character: HELICANUS, Value: 147
+   Target Character: Third Lord, Value: 7
+   Target Character: PERICLES, Value: 8
+   Target Character: ESCANES, Value: 15
+   Target Character: Second Lord, Value: 124
+Character: First Knight
+   Target Character: SIMONIDES, Value: 6
+   Target Character: PERICLES, Value: 46
+Character: Knights
+   Target Character: SIMONIDES, Value: 16
+Character: LYSIMACHUS
+   Target Character: HELICANUS, Value: 348
+   Target Character: BOULT, Value: 141
+   Target Character: PERICLES, Value: 68
+   Target Character: Tyrian Sailor, Value: 7
+   Target Character: MARINA, Value: 431
+   Target Character: Bawd, Value: 114
+   Target Character: LYSIMACHUS, Value: 15
+Character: SIMONIDES
+   Target Character: KNIGHTS, Value: 131
+   Target Character: BOTH, Value: 5
+   Target Character: Marshal, Value: 16
+   Target Character: PERICLES, Value: 558
+   Target Character: THAISA, Value: 582
+   Target Character: First Lord, Value: 27
+   Target Character: First Knight, Value: 36
+   Target Character: Second Knight, Value: 78
+   Target Character: Knights, Value: 29
+Character: Lord
+   Target Character: CLEON, Value: 88
+Character: Messenger
+   Target Character: ANTIOCHUS, Value: 6
+Character: First Sailor
+   Target Character: PERICLES, Value: 104
+   Target Character: Second Sailor, Value: 38
+Character: Marshal
+   Target Character: SIMONIDES, Value: 5
+   Target Character: PERICLES, Value: 5
+Character: HELICANUS
+   Target Character: PERICLES, Value: 343
+   Target Character: THAISA, Value: 10
+   Target Character: ESCANES, Value: 120
+   Target Character: Tyrian Sailor, Value: 22
+   Target Character: First Lord, Value: 145
+   Target Character: Second Lord, Value: 88
+   Target Character: LYSIMACHUS, Value: 322
+   Target Character: All, Value: 99
+   Target Character: THALIARD, Value: 226
+Character: First Gentleman
+   Target Character: Second Gentleman, Value: 72
+   Target Character: CERIMON, Value: 127
+   Target Character: Tyrian Sailor, Value: 4
+Character: PERICLES
+   Target Character: Third Fisherman, Value: 45
+   Target Character: LYCHORIDA, Value: 180
+   Target Character: THAISA, Value: 549
+   Target Character: MARINA, Value: 1064
+   Target Character: Second Sailor, Value: 148
+   Target Character: First Fisherman, Value: 600
+   Target Character: ANTIOCHUS, Value: 727
+   Target Character: First Lord, Value: 283
+   Target Character: First Knight, Value: 10
+   Target Character: LYSIMACHUS, Value: 201
+   Target Character: All, Value: 120
+   Target Character: SIMONIDES, Value: 502
+   Target Character: DIONYZA, Value: 132
+   Target Character: First Sailor, Value: 162
+   Target Character: CERIMON, Value: 120
+   Target Character: HELICANUS, Value: 1000
+   Target Character: Marshal, Value: 5
+   Target Character: Second Fisherman, Value: 455
+   Target Character: CLEON, Value: 290
+Character: First Servant
+   Target Character: Second Gentleman, Value: 3
+   Target Character: CERIMON, Value: 77
+Character: CLEON
+   Target Character: Lord, Value: 247
+   Target Character: DIONYZA, Value: 948
+   Target Character: PERICLES, Value: 248

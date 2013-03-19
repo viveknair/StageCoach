@@ -1,0 +1,202 @@
+Character: THERSITES
+   Target Character: HECTOR, Value: 36
+   Target Character: AJAX, Value: 659
+   Target Character: DIOMEDES, Value: 69
+   Target Character: CRESSIDA, Value: 39
+   Target Character: MARGARELON, Value: 37
+   Target Character: TROILUS, Value: 201
+   Target Character: ULYSSES, Value: 34
+   Target Character: PATROCLUS, Value: 879
+   Target Character: ACHILLES, Value: 1081
+   Target Character: AGAMEMNON, Value: 233
+Character: DEIPHOBUS
+   Target Character: PARIS, Value: 10
+   Target Character: AENEAS, Value: 5
+Character: DIOMEDES
+   Target Character: HECTOR, Value: 33
+   Target Character: PARIS, Value: 282
+   Target Character: AJAX, Value: 66
+   Target Character: THERSITES, Value: 34
+   Target Character: CRESSIDA, Value: 186
+   Target Character: CALCHAS, Value: 13
+   Target Character: TROILUS, Value: 217
+   Target Character: ULYSSES, Value: 43
+   Target Character: ACHILLES, Value: 16
+   Target Character: AENEAS, Value: 175
+   Target Character: NESTOR, Value: 41
+   Target Character: AGAMEMNON, Value: 4
+Character: CRESSIDA
+   Target Character: ALEXANDER, Value: 96
+   Target Character: THERSITES, Value: 103
+   Target Character: DIOMEDES, Value: 384
+   Target Character: PANDARUS, Value: 1600
+   Target Character: MENELAUS, Value: 85
+   Target Character: TROILUS, Value: 1213
+   Target Character: ULYSSES, Value: 55
+   Target Character: PATROCLUS, Value: 25
+Character: NESTOR
+   Target Character: HECTOR, Value: 200
+   Target Character: AJAX, Value: 50
+   Target Character: DIOMEDES, Value: 36
+   Target Character: TROILUS, Value: 5
+   Target Character: ULYSSES, Value: 867
+   Target Character: ACHILLES, Value: 21
+   Target Character: AENEAS, Value: 248
+   Target Character: AGAMEMNON, Value: 320
+Character: ALL
+   Target Character: TROILUS, Value: 8
+   Target Character: ULYSSES, Value: 3
+Character: AGAMEMNON
+   Target Character: HECTOR, Value: 161
+   Target Character: AJAX, Value: 202
+   Target Character: THERSITES, Value: 9
+   Target Character: DIOMEDES, Value: 13
+   Target Character: CALCHAS, Value: 56
+   Target Character: MENELAUS, Value: 17
+   Target Character: TROILUS, Value: 52
+   Target Character: ULYSSES, Value: 342
+   Target Character: ACHILLES, Value: 79
+   Target Character: PATROCLUS, Value: 258
+   Target Character: AENEAS, Value: 226
+   Target Character: NESTOR, Value: 327
+Character: HECTOR
+   Target Character: PRIAM, Value: 229
+   Target Character: PARIS, Value: 222
+   Target Character: THERSITES, Value: 35
+   Target Character: DIOMEDES, Value: 192
+   Target Character: CASSANDRA, Value: 150
+   Target Character: NESTOR, Value: 38
+   Target Character: AGAMEMNON, Value: 45
+   Target Character: AJAX, Value: 348
+   Target Character: MENELAUS, Value: 56
+   Target Character: TROILUS, Value: 654
+   Target Character: ULYSSES, Value: 144
+   Target Character: AENEAS, Value: 103
+   Target Character: ACHILLES, Value: 309
+   Target Character: ANDROMACHE, Value: 84
+Character: HELEN
+   Target Character: PARIS, Value: 56
+   Target Character: PANDARUS, Value: 259
+Character: ALEXANDER
+   Target Character: PANDARUS, Value: 7
+   Target Character: CRESSIDA, Value: 509
+Character: Servant
+   Target Character: PANDARUS, Value: 216
+Character: MYRMIDONS
+   Target Character: ACHILLES, Value: 8
+Character: PATROCLUS
+   Target Character: THERSITES, Value: 247
+   Target Character: CRESSIDA, Value: 8
+   Target Character: MENELAUS, Value: 45
+   Target Character: ULYSSES, Value: 159
+   Target Character: ACHILLES, Value: 216
+   Target Character: AGAMEMNON, Value: 62
+Character: PARIS
+   Target Character: HECTOR, Value: 134
+   Target Character: PRIAM, Value: 231
+   Target Character: HELEN, Value: 126
+   Target Character: DEIPHOBUS, Value: 15
+   Target Character: DIOMEDES, Value: 90
+   Target Character: PANDARUS, Value: 252
+   Target Character: TROILUS, Value: 106
+   Target Character: AENEAS, Value: 257
+Character: PRIAM
+   Target Character: PARIS, Value: 56
+   Target Character: HECTOR, Value: 103
+   Target Character: TROILUS, Value: 6
+   Target Character: CASSANDRA, Value: 43
+Character: PANDARUS
+   Target Character: PARIS, Value: 225
+   Target Character: HELEN, Value: 477
+   Target Character: ALEXANDER, Value: 4
+   Target Character: Servant, Value: 250
+   Target Character: CRESSIDA, Value: 2661
+   Target Character: TROILUS, Value: 1277
+   Target Character: AENEAS, Value: 90
+   Target Character: Boy, Value: 15
+Character: HELENUS
+   Target Character: TROILUS, Value: 74
+Character: CASSANDRA
+   Target Character: HECTOR, Value: 171
+   Target Character: PRIAM, Value: 34
+   Target Character: TROILUS, Value: 151
+   Target Character: ANDROMACHE, Value: 55
+Character: Boy
+   Target Character: PANDARUS, Value: 34
+Character: AJAX
+   Target Character: HECTOR, Value: 197
+   Target Character: THERSITES, Value: 164
+   Target Character: DIOMEDES, Value: 95
+   Target Character: TROILUS, Value: 17
+   Target Character: ULYSSES, Value: 119
+   Target Character: AENEAS, Value: 9
+   Target Character: ACHILLES, Value: 48
+   Target Character: NESTOR, Value: 87
+   Target Character: AGAMEMNON, Value: 160
+Character: CALCHAS
+   Target Character: DIOMEDES, Value: 6
+   Target Character: AGAMEMNON, Value: 322
+Character: MENELAUS
+   Target Character: HECTOR, Value: 40
+   Target Character: CRESSIDA, Value: 57
+   Target Character: PATROCLUS, Value: 24
+   Target Character: ACHILLES, Value: 13
+   Target Character: AGAMEMNON, Value: 16
+Character: TROILUS
+   Target Character: PRIAM, Value: 9
+   Target Character: PARIS, Value: 143
+   Target Character: THERSITES, Value: 377
+   Target Character: DIOMEDES, Value: 348
+   Target Character: PANDARUS, Value: 1052
+   Target Character: CRESSIDA, Value: 1692
+   Target Character: HELENUS, Value: 169
+   Target Character: CASSANDRA, Value: 369
+   Target Character: NESTOR, Value: 5
+   Target Character: ALL, Value: 54
+   Target Character: AGAMEMNON, Value: 22
+   Target Character: AJAX, Value: 19
+   Target Character: HECTOR, Value: 853
+   Target Character: ULYSSES, Value: 727
+   Target Character: AENEAS, Value: 529
+Character: MARGARELON
+   Target Character: THERSITES, Value: 13
+Character: ULYSSES
+   Target Character: HECTOR, Value: 138
+   Target Character: AJAX, Value: 181
+   Target Character: THERSITES, Value: 12
+   Target Character: DIOMEDES, Value: 315
+   Target Character: CRESSIDA, Value: 108
+   Target Character: TROILUS, Value: 358
+   Target Character: ACHILLES, Value: 1375
+   Target Character: PATROCLUS, Value: 224
+   Target Character: AENEAS, Value: 9
+   Target Character: NESTOR, Value: 1649
+   Target Character: ALL, Value: 69
+   Target Character: AGAMEMNON, Value: 1503
+Character: ACHILLES
+   Target Character: HECTOR, Value: 293
+   Target Character: AJAX, Value: 96
+   Target Character: THERSITES, Value: 429
+   Target Character: DIOMEDES, Value: 14
+   Target Character: MYRMIDONS, Value: 48
+   Target Character: MENELAUS, Value: 19
+   Target Character: ULYSSES, Value: 441
+   Target Character: AENEAS, Value: 42
+   Target Character: PATROCLUS, Value: 354
+   Target Character: NESTOR, Value: 15
+   Target Character: AGAMEMNON, Value: 64
+Character: AENEAS
+   Target Character: HECTOR, Value: 36
+   Target Character: AJAX, Value: 5
+   Target Character: PARIS, Value: 135
+   Target Character: DEIPHOBUS, Value: 29
+   Target Character: DIOMEDES, Value: 166
+   Target Character: PANDARUS, Value: 58
+   Target Character: TROILUS, Value: 303
+   Target Character: ULYSSES, Value: 32
+   Target Character: ACHILLES, Value: 98
+   Target Character: NESTOR, Value: 11
+   Target Character: AGAMEMNON, Value: 753
+Character: ANDROMACHE
+   Target Character: HECTOR, Value: 36
+   Target Character: CASSANDRA, Value: 150

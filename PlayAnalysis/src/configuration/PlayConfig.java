@@ -52,7 +52,7 @@ public class PlayConfig {
 	// Index into the ArrayList of raw lines, 
 	// describing up to what file the lines have 
 	// been parsed
-	private static int parseCursor = 0;
+	private int parseCursor = 0;
 
 	public PlayConfig(PlayType type) {
 		this.type = type;

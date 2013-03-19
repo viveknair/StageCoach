@@ -1,0 +1,149 @@
+Character: RODERIGO
+   Target Character: CASSIO, Value: 6
+   Target Character: OTHELLO, Value: 16
+   Target Character: BRABANTIO, Value: 265
+   Target Character: LODOVICO, Value: 14
+   Target Character: IAGO, Value: 1029
+Character: LODOVICO
+   Target Character: CASSIO, Value: 101
+   Target Character: GRATIANO, Value: 15
+   Target Character: OTHELLO, Value: 342
+   Target Character: RODERIGO, Value: 51
+   Target Character: IAGO, Value: 159
+   Target Character: DESDEMONA, Value: 100
+Character: IAGO
+   Target Character: CASSIO, Value: 1881
+   Target Character: GRATIANO, Value: 150
+   Target Character: OTHELLO, Value: 4636
+   Target Character: BRABANTIO, Value: 379
+   Target Character: RODERIGO, Value: 4303
+   Target Character: LODOVICO, Value: 253
+   Target Character: EMILIA, Value: 517
+   Target Character: BIANCA, Value: 129
+   Target Character: MONTANO, Value: 428
+   Target Character: DESDEMONA, Value: 693
+Character: BIANCA
+   Target Character: CASSIO, Value: 338
+   Target Character: EMILIA, Value: 30
+   Target Character: IAGO, Value: 93
+Character: MONTANO
+   Target Character: CASSIO, Value: 62
+   Target Character: Third Gentleman, Value: 97
+   Target Character: GRATIANO, Value: 3
+   Target Character: OTHELLO, Value: 186
+   Target Character: First Gentleman, Value: 51
+   Target Character: EMILIA, Value: 17
+   Target Character: IAGO, Value: 82
+   Target Character: Second Gentleman, Value: 49
+Character: Sailor
+   Target Character: F VENICE, Value: 43
+Character: DESDEMONA
+   Target Character: CASSIO, Value: 339
+   Target Character: OTHELLO, Value: 2122
+   Target Character: BRABANTIO, Value: 150
+   Target Character: LODOVICO, Value: 45
+   Target Character: EMILIA, Value: 1225
+   Target Character: IAGO, Value: 819
+   Target Character: F VENICE, Value: 142
+   Target Character: Clown, Value: 85
+Character: Clown
+   Target Character: CASSIO, Value: 67
+   Target Character: DESDEMONA, Value: 174
+   Target Character: First Musician, Value: 159
+Character: All
+   Target Character: CASSIO, Value: 2
+   Target Character: EMILIA, Value: 6
+Character: EMILIA
+   Target Character: All, Value: 27
+   Target Character: CASSIO, Value: 193
+   Target Character: GRATIANO, Value: 112
+   Target Character: OTHELLO, Value: 649
+   Target Character: BIANCA, Value: 11
+   Target Character: IAGO, Value: 929
+   Target Character: MONTANO, Value: 97
+   Target Character: DESDEMONA, Value: 978
+Character: First Senator
+   Target Character: OTHELLO, Value: 35
+   Target Character: Messenger, Value: 18
+   Target Character: F VENICE, Value: 287
+Character: F VENICE
+   Target Character: Second Senator, Value: 32
+   Target Character: OTHELLO, Value: 199
+   Target Character: BRABANTIO, Value: 442
+   Target Character: Senator, Value: 12
+   Target Character: First Senator, Value: 125
+   Target Character: Messenger, Value: 12
+   Target Character: Sailor, Value: 36
+   Target Character: DESDEMONA, Value: 8
+   Target Character: First Officer, Value: 4
+Character: Fourth Gentleman
+   Target Character: CASSIO, Value: 19
+Character: First Officer
+   Target Character: OTHELLO, Value: 19
+   Target Character: Messenger, Value: 4
+   Target Character: F VENICE, Value: 5
+Character: Second Gentleman
+   Target Character: CASSIO, Value: 26
+   Target Character: MONTANO, Value: 58
+Character: CASSIO
+   Target Character: Third Gentleman, Value: 33
+   Target Character: CASSIO, Value: 26
+   Target Character: GRATIANO, Value: 21
+   Target Character: OTHELLO, Value: 549
+   Target Character: RODERIGO, Value: 18
+   Target Character: LODOVICO, Value: 50
+   Target Character: BIANCA, Value: 325
+   Target Character: IAGO, Value: 1181
+   Target Character: MONTANO, Value: 145
+   Target Character: DESDEMONA, Value: 487
+   Target Character: Clown, Value: 107
+   Target Character: Second Gentlemen, Value: 23
+   Target Character: All, Value: 71
+   Target Character: EMILIA, Value: 67
+   Target Character: Fourth Gentleman, Value: 2
+   Target Character: Second Gentleman, Value: 96
+Character: Third Gentleman
+   Target Character: CASSIO, Value: 12
+   Target Character: MONTANO, Value: 202
+Character: OTHELLO
+   Target Character: CASSIO, Value: 449
+   Target Character: GRATIANO, Value: 158
+   Target Character: BRABANTIO, Value: 436
+   Target Character: RODERIGO, Value: 68
+   Target Character: LODOVICO, Value: 609
+   Target Character: EMILIA, Value: 905
+   Target Character: First Senator, Value: 55
+   Target Character: IAGO, Value: 3495
+   Target Character: MONTANO, Value: 301
+   Target Character: F VENICE, Value: 728
+   Target Character: DESDEMONA, Value: 2804
+   Target Character: First Officer, Value: 31
+Character: First Gentleman
+   Target Character: MONTANO, Value: 38
+Character: GRATIANO
+   Target Character: CASSIO, Value: 63
+   Target Character: OTHELLO, Value: 136
+   Target Character: EMILIA, Value: 35
+   Target Character: LODOVICO, Value: 28
+   Target Character: IAGO, Value: 57
+   Target Character: MONTANO, Value: 4
+Character: BRABANTIO
+   Target Character: OTHELLO, Value: 461
+   Target Character: RODERIGO, Value: 425
+   Target Character: Senator, Value: 65
+   Target Character: IAGO, Value: 129
+   Target Character: F VENICE, Value: 603
+   Target Character: DESDEMONA, Value: 127
+Character: Senator
+   Target Character: BRABANTIO, Value: 7
+   Target Character: F VENICE, Value: 5
+Character: Messenger
+   Target Character: First Senator, Value: 62
+   Target Character: F VENICE, Value: 40
+   Target Character: First Officer, Value: 22
+Character: Second Gentlemen
+   Target Character: CASSIO, Value: 22
+Character: Second Senator
+   Target Character: F VENICE, Value: 74
+Character: First Musician
+   Target Character: Clown, Value: 41

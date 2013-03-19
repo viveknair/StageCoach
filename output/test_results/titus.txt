@@ -1,0 +1,164 @@
+Character: Young LUCIUS
+   Target Character: AEMILIUS, Value: 90
+   Target Character: Second Goth, Value: 90
+   Target Character: TAMORA, Value: 52
+   Target Character: AARON, Value: 398
+   Target Character: All, Value: 17
+   Target Character: MARCUS ANDRONICUS, Value: 758
+   Target Character: Third Goth, Value: 10
+   Target Character: DEMETRIUS, Value: 66
+   Target Character: SATURNINUS, Value: 58
+   Target Character: First Goth, Value: 125
+   Target Character: MUTIUS, Value: 17
+   Target Character: TITUS ANDRONICUS, Value: 440
+Character: Clown
+   Target Character: TAMORA, Value: 20
+   Target Character: MARCUS ANDRONICUS, Value: 50
+   Target Character: SATURNINUS, Value: 28
+   Target Character: TITUS ANDRONICUS, Value: 189
+Character: CHIRON
+   Target Character: LAVINIA, Value: 50
+   Target Character: TAMORA, Value: 73
+   Target Character: AARON, Value: 207
+   Target Character: Nurse, Value: 15
+   Target Character: DEMETRIUS, Value: 292
+   Target Character: TITUS ANDRONICUS, Value: 16
+Character: Tribunes
+   Target Character: TITUS ANDRONICUS, Value: 38
+Character: QUINTUS
+   Target Character: AARON, Value: 8
+   Target Character: MARCUS ANDRONICUS, Value: 15
+   Target Character: SATURNINUS, Value: 27
+   Target Character: MARTIUS, Value: 336
+   Target Character: TITUS ANDRONICUS, Value: 28
+Character: MARCUS ANDRONICUS
+   Target Character: Young LUCIUS, Value: 699
+   Target Character: Clown, Value: 25
+   Target Character: QUINTUS, Value: 16
+   Target Character: BASSIANUS, Value: 214
+   Target Character: MARTIUS, Value: 22
+   Target Character: TAMORA, Value: 8
+   Target Character: AEMILIUS, Value: 139
+   Target Character: PUBLIUS, Value: 42
+   Target Character: AARON, Value: 59
+   Target Character: All, Value: 53
+   Target Character: Messenger, Value: 39
+   Target Character: SATURNINUS, Value: 259
+   Target Character: TITUS ANDRONICUS, Value: 1472
+Character: BASSIANUS
+   Target Character: LAVINIA, Value: 126
+   Target Character: TAMORA, Value: 33
+   Target Character: AARON, Value: 33
+   Target Character: MARCUS ANDRONICUS, Value: 73
+   Target Character: SATURNINUS, Value: 215
+   Target Character: TITUS ANDRONICUS, Value: 204
+Character: MARTIUS
+   Target Character: TAMORA, Value: 18
+   Target Character: AARON, Value: 15
+   Target Character: QUINTUS, Value: 315
+   Target Character: MARCUS ANDRONICUS, Value: 7
+   Target Character: SATURNINUS, Value: 38
+   Target Character: TITUS ANDRONICUS, Value: 15
+Character: MUTIUS
+   Target Character: Young LUCIUS, Value: 3
+   Target Character: TITUS ANDRONICUS, Value: 22
+Character: LAVINIA
+   Target Character: TAMORA, Value: 358
+   Target Character: CHIRON, Value: 139
+   Target Character: BASSIANUS, Value: 146
+   Target Character: DEMETRIUS, Value: 26
+   Target Character: SATURNINUS, Value: 13
+   Target Character: TITUS ANDRONICUS, Value: 62
+Character: AEMILIUS
+   Target Character: Young LUCIUS, Value: 86
+   Target Character: TAMORA, Value: 6
+   Target Character: All, Value: 31
+   Target Character: MARCUS ANDRONICUS, Value: 31
+   Target Character: SATURNINUS, Value: 100
+   Target Character: First Goth, Value: 44
+Character: Second Goth
+   Target Character: Young LUCIUS, Value: 318
+Character: TAMORA
+   Target Character: LAVINIA, Value: 237
+   Target Character: Young LUCIUS, Value: 90
+   Target Character: AEMILIUS, Value: 39
+   Target Character: Clown, Value: 117
+   Target Character: CHIRON, Value: 55
+   Target Character: AARON, Value: 354
+   Target Character: MARCUS ANDRONICUS, Value: 14
+   Target Character: BASSIANUS, Value: 40
+   Target Character: DEMETRIUS, Value: 256
+   Target Character: SATURNINUS, Value: 677
+   Target Character: MARTIUS, Value: 6
+   Target Character: TITUS ANDRONICUS, Value: 1076
+Character: PUBLIUS
+   Target Character: MARCUS ANDRONICUS, Value: 58
+   Target Character: TITUS ANDRONICUS, Value: 60
+Character: AARON
+   Target Character: Young LUCIUS, Value: 1270
+   Target Character: TAMORA, Value: 398
+   Target Character: CHIRON, Value: 789
+   Target Character: Nurse, Value: 292
+   Target Character: QUINTUS, Value: 24
+   Target Character: MARCUS ANDRONICUS, Value: 32
+   Target Character: BASSIANUS, Value: 23
+   Target Character: DEMETRIUS, Value: 1174
+   Target Character: SATURNINUS, Value: 18
+   Target Character: MARTIUS, Value: 28
+   Target Character: First Goth, Value: 203
+   Target Character: TITUS ANDRONICUS, Value: 150
+Character: Nurse
+   Target Character: CHIRON, Value: 18
+   Target Character: AARON, Value: 222
+   Target Character: DEMETRIUS, Value: 21
+Character: All
+   Target Character: Young LUCIUS, Value: 17
+   Target Character: AEMILIUS, Value: 6
+   Target Character: MARCUS ANDRONICUS, Value: 23
+Character: Messenger
+   Target Character: MARCUS ANDRONICUS, Value: 56
+Character: Third Goth
+   Target Character: Young LUCIUS, Value: 15
+Character: DEMETRIUS
+   Target Character: LAVINIA, Value: 34
+   Target Character: Young LUCIUS, Value: 76
+   Target Character: TAMORA, Value: 103
+   Target Character: CHIRON, Value: 339
+   Target Character: AARON, Value: 481
+   Target Character: Nurse, Value: 30
+   Target Character: TITUS ANDRONICUS, Value: 7
+Character: SATURNINUS
+   Target Character: LAVINIA, Value: 83
+   Target Character: Young LUCIUS, Value: 120
+   Target Character: AEMILIUS, Value: 156
+   Target Character: TAMORA, Value: 564
+   Target Character: Clown, Value: 16
+   Target Character: AARON, Value: 134
+   Target Character: QUINTUS, Value: 34
+   Target Character: MARCUS ANDRONICUS, Value: 114
+   Target Character: BASSIANUS, Value: 102
+   Target Character: MARTIUS, Value: 69
+   Target Character: TITUS ANDRONICUS, Value: 777
+Character: e Goths
+   Target Character: First Goth, Value: 10
+Character: TITUS ANDRONICUS
+   Target Character: Young LUCIUS, Value: 1677
+   Target Character: CHIRON, Value: 66
+   Target Character: Clown, Value: 355
+   Target Character: Tribunes, Value: 74
+   Target Character: QUINTUS, Value: 28
+   Target Character: MARCUS ANDRONICUS, Value: 2911
+   Target Character: BASSIANUS, Value: 85
+   Target Character: MARTIUS, Value: 44
+   Target Character: MUTIUS, Value: 18
+   Target Character: LAVINIA, Value: 71
+   Target Character: TAMORA, Value: 1289
+   Target Character: PUBLIUS, Value: 36
+   Target Character: AARON, Value: 165
+   Target Character: DEMETRIUS, Value: 26
+   Target Character: SATURNINUS, Value: 748
+Character: First Goth
+   Target Character: Young LUCIUS, Value: 74
+   Target Character: AEMILIUS, Value: 4
+   Target Character: AARON, Value: 18
+   Target Character: e Goths, Value: 58

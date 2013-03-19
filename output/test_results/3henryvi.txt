@@ -1,0 +1,268 @@
+Character: GLOUCESTER
+   Target Character: Huntsman, Value: 112
+   Target Character: MONTAGUE, Value: 8
+   Target Character: LADY GREY, Value: 92
+   Target Character: CLARENCE, Value: 232
+   Target Character: Mayor, Value: 7
+   Target Character: SOMERSET, Value: 4
+   Target Character: HASTINGS, Value: 52
+   Target Character: D IV, Value: 498
+Character: WARWICK
+   Target Character: OXFORD, Value: 178
+   Target Character: EXETER, Value: 35
+   Target Character: CLARENCE, Value: 341
+   Target Character: CLIFFORD, Value: 63
+   Target Character: SOMERSET, Value: 34
+   Target Character: NORFOLK, Value: 7
+   Target Character: GEORGE, Value: 25
+   Target Character: D IV, Value: 156
+   Target Character: Y VI, Value: 414
+   Target Character: Messenger, Value: 4
+   Target Character: QUEEN MARGARET, Value: 666
+   Target Character: Second Watchman, Value: 25
+   Target Character: BONA, Value: 90
+   Target Character: First Watchman, Value: 25
+   Target Character: Post, Value: 18
+   Target Character: S XI, Value: 247
+   Target Character: YORK, Value: 168
+   Target Character: NORTHUMBERLAND, Value: 57
+   Target Character: PRINCE EDWARD, Value: 1103
+   Target Character: RICHARD, Value: 889
+   Target Character: WESTMORELAND, Value: 49
+Character: PRINCE
+   Target Character: Y VI, Value: 24
+Character: Soldier
+   Target Character: HASTINGS, Value: 19
+Character: JOHN MORTIMER
+   Target Character: MONTAGUE, Value: 10
+   Target Character: YORK, Value: 10
+Character: Mayor
+   Target Character: GLOUCESTER, Value: 10
+   Target Character: HASTINGS, Value: 23
+   Target Character: D IV, Value: 43
+Character: Son
+   Target Character: Father, Value: 24
+   Target Character: Y VI, Value: 181
+Character: SOMERSET
+   Target Character: OXFORD, Value: 81
+   Target Character: GLOUCESTER, Value: 9
+   Target Character: WARWICK, Value: 87
+   Target Character: Second Watchman, Value: 6
+   Target Character: CLARENCE, Value: 9
+   Target Character: Y VI, Value: 9
+Character: NORFOLK
+   Target Character: WARWICK, Value: 7
+   Target Character: YORK, Value: 19
+   Target Character: RICHARD, Value: 10
+Character: GEORGE
+   Target Character: WARWICK, Value: 40
+   Target Character: PRINCE EDWARD, Value: 125
+   Target Character: RICHARD, Value: 26
+Character: Lieutenant
+   Target Character: Y VI, Value: 42
+Character: Second Keeper
+   Target Character: First Keeper, Value: 27
+   Target Character: Y VI, Value: 209
+Character: Y VI
+   Target Character: OXFORD, Value: 15
+   Target Character: WARWICK, Value: 772
+   Target Character: EXETER, Value: 139
+   Target Character: CLARENCE, Value: 88
+   Target Character: PRINCE, Value: 14
+   Target Character: CLIFFORD, Value: 179
+   Target Character: SOMERSET, Value: 17
+   Target Character: Son, Value: 512
+   Target Character: Lieutenant, Value: 165
+   Target Character: Second Keeper, Value: 534
+   Target Character: QUEEN MARGARET, Value: 328
+   Target Character: MONTAGUE, Value: 5
+   Target Character: First Keeper, Value: 580
+   Target Character: NORTHUMBERLAND, Value: 96
+   Target Character: YORK, Value: 351
+   Target Character: Father, Value: 150
+   Target Character: PRINCE EDWARD, Value: 31
+   Target Character: WESTMORELAND, Value: 6
+   Target Character: RICHARD, Value: 28
+Character: LADY GREY
+   Target Character: GLOUCESTER, Value: 61
+   Target Character: CLARENCE, Value: 10
+   Target Character: D IV, Value: 533
+Character: Third Watchman
+   Target Character: Second Watchman, Value: 74
+   Target Character: First Watchman, Value: 74
+Character: YORK
+   Target Character: QUEEN MARGARET, Value: 303
+   Target Character: MONTAGUE, Value: 17
+   Target Character: EXETER, Value: 41
+   Target Character: WARWICK, Value: 193
+   Target Character: CLIFFORD, Value: 168
+   Target Character: JOHN MORTIMER, Value: 5
+   Target Character: NORTHUMBERLAND, Value: 854
+   Target Character: NORFOLK, Value: 33
+   Target Character: PRINCE EDWARD, Value: 96
+   Target Character: Y VI, Value: 127
+   Target Character: RICHARD, Value: 96
+   Target Character: Messenger, Value: 160
+Character: RUTLAND
+   Target Character: CLIFFORD, Value: 289
+Character: PRINCE EDWARD
+   Target Character: OXFORD, Value: 15
+   Target Character: QUEEN MARGARET, Value: 175
+   Target Character: MONTAGUE, Value: 37
+   Target Character: WARWICK, Value: 387
+   Target Character: CLIFFORD, Value: 113
+   Target Character: S XI, Value: 23
+   Target Character: YORK, Value: 84
+   Target Character: GEORGE, Value: 195
+   Target Character: PRINCE EDWARD, Value: 46
+   Target Character: Y VI, Value: 38
+   Target Character: RICHARD, Value: 806
+   Target Character: Messenger, Value: 100
+Character: RICHARD
+   Target Character: QUEEN MARGARET, Value: 56
+   Target Character: MONTAGUE, Value: 9
+   Target Character: WARWICK, Value: 674
+   Target Character: CLIFFORD, Value: 115
+   Target Character: NORTHUMBERLAND, Value: 26
+   Target Character: YORK, Value: 199
+   Target Character: NORFOLK, Value: 9
+   Target Character: GEORGE, Value: 49
+   Target Character: PRINCE EDWARD, Value: 940
+   Target Character: Y VI, Value: 43
+   Target Character: Messenger, Value: 43
+Character: OXFORD
+   Target Character: MONTAGUE, Value: 9
+   Target Character: WARWICK, Value: 264
+   Target Character: SOMERSET, Value: 16
+   Target Character: Post, Value: 19
+   Target Character: PRINCE EDWARD, Value: 19
+   Target Character: D IV, Value: 16
+   Target Character: Y VI, Value: 9
+Character: Huntsman
+   Target Character: GLOUCESTER, Value: 18
+   Target Character: D IV, Value: 18
+Character: EXETER
+   Target Character: QUEEN MARGARET, Value: 21
+   Target Character: WARWICK, Value: 34
+   Target Character: YORK, Value: 53
+   Target Character: Y VI, Value: 93
+Character: All
+   Target Character: MONTAGUE, Value: 5
+Character: CLARENCE
+   Target Character: GLOUCESTER, Value: 226
+   Target Character: LADY GREY, Value: 13
+   Target Character: WARWICK, Value: 138
+   Target Character: SOMERSET, Value: 17
+   Target Character: HASTINGS, Value: 16
+   Target Character: D IV, Value: 237
+   Target Character: Y VI, Value: 49
+Character: CLIFFORD
+   Target Character: QUEEN MARGARET, Value: 51
+   Target Character: WARWICK, Value: 81
+   Target Character: YORK, Value: 110
+   Target Character: RUTLAND, Value: 173
+   Target Character: NORTHUMBERLAND, Value: 129
+   Target Character: PRINCE EDWARD, Value: 253
+   Target Character: RICHARD, Value: 94
+   Target Character: Tutor, Value: 46
+   Target Character: Y VI, Value: 628
+   Target Character: WESTMORELAND, Value: 57
+   Target Character: Messenger, Value: 25
+Character: RIVERS
+   Target Character: QUEEN ELIZABETH, Value: 93
+Character: D IV
+   Target Character: Huntsman, Value: 35
+   Target Character: OXFORD, Value: 17
+   Target Character: GLOUCESTER, Value: 570
+   Target Character: MONTAGUE, Value: 229
+   Target Character: LADY GREY, Value: 531
+   Target Character: WARWICK, Value: 74
+   Target Character: Nobleman, Value: 17
+   Target Character: CLARENCE, Value: 239
+   Target Character: QUEEN ELIZABETH, Value: 84
+   Target Character: Mayor, Value: 49
+   Target Character: Post, Value: 247
+   Target Character: HASTINGS, Value: 30
+Character: Tutor
+   Target Character: CLIFFORD, Value: 32
+Character: Messenger
+   Target Character: WARWICK, Value: 24
+   Target Character: CLIFFORD, Value: 92
+   Target Character: YORK, Value: 64
+   Target Character: PRINCE EDWARD, Value: 163
+   Target Character: RICHARD, Value: 163
+Character: QUEEN MARGARET
+   Target Character: EXETER, Value: 46
+   Target Character: WARWICK, Value: 389
+   Target Character: BONA, Value: 44
+   Target Character: CLIFFORD, Value: 400
+   Target Character: S XI, Value: 547
+   Target Character: NORTHUMBERLAND, Value: 22
+   Target Character: YORK, Value: 8
+   Target Character: PRINCE EDWARD, Value: 212
+   Target Character: RICHARD, Value: 58
+   Target Character: Y VI, Value: 707
+Character: MONTAGUE
+   Target Character: OXFORD, Value: 9
+   Target Character: GLOUCESTER, Value: 43
+   Target Character: All, Value: 14
+   Target Character: JOHN MORTIMER, Value: 44
+   Target Character: YORK, Value: 7
+   Target Character: HASTINGS, Value: 47
+   Target Character: PRINCE EDWARD, Value: 32
+   Target Character: D IV, Value: 147
+   Target Character: Y VI, Value: 9
+   Target Character: RICHARD, Value: 17
+Character: Nobleman
+   Target Character: D IV, Value: 16
+Character: BONA
+   Target Character: QUEEN MARGARET, Value: 40
+   Target Character: WARWICK, Value: 23
+   Target Character: S XI, Value: 48
+Character: Second Watchman
+   Target Character: WARWICK, Value: 15
+   Target Character: Third Watchman, Value: 29
+   Target Character: First Watchman, Value: 27
+   Target Character: SOMERSET, Value: 4
+Character: First Watchman
+   Target Character: WARWICK, Value: 3
+   Target Character: Third Watchman, Value: 24
+   Target Character: Second Watchman, Value: 67
+Character: First Keeper
+   Target Character: Second Keeper, Value: 93
+   Target Character: Y VI, Value: 97
+Character: QUEEN ELIZABETH
+   Target Character: RIVERS, Value: 288
+   Target Character: D IV, Value: 132
+Character: S XI
+   Target Character: QUEEN MARGARET, Value: 367
+   Target Character: WARWICK, Value: 305
+   Target Character: BONA, Value: 86
+   Target Character: PRINCE EDWARD, Value: 56
+Character: NORTHUMBERLAND
+   Target Character: QUEEN MARGARET, Value: 26
+   Target Character: WARWICK, Value: 74
+   Target Character: CLIFFORD, Value: 125
+   Target Character: YORK, Value: 83
+   Target Character: RICHARD, Value: 9
+   Target Character: WESTMORELAND, Value: 38
+   Target Character: Y VI, Value: 39
+Character: Post
+   Target Character: OXFORD, Value: 33
+   Target Character: WARWICK, Value: 65
+   Target Character: D IV, Value: 276
+Character: Father
+   Target Character: Son, Value: 24
+   Target Character: Y VI, Value: 260
+Character: HASTINGS
+   Target Character: GLOUCESTER, Value: 35
+   Target Character: MONTAGUE, Value: 74
+   Target Character: CLARENCE, Value: 39
+   Target Character: Soldier, Value: 12
+   Target Character: Mayor, Value: 9
+   Target Character: D IV, Value: 25
+Character: WESTMORELAND
+   Target Character: WARWICK, Value: 37
+   Target Character: CLIFFORD, Value: 69
+   Target Character: NORTHUMBERLAND, Value: 46
+   Target Character: Y VI, Value: 18

@@ -1,5 +1,4 @@
-TITLE: The
-
+TITLE: The Merry Wives
 
 CHARACTERS
 SHALLOW,
@@ -21,7 +20,6 @@ MISTRESS PAGE,
 MISTRESS FORD,
 FORD,
 ROBIN,
-,
 All,
 Servant,
 WILLIAM PAGE,

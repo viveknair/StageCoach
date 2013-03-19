@@ -1,0 +1,178 @@
+Character: AUSTRIA
+   Target Character: KING JOHN, Value: 30
+   Target Character: CONSTANCE, Value: 150
+   Target Character: LEWIS, Value: 101
+   Target Character: CARDINAL PANDULPH, Value: 3
+   Target Character: KING PHILIP, Value: 72
+   Target Character: BASTARD, Value: 96
+Character: QUEEN ELINOR
+   Target Character: ARTHUR, Value: 9
+   Target Character: KING JOHN, Value: 210
+   Target Character: CONSTANCE, Value: 134
+   Target Character: CARDINAL PANDULPH, Value: 10
+   Target Character: CHATILLON, Value: 5
+   Target Character: ESSEX, Value: 36
+   Target Character: KING PHILIP, Value: 8
+   Target Character: First Citizen, Value: 94
+   Target Character: BASTARD, Value: 282
+Character: LADY FAULCONBRIDGE
+   Target Character: BASTARD, Value: 193
+Character: ROBERT
+   Target Character: KING JOHN, Value: 173
+   Target Character: BASTARD, Value: 187
+Character: MELUN
+   Target Character: SALISBURY, Value: 394
+   Target Character: PEMBROKE, Value: 8
+Character: BIGOT
+   Target Character: SALISBURY, Value: 46
+   Target Character: HUBERT, Value: 40
+   Target Character: BASTARD, Value: 12
+Character: PETER
+   Target Character: KING JOHN, Value: 8
+Character: GURNEY
+   Target Character: BASTARD, Value: 4
+Character: ARTHUR
+   Target Character: QUEEN ELINOR, Value: 24
+   Target Character: KING JOHN, Value: 18
+   Target Character: SALISBURY, Value: 89
+   Target Character: CONSTANCE, Value: 38
+   Target Character: LEWIS, Value: 90
+   Target Character: HUBERT, Value: 1442
+   Target Character: First Executioner, Value: 29
+Character: KING JOHN
+   Target Character: AUSTRIA, Value: 53
+   Target Character: QUEEN ELINOR, Value: 239
+   Target Character: SALISBURY, Value: 166
+   Target Character: ROBERT, Value: 265
+   Target Character: KING PHILIP, Value: 1090
+   Target Character: PETER, Value: 7
+   Target Character: Messenger, Value: 243
+   Target Character: ELINOR, Value: 32
+   Target Character: BASTARD, Value: 915
+   Target Character: ARTHUR, Value: 82
+   Target Character: LEWIS, Value: 92
+   Target Character: CONSTANCE, Value: 31
+   Target Character: BLANCH, Value: 29
+   Target Character: CHATILLON, Value: 60
+   Target Character: CARDINAL PANDULPH, Value: 273
+   Target Character: HUBERT, Value: 1375
+   Target Character: PEMBROKE, Value: 89
+   Target Character: First Citizen, Value: 161
+   Target Character: PRINCE HENRY, Value: 201
+Character: LEWIS
+   Target Character: AUSTRIA, Value: 9
+   Target Character: ARTHUR, Value: 86
+   Target Character: KING JOHN, Value: 72
+   Target Character: SALISBURY, Value: 51
+   Target Character: BLANCH, Value: 45
+   Target Character: CONSTANCE, Value: 42
+   Target Character: CARDINAL PANDULPH, Value: 909
+   Target Character: KING PHILIP, Value: 139
+   Target Character: Messenger, Value: 158
+   Target Character: BASTARD, Value: 212
+Character: CONSTANCE
+   Target Character: AUSTRIA, Value: 461
+   Target Character: QUEEN ELINOR, Value: 452
+   Target Character: ARTHUR, Value: 221
+   Target Character: KING JOHN, Value: 192
+   Target Character: BLANCH, Value: 143
+   Target Character: LEWIS, Value: 23
+   Target Character: SALISBURY, Value: 561
+   Target Character: CARDINAL PANDULPH, Value: 549
+   Target Character: KING PHILIP, Value: 940
+Character: CARDINAL PANDULPH
+   Target Character: AUSTRIA, Value: 275
+   Target Character: QUEEN ELINOR, Value: 31
+   Target Character: KING JOHN, Value: 156
+   Target Character: LEWIS, Value: 1052
+   Target Character: CONSTANCE, Value: 128
+   Target Character: KING PHILIP, Value: 542
+   Target Character: BASTARD, Value: 47
+Character: CHATILLON
+   Target Character: QUEEN ELINOR, Value: 20
+   Target Character: KING JOHN, Value: 184
+   Target Character: KING PHILIP, Value: 185
+Character: First Citizen
+   Target Character: QUEEN ELINOR, Value: 13
+   Target Character: KING JOHN, Value: 513
+   Target Character: KING PHILIP, Value: 86
+   Target Character: BASTARD, Value: 350
+Character: English Herald
+   Target Character: French Herald, Value: 100
+Character: SALISBURY
+   Target Character: ARTHUR, Value: 23
+   Target Character: KING JOHN, Value: 101
+   Target Character: LEWIS, Value: 241
+   Target Character: CONSTANCE, Value: 82
+   Target Character: MELUN, Value: 27
+   Target Character: BIGOT, Value: 172
+   Target Character: HUBERT, Value: 102
+   Target Character: PEMBROKE, Value: 516
+   Target Character: PRINCE HENRY, Value: 36
+   Target Character: BASTARD, Value: 477
+Character: ESSEX
+   Target Character: QUEEN ELINOR, Value: 24
+Character: KING PHILIP
+   Target Character: AUSTRIA, Value: 146
+   Target Character: QUEEN ELINOR, Value: 7
+   Target Character: KING JOHN, Value: 913
+   Target Character: LEWIS, Value: 157
+   Target Character: CONSTANCE, Value: 327
+   Target Character: CARDINAL PANDULPH, Value: 545
+   Target Character: CHATILLON, Value: 7
+   Target Character: First Citizen, Value: 328
+   Target Character: BASTARD, Value: 125
+Character: French Herald
+   Target Character: English Herald, Value: 87
+Character: Messenger
+   Target Character: KING JOHN, Value: 274
+   Target Character: LEWIS, Value: 84
+Character: ELINOR
+   Target Character: KING JOHN, Value: 5
+   Target Character: BASTARD, Value: 3
+Character: BASTARD
+   Target Character: AUSTRIA, Value: 215
+   Target Character: QUEEN ELINOR, Value: 556
+   Target Character: LADY FAULCONBRIDGE, Value: 571
+   Target Character: ROBERT, Value: 80
+   Target Character: SALISBURY, Value: 388
+   Target Character: BIGOT, Value: 53
+   Target Character: KING PHILIP, Value: 182
+   Target Character: ELINOR, Value: 42
+   Target Character: GURNEY, Value: 8
+   Target Character: KING JOHN, Value: 1920
+   Target Character: BLANCH, Value: 155
+   Target Character: LEWIS, Value: 565
+   Target Character: CARDINAL PANDULPH, Value: 295
+   Target Character: HUBERT, Value: 435
+   Target Character: First Citizen, Value: 296
+   Target Character: PEMBROKE, Value: 82
+   Target Character: PRINCE HENRY, Value: 154
+Character: BLANCH
+   Target Character: KING JOHN, Value: 128
+   Target Character: CONSTANCE, Value: 137
+   Target Character: LEWIS, Value: 175
+   Target Character: BASTARD, Value: 215
+Character: HUBERT
+   Target Character: ARTHUR, Value: 433
+   Target Character: KING JOHN, Value: 543
+   Target Character: SALISBURY, Value: 135
+   Target Character: BIGOT, Value: 119
+   Target Character: PEMBROKE, Value: 22
+   Target Character: BASTARD, Value: 431
+   Target Character: First Executioner, Value: 44
+Character: PEMBROKE
+   Target Character: KING JOHN, Value: 146
+   Target Character: SALISBURY, Value: 441
+   Target Character: MELUN, Value: 10
+   Target Character: HUBERT, Value: 4
+   Target Character: PRINCE HENRY, Value: 54
+   Target Character: BASTARD, Value: 66
+Character: PRINCE HENRY
+   Target Character: KING JOHN, Value: 21
+   Target Character: SALISBURY, Value: 49
+   Target Character: PEMBROKE, Value: 144
+   Target Character: BASTARD, Value: 53
+Character: First Executioner
+   Target Character: ARTHUR, Value: 10
+   Target Character: HUBERT, Value: 9

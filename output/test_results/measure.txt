@@ -1,0 +1,152 @@
+Character: FROTH
+   Target Character: POMPEY, Value: 52
+   Target Character: ESCALUS, Value: 40
+Character: First Gentleman
+   Target Character: LUCIO, Value: 212
+   Target Character: MISTRESS OVERDONE, Value: 23
+   Target Character: Second Gentleman, Value: 77
+Character: DUKE
+   Target Character: ESCALUS, Value: 6
+Character: ELBOW
+   Target Character: POMPEY, Value: 138
+   Target Character: DUKE VINCENTIO, Value: 192
+   Target Character: LUCIO, Value: 26
+   Target Character: ANGELO, Value: 172
+   Target Character: ESCALUS, Value: 615
+Character: POMPEY
+   Target Character: FROTH, Value: 316
+   Target Character: ABHORSON, Value: 382
+   Target Character: DUKE VINCENTIO, Value: 75
+   Target Character: LUCIO, Value: 79
+   Target Character: ANGELO, Value: 23
+   Target Character: ESCALUS, Value: 749
+   Target Character: MISTRESS OVERDONE, Value: 230
+   Target Character: BARNARDINE, Value: 64
+   Target Character: CLAUDIO, Value: 14
+   Target Character: ELBOW, Value: 132
+   Target Character: Provost, Value: 167
+Character: JULIET
+   Target Character: DUKE VINCENTIO, Value: 92
+Character: LUCIO
+   Target Character: First Gentleman, Value: 221
+   Target Character: ANGELO, Value: 55
+   Target Character: FRIAR PETER, Value: 33
+   Target Character: Second Gentleman, Value: 130
+   Target Character: ISABELLA, Value: 1146
+   Target Character: ELBOW, Value: 79
+   Target Character: POMPEY, Value: 274
+   Target Character: DUKE VINCENTIO, Value: 1630
+   Target Character: ESCALUS, Value: 150
+   Target Character: MISTRESS OVERDONE, Value: 52
+   Target Character: MARIANA, Value: 14
+   Target Character: CLAUDIO, Value: 293
+   Target Character: Provost, Value: 17
+Character: MISTRESS OVERDONE
+   Target Character: POMPEY, Value: 147
+   Target Character: LUCIO, Value: 58
+   Target Character: First Gentleman, Value: 51
+   Target Character: ESCALUS, Value: 34
+   Target Character: Second Gentleman, Value: 23
+   Target Character: Provost, Value: 52
+Character: CLAUDIO
+   Target Character: POMPEY, Value: 18
+   Target Character: DUKE VINCENTIO, Value: 91
+   Target Character: LUCIO, Value: 774
+   Target Character: ISABELLA, Value: 562
+   Target Character: Provost, Value: 51
+Character: POMPHEY
+   Target Character: ESCALUS, Value: 14
+Character: Provost
+   Target Character: POMPEY, Value: 188
+   Target Character: ABHORSON, Value: 122
+   Target Character: DUKE VINCENTIO, Value: 1236
+   Target Character: LUCIO, Value: 6
+   Target Character: ANGELO, Value: 147
+   Target Character: ESCALUS, Value: 45
+   Target Character: MISTRESS OVERDONE, Value: 11
+   Target Character: CLAUDIO, Value: 70
+   Target Character: ISABELLA, Value: 33
+Character: ABHORSON
+   Target Character: POMPEY, Value: 72
+   Target Character: DUKE VINCENTIO, Value: 14
+   Target Character: BARNARDINE, Value: 46
+   Target Character: Provost, Value: 74
+Character: ANGELO
+   Target Character: POMPEY, Value: 56
+   Target Character: DUKE VINCENTIO, Value: 344
+   Target Character: LUCIO, Value: 202
+   Target Character: ESCALUS, Value: 543
+   Target Character: Servant, Value: 158
+   Target Character: MARIANA, Value: 142
+   Target Character: r I, Value: 9
+   Target Character: ISABELLA, Value: 1649
+   Target Character: ELBOW, Value: 44
+   Target Character: Provost, Value: 153
+Character: FRANCISCA
+   Target Character: ISABELLA, Value: 10
+Character: FRIAR PETER
+   Target Character: DUKE VINCENTIO, Value: 120
+   Target Character: LUCIO, Value: 179
+   Target Character: ISABELLA, Value: 10
+Character: Second Gentleman
+   Target Character: LUCIO, Value: 62
+   Target Character: First Gentleman, Value: 46
+   Target Character: MISTRESS OVERDONE, Value: 10
+Character: BARNARDINE
+   Target Character: POMPEY, Value: 44
+   Target Character: DUKE VINCENTIO, Value: 98
+   Target Character: ABHORSON, Value: 44
+Character: r I
+   Target Character: ANGELO, Value: 4
+   Target Character: ISABELLA, Value: 4
+Character: ISABELLA
+   Target Character: DUKE VINCENTIO, Value: 1579
+   Target Character: ANGELO, Value: 1723
+   Target Character: LUCIO, Value: 862
+   Target Character: FRIAR PETER, Value: 47
+   Target Character: FRANCISCA, Value: 30
+   Target Character: MARIANA, Value: 199
+   Target Character: CLAUDIO, Value: 922
+   Target Character: r I, Value: 3
+   Target Character: Provost, Value: 67
+Character: DUKE VINCENTIO
+   Target Character: ABHORSON, Value: 25
+   Target Character: ANGELO, Value: 867
+   Target Character: FRIAR PETER, Value: 185
+   Target Character: BARNARDINE, Value: 62
+   Target Character: ISABELLA, Value: 2455
+   Target Character: ELBOW, Value: 171
+   Target Character: POMPEY, Value: 109
+   Target Character: JULIET, Value: 214
+   Target Character: LUCIO, Value: 1462
+   Target Character: Messenger, Value: 5
+   Target Character: ESCALUS, Value: 1025
+   Target Character: MARIANA, Value: 577
+   Target Character: CLAUDIO, Value: 757
+   Target Character: FRIAR THOMAS, Value: 420
+   Target Character: Provost, Value: 1608
+Character: Messenger
+   Target Character: DUKE VINCENTIO, Value: 44
+Character: Justice
+   Target Character: ESCALUS, Value: 16
+Character: ESCALUS
+   Target Character: FROTH, Value: 65
+   Target Character: POMPEY, Value: 548
+   Target Character: DUKE VINCENTIO, Value: 558
+   Target Character: LUCIO, Value: 249
+   Target Character: ANGELO, Value: 403
+   Target Character: DUKE, Value: 42
+   Target Character: Justice, Value: 50
+   Target Character: MISTRESS OVERDONE, Value: 26
+   Target Character: POMPHEY, Value: 21
+   Target Character: ELBOW, Value: 364
+   Target Character: Provost, Value: 85
+Character: Servant
+   Target Character: ANGELO, Value: 32
+Character: MARIANA
+   Target Character: DUKE VINCENTIO, Value: 495
+   Target Character: ANGELO, Value: 225
+   Target Character: LUCIO, Value: 64
+   Target Character: ISABELLA, Value: 18
+Character: FRIAR THOMAS
+   Target Character: DUKE VINCENTIO, Value: 44

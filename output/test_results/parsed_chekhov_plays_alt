@@ -1,0 +1,58 @@
+Character: FEDYA
+   Target Character: FEDYA, Value: 129
+   Target Character: BORTSOV'S WIFE'S COACHMAN, Value: 288
+   Target Character: NAZAROVNA and EFIMOVNA, Value: 370
+   Target Character: KUSMA, Value: 13
+   Target Character: EGOR MERIK, Value: 360
+   Target Character: SAVVA, Value: 175
+   Target Character: TIHON EVSTIGNEYEV, Value: 299
+Character: BORTSOV'S WIFE'S COACHMAN
+   Target Character: FEDYA, Value: 229
+   Target Character: NAZAROVNA and EFIMOVNA, Value: 55
+   Target Character: KUSMA, Value: 58
+   Target Character: MARIA EGOROVNA, Value: 170
+   Target Character: EGOR MERIK, Value: 160
+   Target Character: SAVVA, Value: 174
+   Target Character: TIHON EVSTIGNEYEV, Value: 1396
+Character: NAZAROVNA and EFIMOVNA
+   Target Character: FEDYA, Value: 254
+   Target Character: BORTSOV'S WIFE'S COACHMAN, Value: 46
+   Target Character: NAZAROVNA and EFIMOVNA, Value: 74
+   Target Character: KUSMA, Value: 154
+   Target Character: EGOR MERIK, Value: 129
+   Target Character: SAVVA, Value: 135
+   Target Character: TIHON EVSTIGNEYEV, Value: 9
+Character: KUSMA
+   Target Character: FEDYA, Value: 179
+   Target Character: BORTSOV'S WIFE'S COACHMAN, Value: 416
+   Target Character: NAZAROVNA and EFIMOVNA, Value: 103
+   Target Character: EGOR MERIK, Value: 1090
+   Target Character: TIHON EVSTIGNEYEV, Value: 362
+Character: EGOR MERIK
+   Target Character: FEDYA, Value: 528
+   Target Character: BORTSOV'S WIFE'S COACHMAN, Value: 458
+   Target Character: NAZAROVNA and EFIMOVNA, Value: 394
+   Target Character: KUSMA, Value: 139
+   Target Character: MARIA EGOROVNA, Value: 310
+   Target Character: EGOR MERIK, Value: 178
+   Target Character: SAVVA, Value: 379
+   Target Character: TIHON EVSTIGNEYEV, Value: 925
+Character: SAVVA
+   Target Character: FEDYA, Value: 260
+   Target Character: BORTSOV'S WIFE'S COACHMAN, Value: 131
+   Target Character: NAZAROVNA and EFIMOVNA, Value: 179
+   Target Character: EGOR MERIK, Value: 46
+   Target Character: TIHON EVSTIGNEYEV, Value: 18
+Character: MARIA EGOROVNA
+   Target Character: BORTSOV'S WIFE'S COACHMAN, Value: 69
+   Target Character: EGOR MERIK, Value: 143
+   Target Character: TIHON EVSTIGNEYEV, Value: 92
+Character: TIHON EVSTIGNEYEV
+   Target Character: FEDYA, Value: 230
+   Target Character: BORTSOV'S WIFE'S COACHMAN, Value: 658
+   Target Character: NAZAROVNA and EFIMOVNA, Value: 20
+   Target Character: KUSMA, Value: 52
+   Target Character: MARIA EGOROVNA, Value: 230
+   Target Character: SAVVA, Value: 17
+   Target Character: EGOR MERIK, Value: 464
+   Target Character: TIHON EVSTIGNEYEV, Value: 99

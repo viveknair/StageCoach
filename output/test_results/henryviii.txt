@@ -1,0 +1,244 @@
+Character: QUEEN KATHARINE
+   Target Character: NORFOLK, Value: 85
+   Target Character: Y VIII, Value: 560
+   Target Character: QUEEN KATHARINE, Value: 93
+   Target Character: Third Gentleman, Value: 12
+   Target Character: CAPUCIUS, Value: 679
+   Target Character: CARDINAL WOLSEY, Value: 1873
+   Target Character: Messenger, Value: 10
+   Target Character: CARDINAL CAMPEIUS, Value: 641
+   Target Character: GRIFFITH, Value: 546
+   Target Character: Crier, Value: 366
+   Target Character: PATIENCE, Value: 25
+   Target Character: Surveyor, Value: 45
+Character: ANNE
+   Target Character: SANDS, Value: 24
+   Target Character: Old Lady, Value: 397
+   Target Character: Chamberlain, Value: 116
+   Target Character: ANNE, Value: 47
+Character: All
+   Target Character: CRANMER, Value: 2
+   Target Character: Chancellor, Value: 2
+Character: VAUX
+   Target Character: LOVELL, Value: 24
+Character: First Secretary
+   Target Character: CARDINAL WOLSEY, Value: 12
+Character: Y VIII
+   Target Character: NORFOLK, Value: 241
+   Target Character: QUEEN KATHARINE, Value: 431
+   Target Character: Old Lady, Value: 37
+   Target Character: DENNY, Value: 17
+   Target Character: DOCTOR BUTTS, Value: 18
+   Target Character: CRANMER, Value: 917
+   Target Character: SUFFOLK, Value: 150
+   Target Character: Scribe, Value: 1
+   Target Character: Surveyor, Value: 130
+   Target Character: LINCOLN, Value: 567
+   Target Character: LOVELL, Value: 68
+   Target Character: SURREY, Value: 268
+   Target Character: Third Gentleman, Value: 122
+   Target Character: CARDINAL WOLSEY, Value: 1632
+   Target Character: Chamberlain, Value: 37
+   Target Character: CARDINAL CAMPEIUS, Value: 150
+   Target Character: Chancellor, Value: 208
+   Target Character: Crier, Value: 4
+   Target Character: GARDINER, Value: 43
+Character: LOVELL
+   Target Character: SANDS, Value: 159
+   Target Character: Y VIII, Value: 112
+   Target Character: BUCKINGHAM, Value: 70
+   Target Character: CARDINAL WOLSEY, Value: 6
+   Target Character: Chamberlain, Value: 249
+   Target Character: GARDINER, Value: 286
+   Target Character: VAUX, Value: 24
+Character: SURREY
+   Target Character: NORFOLK, Value: 105
+   Target Character: Y VIII, Value: 16
+   Target Character: CARDINAL WOLSEY, Value: 625
+   Target Character: Chamberlain, Value: 68
+   Target Character: SUFFOLK, Value: 211
+Character: CARDINAL CAMPEIUS
+   Target Character: Y VIII, Value: 172
+   Target Character: QUEEN KATHARINE, Value: 179
+   Target Character: CARDINAL WOLSEY, Value: 302
+Character: Chamberlain
+   Target Character: SANDS, Value: 348
+   Target Character: Servant, Value: 4
+   Target Character: NORFOLK, Value: 272
+   Target Character: Old Lady, Value: 13
+   Target Character: CRANMER, Value: 5
+   Target Character: SUFFOLK, Value: 154
+   Target Character: ANNE, Value: 244
+   Target Character: LOVELL, Value: 166
+   Target Character: Y VIII, Value: 30
+   Target Character: Porter, Value: 310
+   Target Character: SURREY, Value: 157
+   Target Character: CARDINAL WOLSEY, Value: 123
+   Target Character: GUILDFORD, Value: 6
+Character: Chancellor
+   Target Character: NORFOLK, Value: 20
+   Target Character: Y VIII, Value: 94
+   Target Character: CROMWELL, Value: 62
+   Target Character: GARDINER, Value: 105
+   Target Character: All, Value: 42
+   Target Character: Keeper, Value: 100
+Character: SANDS
+   Target Character: LOVELL, Value: 128
+   Target Character: CARDINAL WOLSEY, Value: 69
+   Target Character: Chamberlain, Value: 305
+   Target Character: ANNE, Value: 89
+Character: Servant
+   Target Character: Chamberlain, Value: 24
+Character: NORFOLK
+   Target Character: Y VIII, Value: 264
+   Target Character: BUCKINGHAM, Value: 1138
+   Target Character: QUEEN KATHARINE, Value: 61
+   Target Character: ABERGAVENNY, Value: 96
+   Target Character: SURREY, Value: 158
+   Target Character: CROMWELL, Value: 3
+   Target Character: CARDINAL WOLSEY, Value: 228
+   Target Character: Chamberlain, Value: 204
+   Target Character: Chancellor, Value: 19
+   Target Character: SUFFOLK, Value: 405
+   Target Character: Keeper, Value: 3
+Character: BUCKINGHAM
+   Target Character: NORFOLK, Value: 1193
+   Target Character: LOVELL, Value: 440
+   Target Character: ABERGAVENNY, Value: 173
+   Target Character: BRANDON, Value: 107
+   Target Character: CARDINAL WOLSEY, Value: 29
+   Target Character: First Gentleman, Value: 309
+   Target Character: Sergeant, Value: 17
+   Target Character: Second Gentleman, Value: 214
+Character: ABERGAVENNY
+   Target Character: NORFOLK, Value: 78
+   Target Character: BUCKINGHAM, Value: 114
+   Target Character: BRANDON, Value: 34
+Character: DENNY
+   Target Character: Y VIII, Value: 32
+Character: Old Lady
+   Target Character: Y VIII, Value: 124
+   Target Character: Third Gentleman, Value: 30
+   Target Character: Chamberlain, Value: 28
+   Target Character: ANNE, Value: 584
+Character: BRANDON
+   Target Character: BUCKINGHAM, Value: 91
+   Target Character: ABERGAVENNY, Value: 49
+   Target Character: Sergeant, Value: 5
+Character: CROMWELL
+   Target Character: NORFOLK, Value: 1
+   Target Character: CARDINAL WOLSEY, Value: 380
+   Target Character: Chancellor, Value: 19
+   Target Character: GARDINER, Value: 165
+Character: DOCTOR BUTTS
+   Target Character: Y VIII, Value: 47
+   Target Character: CRANMER, Value: 7
+Character: Sergeant
+   Target Character: BUCKINGHAM, Value: 28
+   Target Character: BRANDON, Value: 28
+Character: Messenger
+   Target Character: QUEEN KATHARINE, Value: 4
+   Target Character: GRIFFITH, Value: 24
+   Target Character: PATIENCE, Value: 4
+Character: CRANMER
+   Target Character: Y VIII, Value: 1105
+   Target Character: DOCTOR BUTTS, Value: 78
+   Target Character: Chamberlain, Value: 43
+   Target Character: SUFFOLK, Value: 137
+   Target Character: Garter, Value: 38
+   Target Character: GARDINER, Value: 402
+   Target Character: All, Value: 16
+   Target Character: Keeper, Value: 40
+Character: SUFFOLK
+   Target Character: NORFOLK, Value: 504
+   Target Character: Y VIII, Value: 85
+   Target Character: SURREY, Value: 403
+   Target Character: CARDINAL WOLSEY, Value: 29
+   Target Character: CRANMER, Value: 19
+   Target Character: Chamberlain, Value: 113
+   Target Character: GARDINER, Value: 19
+Character: Scribe
+   Target Character: Y VIII, Value: 9
+   Target Character: CARDINAL WOLSEY, Value: 9
+   Target Character: Crier, Value: 9
+Character: Surveyor
+   Target Character: Y VIII, Value: 630
+   Target Character: QUEEN KATHARINE, Value: 160
+   Target Character: CARDINAL WOLSEY, Value: 52
+Character: LINCOLN
+   Target Character: Y VIII, Value: 102
+Character: Second Gentleman
+   Target Character: BUCKINGHAM, Value: 6
+   Target Character: Third Gentleman, Value: 106
+   Target Character: First Gentleman, Value: 857
+   Target Character: Second Gentleman, Value: 204
+Character: Boy
+   Target Character: GARDINER, Value: 6
+Character: Porter
+   Target Character: Porter, Value: 79
+   Target Character: Man, Value: 231
+   Target Character: Chamberlain, Value: 121
+Character: Third Gentleman
+   Target Character: Y VIII, Value: 6
+   Target Character: QUEEN KATHARINE, Value: 30
+   Target Character: Old Lady, Value: 6
+   Target Character: First Gentleman, Value: 155
+   Target Character: Second Gentleman, Value: 682
+Character: CARDINAL WOLSEY
+   Target Character: SANDS, Value: 74
+   Target Character: NORFOLK, Value: 412
+   Target Character: BUCKINGHAM, Value: 13
+   Target Character: QUEEN KATHARINE, Value: 722
+   Target Character: CROMWELL, Value: 1390
+   Target Character: SUFFOLK, Value: 240
+   Target Character: Scribe, Value: 3
+   Target Character: Surveyor, Value: 33
+   Target Character: First Secretary, Value: 19
+   Target Character: Y VIII, Value: 1293
+   Target Character: LOVELL, Value: 21
+   Target Character: SURREY, Value: 531
+   Target Character: Chamberlain, Value: 155
+   Target Character: CARDINAL CAMPEIUS, Value: 335
+   Target Character: GARDINER, Value: 18
+Character: CAPUCIUS
+   Target Character: QUEEN KATHARINE, Value: 117
+Character: First Gentleman
+   Target Character: BUCKINGHAM, Value: 21
+   Target Character: Third Gentleman, Value: 65
+   Target Character: First Gentleman, Value: 13
+   Target Character: Second Gentleman, Value: 1141
+Character: Man
+   Target Character: Porter, Value: 433
+Character: GRIFFITH
+   Target Character: QUEEN KATHARINE, Value: 616
+   Target Character: Messenger, Value: 20
+   Target Character: Crier, Value: 5
+   Target Character: PATIENCE, Value: 6
+Character: Crier
+   Target Character: Y VIII, Value: 14
+   Target Character: QUEEN KATHARINE, Value: 6
+   Target Character: GRIFFITH, Value: 8
+   Target Character: Scribe, Value: 6
+Character: GARDINER
+   Target Character: Boy, Value: 40
+   Target Character: Y VIII, Value: 9
+   Target Character: LOVELL, Value: 461
+   Target Character: CROMWELL, Value: 191
+   Target Character: CARDINAL WOLSEY, Value: 18
+   Target Character: CRANMER, Value: 218
+   Target Character: SUFFOLK, Value: 58
+   Target Character: Chancellor, Value: 95
+   Target Character: Keeper, Value: 2
+Character: PATIENCE
+   Target Character: QUEEN KATHARINE, Value: 32
+   Target Character: Messenger, Value: 3
+   Target Character: GRIFFITH, Value: 30
+Character: Garter
+   Target Character: CRANMER, Value: 21
+Character: Keeper
+   Target Character: NORFOLK, Value: 4
+   Target Character: CRANMER, Value: 27
+   Target Character: Chancellor, Value: 18
+   Target Character: GARDINER, Value: 17
+Character: GUILDFORD
+   Target Character: Chamberlain, Value: 69

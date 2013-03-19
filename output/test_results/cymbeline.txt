@@ -1,0 +1,207 @@
+Character: First Tribune
+   Target Character: Second Senator, Value: 10
+   Target Character: First Senator, Value: 10
+Character: Lord
+   Target Character: POSTHUMUS LEONATUS, Value: 59
+Character: First Brother
+   Target Character: Sicilius Leonatus, Value: 61
+   Target Character: Mother, Value: 32
+   Target Character: Second Brother, Value: 29
+Character: BELARIUS
+   Target Character: ARVIRAGUS, Value: 1041
+   Target Character: IMOGEN, Value: 218
+   Target Character: CLOTEN, Value: 51
+   Target Character: CYMBELINE, Value: 880
+   Target Character: GUIDERIUS, Value: 1218
+   Target Character: IACHIMO, Value: 22
+Character: Second Gentleman
+   Target Character: First Gentleman, Value: 137
+Character: Jupiter
+   Target Character: Sicilius Leonatus, Value: 154
+Character: GUIDERIUS
+   Target Character: ARVIRAGUS, Value: 758
+   Target Character: IMOGEN, Value: 56
+   Target Character: CLOTEN, Value: 307
+   Target Character: CYMBELINE, Value: 129
+   Target Character: BELARIUS, Value: 687
+   Target Character: CORNELIUS, Value: 12
+   Target Character: PISANIO, Value: 9
+Character: Second Senator
+   Target Character: First Tribune, Value: 2
+Character: Sicilius Leonatus
+   Target Character: First Brother, Value: 40
+   Target Character: Jupiter, Value: 45
+   Target Character: POSTHUMUS LEONATUS, Value: 68
+   Target Character: Mother, Value: 160
+   Target Character: All, Value: 45
+   Target Character: Second Brother, Value: 30
+Character: Second Captain
+   Target Character: CAIUS LUCIUS, Value: 106
+   Target Character: First Captain, Value: 30
+   Target Character: IMOGEN, Value: 26
+Character: PHILARIO
+   Target Character: POSTHUMUS LEONATUS, Value: 231
+   Target Character: Frenchman, Value: 105
+   Target Character: IACHIMO, Value: 73
+Character: First Senator
+   Target Character: First Tribune, Value: 101
+Character: ARVIRAGUS
+   Target Character: ARVIRAGUS, Value: 19
+   Target Character: CAIUS LUCIUS, Value: 4
+   Target Character: IMOGEN, Value: 49
+   Target Character: CYMBELINE, Value: 35
+   Target Character: BELARIUS, Value: 518
+   Target Character: GUIDERIUS, Value: 1057
+   Target Character: POSTHUMUS LEONATUS, Value: 19
+Character: Soothsayer
+   Target Character: CAIUS LUCIUS, Value: 112
+   Target Character: CYMBELINE, Value: 296
+Character: CYMBELINE
+   Target Character: Attendant, Value: 10
+   Target Character: BELARIUS, Value: 357
+   Target Character: GUIDERIUS, Value: 73
+   Target Character: ARVIRAGUS, Value: 47
+   Target Character: CAIUS LUCIUS, Value: 494
+   Target Character: IMOGEN, Value: 597
+   Target Character: Soothsayer, Value: 110
+   Target Character: CLOTEN, Value: 167
+   Target Character: First Lord, Value: 44
+   Target Character: POSTHUMUS LEONATUS, Value: 98
+   Target Character: First Lady, Value: 6
+   Target Character: CORNELIUS, Value: 188
+   Target Character: IACHIMO, Value: 104
+   Target Character: QUEEN, Value: 156
+   Target Character: Lords, Value: 122
+   Target Character: PISANIO, Value: 174
+Character: Posthumus Leonatus
+   Target Character: First Gaoler, Value: 236
+Character: First Lady
+   Target Character: IMOGEN, Value: 23
+   Target Character: CLOTEN, Value: 60
+   Target Character: CYMBELINE, Value: 6
+   Target Character: QUEEN, Value: 2
+Character: CORNELIUS
+   Target Character: IMOGEN, Value: 118
+   Target Character: CYMBELINE, Value: 556
+   Target Character: GUIDERIUS, Value: 6
+   Target Character: QUEEN, Value: 287
+Character: IACHIMO
+   Target Character: CAIUS LUCIUS, Value: 4
+   Target Character: IMOGEN, Value: 2096
+   Target Character: CYMBELINE, Value: 786
+   Target Character: BELARIUS, Value: 82
+   Target Character: POSTHUMUS LEONATUS, Value: 2007
+   Target Character: PHILARIO, Value: 160
+   Target Character: Frenchman, Value: 146
+Character: First Gentleman
+   Target Character: Second Gentleman, Value: 952
+   Target Character: QUEEN, Value: 11
+Character: PISANIO
+   Target Character: IMOGEN, Value: 1515
+   Target Character: First Lord, Value: 37
+   Target Character: CLOTEN, Value: 217
+   Target Character: CYMBELINE, Value: 241
+   Target Character: GUIDERIUS, Value: 103
+   Target Character: POSTHUMUS LEONATUS, Value: 25
+   Target Character: QUEEN, Value: 108
+Character: First Captain
+   Target Character: POSTHUMUS LEONATUS, Value: 30
+   Target Character: Second Captain, Value: 30
+Character: Attendant
+   Target Character: CYMBELINE, Value: 22
+   Target Character: QUEEN, Value: 22
+Character: First Gaoler
+   Target Character: Posthumus Leonatus, Value: 7
+   Target Character: POSTHUMUS LEONATUS, Value: 543
+   Target Character: Messenger, Value: 30
+Character: Mother
+   Target Character: First Brother, Value: 23
+   Target Character: Sicilius Leonatus, Value: 97
+Character: Messenger
+   Target Character: CLOTEN, Value: 12
+   Target Character: POSTHUMUS LEONATUS, Value: 10
+   Target Character: First Gaoler, Value: 10
+Character: All
+   Target Character: Sicilius Leonatus, Value: 2
+Character: Second Brother
+   Target Character: First Brother, Value: 32
+   Target Character: Sicilius Leonatus, Value: 32
+Character: CAIUS LUCIUS
+   Target Character: ARVIRAGUS, Value: 20
+   Target Character: IMOGEN, Value: 270
+   Target Character: Soothsayer, Value: 93
+   Target Character: CLOTEN, Value: 21
+   Target Character: CYMBELINE, Value: 556
+   Target Character: POSTHUMUS LEONATUS, Value: 1
+   Target Character: Second Captain, Value: 164
+   Target Character: IACHIMO, Value: 20
+   Target Character: QUEEN, Value: 80
+Character: Second Lord
+   Target Character: First Lord, Value: 94
+   Target Character: CLOTEN, Value: 307
+Character: IMOGEN
+   Target Character: BELARIUS, Value: 535
+   Target Character: GUIDERIUS, Value: 316
+   Target Character: Second Captain, Value: 354
+   Target Character: ARVIRAGUS, Value: 53
+   Target Character: CAIUS LUCIUS, Value: 273
+   Target Character: CLOTEN, Value: 647
+   Target Character: CYMBELINE, Value: 479
+   Target Character: POSTHUMUS LEONATUS, Value: 100
+   Target Character: First Lady, Value: 140
+   Target Character: CORNELIUS, Value: 11
+   Target Character: IACHIMO, Value: 879
+   Target Character: QUEEN, Value: 109
+   Target Character: PISANIO, Value: 2404
+Character: CLOTEN
+   Target Character: CAIUS LUCIUS, Value: 146
+   Target Character: Second Lord, Value: 376
+   Target Character: IMOGEN, Value: 312
+   Target Character: First Lord, Value: 195
+   Target Character: BELARIUS, Value: 58
+   Target Character: CYMBELINE, Value: 242
+   Target Character: GUIDERIUS, Value: 162
+   Target Character: First Lady, Value: 146
+   Target Character: Messenger, Value: 3
+   Target Character: QUEEN, Value: 134
+   Target Character: PISANIO, Value: 746
+Character: First Lord
+   Target Character: Second Lord, Value: 162
+   Target Character: CLOTEN, Value: 162
+   Target Character: CYMBELINE, Value: 86
+   Target Character: Scene III, Value: 17
+   Target Character: PISANIO, Value: 42
+Character: POSTHUMUS LEONATUS
+   Target Character: First Captain, Value: 196
+   Target Character: Lord, Value: 990
+   Target Character: Sicilius Leonatus, Value: 222
+   Target Character: First Gaoler, Value: 107
+   Target Character: PHILARIO, Value: 556
+   Target Character: Messenger, Value: 11
+   Target Character: ARVIRAGUS, Value: 67
+   Target Character: CAIUS LUCIUS, Value: 67
+   Target Character: IMOGEN, Value: 192
+   Target Character: CYMBELINE, Value: 91
+   Target Character: Frenchman, Value: 139
+   Target Character: IACHIMO, Value: 1422
+   Target Character: QUEEN, Value: 30
+   Target Character: PISANIO, Value: 19
+Character: Frenchman
+   Target Character: POSTHUMUS LEONATUS, Value: 128
+   Target Character: PHILARIO, Value: 28
+   Target Character: IACHIMO, Value: 193
+Character: Scene III
+   Target Character: First Lord, Value: 5
+Character: QUEEN
+   Target Character: CAIUS LUCIUS, Value: 11
+   Target Character: Attendant, Value: 54
+   Target Character: IMOGEN, Value: 32
+   Target Character: CLOTEN, Value: 417
+   Target Character: CYMBELINE, Value: 176
+   Target Character: First Lady, Value: 17
+   Target Character: POSTHUMUS LEONATUS, Value: 124
+   Target Character: CORNELIUS, Value: 267
+   Target Character: PISANIO, Value: 66
+   Target Character: First Gentleman, Value: 77
+Character: Lords
+   Target Character: CYMBELINE, Value: 4

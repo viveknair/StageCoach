@@ -1,0 +1,174 @@
+Character: EXTON
+   Target Character: Servant, Value: 61
+   Target Character: HENRY BOLINGBROKE, Value: 64
+Character: Abbot
+   Target Character: F CARLISLE, Value: 7
+   Target Character: HENRY BOLINGBROKE, Value: 7
+Character: First Herald
+   Target Character: Second Herald, Value: 48
+   Target Character: Lord Marshal, Value: 48
+Character: F GAUNT
+   Target Character: D II, Value: 1119
+   Target Character: HENRY BOLINGBROKE, Value: 590
+   Target Character: F YORK, Value: 510
+   Target Character: DUCHESS, Value: 163
+   Target Character: Lord Marshal, Value: 17
+Character: HENRY BOLINGBROKE
+   Target Character: LORD BERKELEY, Value: 33
+   Target Character: EXTON, Value: 100
+   Target Character: Abbot, Value: 12
+   Target Character: THOMAS MOWBRAY, Value: 375
+   Target Character: F GAUNT, Value: 547
+   Target Character: HENRY PERCY, Value: 202
+   Target Character: F CARLISLE, Value: 55
+   Target Character: NORTHUMBERLAND, Value: 421
+   Target Character: F AUMERLE, Value: 167
+   Target Character: D II, Value: 948
+   Target Character: BUSHY, Value: 236
+   Target Character: LORD FITZWATER, Value: 17
+   Target Character: F YORK, Value: 994
+   Target Character: BAGOT, Value: 49
+   Target Character: Lord Marshal, Value: 220
+   Target Character: LORD ROSS, Value: 29
+Character: DUCHESS
+   Target Character: F GAUNT, Value: 646
+Character: QUEEN
+   Target Character: NORTHUMBERLAND, Value: 17
+   Target Character: Gardener, Value: 131
+   Target Character: Lady, Value: 243
+   Target Character: GREEN, Value: 218
+   Target Character: BUSHY, Value: 269
+   Target Character: D II, Value: 280
+   Target Character: F YORK, Value: 6
+Character: F CARLISLE
+   Target Character: NORTHUMBERLAND, Value: 273
+   Target Character: Abbot, Value: 18
+   Target Character: F AUMERLE, Value: 133
+   Target Character: D II, Value: 115
+   Target Character: HENRY BOLINGBROKE, Value: 424
+Character: NORTHUMBERLAND
+   Target Character: F CARLISLE, Value: 43
+   Target Character: LORD BERKELEY, Value: 9
+   Target Character: D II, Value: 434
+   Target Character: LORD WILLOUGHBY, Value: 92
+   Target Character: HENRY BOLINGBROKE, Value: 315
+   Target Character: F YORK, Value: 136
+   Target Character: HENRY PERCY, Value: 118
+   Target Character: QUEEN, Value: 14
+   Target Character: LORD ROSS, Value: 638
+Character: BUSHY
+   Target Character: GREEN, Value: 109
+   Target Character: D II, Value: 52
+   Target Character: HENRY BOLINGBROKE, Value: 15
+   Target Character: BAGOT, Value: 50
+   Target Character: F YORK, Value: 25
+   Target Character: QUEEN, Value: 251
+Character: Keeper
+   Target Character: Groom, Value: 8
+   Target Character: D II, Value: 42
+Character: Groom
+   Target Character: Keeper, Value: 10
+   Target Character: D II, Value: 152
+Character: GREEN
+   Target Character: BUSHY, Value: 172
+   Target Character: D II, Value: 40
+   Target Character: BAGOT, Value: 34
+   Target Character: QUEEN, Value: 181
+Character: F YORK
+   Target Character: Servant, Value: 181
+   Target Character: NORTHUMBERLAND, Value: 250
+   Target Character: F AUMERLE, Value: 313
+   Target Character: BUSHY, Value: 193
+   Target Character: D II, Value: 797
+   Target Character: LORD WILLOUGHBY, Value: 69
+   Target Character: F GAUNT, Value: 163
+   Target Character: HENRY BOLINGBROKE, Value: 1267
+   Target Character: F YORK, Value: 1642
+   Target Character: QUEEN, Value: 19
+Character: LORD FITZWATER
+   Target Character: F AUMERLE, Value: 246
+   Target Character: HENRY BOLINGBROKE, Value: 30
+   Target Character: F SURREY, Value: 130
+Character: LORD ROSS
+   Target Character: NORTHUMBERLAND, Value: 229
+   Target Character: LORD WILLOUGHBY, Value: 107
+   Target Character: HENRY BOLINGBROKE, Value: 8
+Character: F SURREY
+   Target Character: F AUMERLE, Value: 15
+   Target Character: LORD FITZWATER, Value: 135
+Character: Lord
+   Target Character: F AUMERLE, Value: 86
+Character: LORD BERKELEY
+   Target Character: NORTHUMBERLAND, Value: 9
+   Target Character: HENRY BOLINGBROKE, Value: 9
+Character: Servant
+   Target Character: EXTON, Value: 12
+   Target Character: Gardener, Value: 140
+   Target Character: F YORK, Value: 78
+Character: F SALISBURY
+   Target Character: F AUMERLE, Value: 85
+   Target Character: D II, Value: 85
+   Target Character: Captain, Value: 15
+Character: Gardener
+   Target Character: Servant, Value: 425
+   Target Character: QUEEN, Value: 168
+Character: THOMAS MOWBRAY
+   Target Character: D II, Value: 1392
+   Target Character: HENRY BOLINGBROKE, Value: 525
+Character: Second Herald
+   Target Character: First Herald, Value: 48
+Character: HENRY PERCY
+   Target Character: NORTHUMBERLAND, Value: 318
+   Target Character: F AUMERLE, Value: 86
+   Target Character: HENRY BOLINGBROKE, Value: 197
+Character: N SCROOP
+   Target Character: F AUMERLE, Value: 68
+   Target Character: D II, Value: 426
+Character: F AUMERLE
+   Target Character: F CARLISLE, Value: 55
+   Target Character: F SALISBURY, Value: 9
+   Target Character: N SCROOP, Value: 27
+   Target Character: D II, Value: 385
+   Target Character: HENRY BOLINGBROKE, Value: 255
+   Target Character: F YORK, Value: 227
+   Target Character: LORD FITZWATER, Value: 69
+   Target Character: BAGOT, Value: 87
+   Target Character: HENRY PERCY, Value: 31
+   Target Character: Lord Marshal, Value: 33
+   Target Character: F SURREY, Value: 25
+   Target Character: Lord, Value: 48
+Character: Lady
+   Target Character: QUEEN, Value: 45
+Character: D II
+   Target Character: F SALISBURY, Value: 217
+   Target Character: THOMAS MOWBRAY, Value: 534
+   Target Character: F GAUNT, Value: 395
+   Target Character: HENRY BOLINGBROKE, Value: 1834
+   Target Character: QUEEN, Value: 461
+   Target Character: F CARLISLE, Value: 448
+   Target Character: NORTHUMBERLAND, Value: 1690
+   Target Character: N SCROOP, Value: 515
+   Target Character: F AUMERLE, Value: 1431
+   Target Character: Keeper, Value: 125
+   Target Character: Groom, Value: 643
+   Target Character: GREEN, Value: 128
+   Target Character: BUSHY, Value: 145
+   Target Character: F YORK, Value: 402
+   Target Character: Lord Marshal, Value: 124
+Character: LORD WILLOUGHBY
+   Target Character: NORTHUMBERLAND, Value: 76
+   Target Character: F YORK, Value: 8
+   Target Character: LORD ROSS, Value: 92
+Character: Captain
+   Target Character: F SALISBURY, Value: 30
+Character: BAGOT
+   Target Character: F AUMERLE, Value: 91
+   Target Character: BUSHY, Value: 90
+   Target Character: GREEN, Value: 42
+   Target Character: HENRY BOLINGBROKE, Value: 107
+Character: Lord Marshal
+   Target Character: First Herald, Value: 9
+   Target Character: F AUMERLE, Value: 42
+   Target Character: D II, Value: 109
+   Target Character: F GAUNT, Value: 20
+   Target Character: HENRY BOLINGBROKE, Value: 130

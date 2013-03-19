@@ -1,0 +1,177 @@
+Character: VINCENTIO
+   Target Character: LUCENTIO, Value: 29
+   Target Character: BIONDELLO, Value: 62
+   Target Character: PETRUCHIO, Value: 112
+   Target Character: HORTENSIO, Value: 22
+   Target Character: BIANCA, Value: 18
+   Target Character: Pedant, Value: 106
+   Target Character: GREMIO, Value: 20
+   Target Character: BAPTISTA, Value: 64
+   Target Character: TRANIO, Value: 121
+Character: CURTIS
+   Target Character: GRUMIO, Value: 240
+Character: KATHARINA
+   Target Character: GRUMIO, Value: 397
+   Target Character: PETRUCHIO, Value: 1982
+   Target Character: HORTENSIO, Value: 263
+   Target Character: Widow, Value: 39
+   Target Character: BIANCA, Value: 91
+   Target Character: BAPTISTA, Value: 183
+   Target Character: HORTENSIA, Value: 46
+   Target Character: GREMIO, Value: 82
+   Target Character: TRANIO, Value: 109
+Character: Tailor
+   Target Character: GRUMIO, Value: 138
+   Target Character: PETRUCHIO, Value: 81
+   Target Character: HORTENSIO, Value: 15
+Character: JOSEPH
+   Target Character: NICHOLAS, Value: 2
+   Target Character: PHILIP, Value: 2
+Character: GREMIO
+   Target Character: VINCENTIO, Value: 17
+   Target Character: KATARINA, Value: 8
+   Target Character: LUCENTIO, Value: 104
+   Target Character: KATHARINA, Value: 132
+   Target Character: GRUMIO, Value: 113
+   Target Character: PETRUCHIO, Value: 339
+   Target Character: HORTENSIO, Value: 393
+   Target Character: BIANCA, Value: 13
+   Target Character: Pedant, Value: 33
+   Target Character: HORTENSIA, Value: 5
+   Target Character: BAPTISTA, Value: 284
+   Target Character: TRANIO, Value: 712
+Character: KATARINA
+   Target Character: GREMIO, Value: 23
+Character: LUCENTIO
+   Target Character: VINCENTIO, Value: 70
+   Target Character: BIONDELLO, Value: 307
+   Target Character: PETRUCHIO, Value: 120
+   Target Character: HORTENSIO, Value: 258
+   Target Character: First Servant, Value: 29
+   Target Character: BIANCA, Value: 280
+   Target Character: BAPTISTA, Value: 30
+   Target Character: GREMIO, Value: 112
+   Target Character: TRANIO, Value: 906
+Character: BIONDELLO
+   Target Character: VINCENTIO, Value: 111
+   Target Character: LUCENTIO, Value: 384
+   Target Character: PETRUCHIO, Value: 36
+   Target Character: HORTENSIO, Value: 19
+   Target Character: Pedant, Value: 29
+   Target Character: BAPTISTA, Value: 359
+   Target Character: TRANIO, Value: 413
+Character: NATHANIEL
+   Target Character: NICHOLAS, Value: 4
+   Target Character: GRUMIO, Value: 16
+   Target Character: PETRUCHIO, Value: 6
+   Target Character: PHILIP, Value: 3
+Character: SLY
+   Target Character: First Servant, Value: 16
+   Target Character: Page, Value: 16
+Character: BIANCA
+   Target Character: VINCENTIO, Value: 28
+   Target Character: LUCENTIO, Value: 200
+   Target Character: KATHARINA, Value: 203
+   Target Character: PETRUCHIO, Value: 41
+   Target Character: HORTENSIO, Value: 248
+   Target Character: Widow, Value: 8
+   Target Character: First Servant, Value: 75
+   Target Character: BAPTISTA, Value: 8
+   Target Character: GREMIO, Value: 23
+   Target Character: TRANIO, Value: 42
+Character: Haberdasher
+   Target Character: PETRUCHIO, Value: 16
+Character: HORTENSIA
+   Target Character: KATHARINA, Value: 8
+   Target Character: GREMIO, Value: 8
+Character: TRANIO
+   Target Character: VINCENTIO, Value: 76
+   Target Character: LUCENTIO, Value: 854
+   Target Character: BIONDELLO, Value: 316
+   Target Character: KATHARINA, Value: 37
+   Target Character: GRUMIO, Value: 26
+   Target Character: PETRUCHIO, Value: 273
+   Target Character: HORTENSIO, Value: 354
+   Target Character: BIANCA, Value: 72
+   Target Character: Pedant, Value: 470
+   Target Character: GREMIO, Value: 589
+   Target Character: BAPTISTA, Value: 660
+Character: NICHOLAS
+   Target Character: NATHANIEL, Value: 2
+   Target Character: JOSEPH, Value: 2
+Character: PETRUCHIO
+   Target Character: VINCENTIO, Value: 207
+   Target Character: KATHARINA, Value: 2223
+   Target Character: PETRUCHIO, Value: 58
+   Target Character: Tailor, Value: 194
+   Target Character: HORTENSIO, Value: 1049
+   Target Character: Widow, Value: 145
+   Target Character: Pedant, Value: 102
+   Target Character: GREMIO, Value: 274
+   Target Character: LUCENTIO, Value: 90
+   Target Character: BIONDELLO, Value: 20
+   Target Character: PETER, Value: 3
+   Target Character: NATHANIEL, Value: 69
+   Target Character: GRUMIO, Value: 703
+   Target Character: BIANCA, Value: 61
+   Target Character: First Servant, Value: 31
+   Target Character: Haberdasher, Value: 148
+   Target Character: BAPTISTA, Value: 1300
+   Target Character: TRANIO, Value: 565
+Character: HORTENSIO
+   Target Character: VINCENTIO, Value: 8
+   Target Character: LUCENTIO, Value: 251
+   Target Character: BIONDELLO, Value: 17
+   Target Character: KATHARINA, Value: 87
+   Target Character: GRUMIO, Value: 409
+   Target Character: PETRUCHIO, Value: 662
+   Target Character: Tailor, Value: 11
+   Target Character: BIANCA, Value: 135
+   Target Character: BAPTISTA, Value: 149
+   Target Character: GREMIO, Value: 472
+   Target Character: TRANIO, Value: 381
+Character: Widow
+   Target Character: KATHARINA, Value: 53
+   Target Character: PETRUCHIO, Value: 81
+   Target Character: BIANCA, Value: 18
+Character: Pedant
+   Target Character: VINCENTIO, Value: 116
+   Target Character: BIONDELLO, Value: 18
+   Target Character: PETRUCHIO, Value: 41
+   Target Character: GREMIO, Value: 19
+   Target Character: BAPTISTA, Value: 115
+   Target Character: TRANIO, Value: 387
+Character: Page
+   Target Character: SLY, Value: 5
+Character: PETER
+   Target Character: GRUMIO, Value: 7
+   Target Character: PETRUCHIO, Value: 1
+Character: GRUMIO
+   Target Character: CURTIS, Value: 1115
+   Target Character: PETER, Value: 3
+   Target Character: NATHANIEL, Value: 52
+   Target Character: KATHARINA, Value: 163
+   Target Character: PETRUCHIO, Value: 693
+   Target Character: Tailor, Value: 237
+   Target Character: HORTENSIO, Value: 315
+   Target Character: GREMIO, Value: 24
+   Target Character: TRANIO, Value: 10
+Character: PHILIP
+   Target Character: NATHANIEL, Value: 3
+   Target Character: JOSEPH, Value: 3
+Character: First Servant
+   Target Character: LUCENTIO, Value: 10
+   Target Character: PETRUCHIO, Value: 2
+   Target Character: SLY, Value: 10
+   Target Character: BIANCA, Value: 22
+Character: BAPTISTA
+   Target Character: VINCENTIO, Value: 51
+   Target Character: LUCENTIO, Value: 14
+   Target Character: BIONDELLO, Value: 153
+   Target Character: KATHARINA, Value: 154
+   Target Character: PETRUCHIO, Value: 541
+   Target Character: HORTENSIO, Value: 46
+   Target Character: BIANCA, Value: 15
+   Target Character: Pedant, Value: 80
+   Target Character: GREMIO, Value: 284
+   Target Character: TRANIO, Value: 570

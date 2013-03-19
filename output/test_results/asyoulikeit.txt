@@ -1,0 +1,162 @@
+Character: HYMEN
+   Target Character: ROSALIND, Value: 126
+   Target Character: DUKE SENIOR, Value: 167
+Character: WILLIAM
+   Target Character: AUDREY, Value: 9
+   Target Character: CORIN, Value: 5
+   Target Character: TOUCHSTONE, Value: 69
+Character: R MARTEXT
+   Target Character: JAQUES, Value: 11
+   Target Character: TOUCHSTONE, Value: 27
+Character: JAQUES
+   Target Character: AMIENS, Value: 366
+   Target Character: AUDREY, Value: 11
+   Target Character: A Lord, Value: 43
+   Target Character: R MARTEXT, Value: 6
+   Target Character: ORLANDO, Value: 480
+   Target Character: JAQUES, Value: 96
+   Target Character: E BOYS, Value: 24
+   Target Character: Forester, Value: 52
+   Target Character: ROSALIND, Value: 248
+   Target Character: DUKE SENIOR, Value: 1179
+   Target Character: TOUCHSTONE, Value: 374
+Character: ADAM
+   Target Character: OLIVER, Value: 11
+   Target Character: ORLANDO, Value: 762
+   Target Character: DUKE SENIOR, Value: 13
+Character: Forester
+   Target Character: JAQUES, Value: 4
+Character: TOUCHSTONE
+   Target Character: LE BEAU, Value: 34
+   Target Character: AUDREY, Value: 470
+   Target Character: WILLIAM, Value: 524
+   Target Character: First Page, Value: 29
+   Target Character: R MARTEXT, Value: 200
+   Target Character: JAQUES, Value: 1099
+   Target Character: CORIN, Value: 634
+   Target Character: DUKE SENIOR, Value: 164
+   Target Character: ROSALIND, Value: 667
+   Target Character: Second Page, Value: 29
+   Target Character: CELIA, Value: 340
+Character: SILVIUS
+   Target Character: ORLANDO, Value: 11
+   Target Character: CORIN, Value: 132
+   Target Character: PHEBE, Value: 456
+   Target Character: ROSALIND, Value: 258
+   Target Character: CELIA, Value: 59
+Character: DENNIS
+   Target Character: OLIVER, Value: 20
+Character: ORLANDO
+   Target Character: CHARLES, Value: 30
+   Target Character: LE BEAU, Value: 88
+   Target Character: OLIVER, Value: 597
+   Target Character: JAQUES, Value: 386
+   Target Character: ADAM, Value: 553
+   Target Character: CORIN, Value: 79
+   Target Character: PHEBE, Value: 24
+   Target Character: DUKE SENIOR, Value: 431
+   Target Character: DUKE FREDERICK, Value: 45
+   Target Character: ROSALIND, Value: 1402
+   Target Character: SILVIUS, Value: 11
+   Target Character: CELIA, Value: 82
+Character: DUKE SENIOR
+   Target Character: Second Lord, Value: 27
+   Target Character: AMIENS, Value: 202
+   Target Character: HYMEN, Value: 33
+   Target Character: ORLANDO, Value: 227
+   Target Character: JAQUES, Value: 262
+   Target Character: ADAM, Value: 25
+   Target Character: E BOYS, Value: 103
+   Target Character: ROSALIND, Value: 44
+   Target Character: TOUCHSTONE, Value: 23
+   Target Character: First Lord, Value: 129
+Character: CHARLES
+   Target Character: OLIVER, Value: 638
+   Target Character: ORLANDO, Value: 38
+   Target Character: DUKE FREDERICK, Value: 22
+   Target Character: CELIA, Value: 16
+Character: OLIVER
+   Target Character: DENNIS, Value: 46
+   Target Character: CHARLES, Value: 479
+   Target Character: ORLANDO, Value: 240
+   Target Character: ADAM, Value: 5
+   Target Character: ROSALIND, Value: 235
+   Target Character: DUKE FREDERICK, Value: 17
+   Target Character: CELIA, Value: 806
+Character: First Page
+   Target Character: AUDREY, Value: 4
+   Target Character: TOUCHSTONE, Value: 16
+   Target Character: Second Page, Value: 46
+Character: PHEBE
+   Target Character: ORLANDO, Value: 25
+   Target Character: E BOYS, Value: 18
+   Target Character: ROSALIND, Value: 183
+   Target Character: SILVIUS, Value: 1087
+Character: Second Page
+   Target Character: First Page, Value: 153
+   Target Character: TOUCHSTONE, Value: 153
+Character: First Lord
+   Target Character: Second Lord, Value: 32
+   Target Character: DUKE FREDERICK, Value: 32
+   Target Character: DUKE SENIOR, Value: 603
+Character: Second Lord
+   Target Character: DUKE SENIOR, Value: 22
+   Target Character: First Lord, Value: 63
+Character: LE BEAU
+   Target Character: ORLANDO, Value: 236
+   Target Character: DUKE FREDERICK, Value: 18
+   Target Character: ROSALIND, Value: 247
+   Target Character: TOUCHSTONE, Value: 12
+   Target Character: CELIA, Value: 89
+Character: AMIENS
+   Target Character: JAQUES, Value: 136
+   Target Character: DUKE SENIOR, Value: 124
+Character: AUDREY
+   Target Character: WILLIAM, Value: 10
+   Target Character: First Page, Value: 33
+   Target Character: JAQUES, Value: 20
+   Target Character: TOUCHSTONE, Value: 173
+Character: A Lord
+   Target Character: JAQUES, Value: 8
+Character: CORIN
+   Target Character: WILLIAM, Value: 9
+   Target Character: ORLANDO, Value: 9
+   Target Character: ROSALIND, Value: 284
+   Target Character: TOUCHSTONE, Value: 520
+   Target Character: CELIA, Value: 102
+   Target Character: SILVIUS, Value: 35
+Character: ROSALIND
+   Target Character: LE BEAU, Value: 88
+   Target Character: HYMEN, Value: 27
+   Target Character: OLIVER, Value: 243
+   Target Character: ORLANDO, Value: 4588
+   Target Character: JAQUES, Value: 233
+   Target Character: CORIN, Value: 205
+   Target Character: PHEBE, Value: 864
+   Target Character: DUKE SENIOR, Value: 120
+   Target Character: DUKE FREDERICK, Value: 230
+   Target Character: TOUCHSTONE, Value: 265
+   Target Character: SILVIUS, Value: 788
+   Target Character: CELIA, Value: 2337
+Character: DUKE FREDERICK
+   Target Character: CHARLES, Value: 6
+   Target Character: LE BEAU, Value: 19
+   Target Character: OLIVER, Value: 98
+   Target Character: ORLANDO, Value: 23
+   Target Character: ROSALIND, Value: 200
+   Target Character: First Lord, Value: 24
+   Target Character: CELIA, Value: 344
+Character: E BOYS
+   Target Character: JAQUES, Value: 2
+   Target Character: PHEBE, Value: 126
+   Target Character: DUKE SENIOR, Value: 126
+Character: CELIA
+   Target Character: CHARLES, Value: 6
+   Target Character: LE BEAU, Value: 68
+   Target Character: OLIVER, Value: 221
+   Target Character: ORLANDO, Value: 92
+   Target Character: CORIN, Value: 68
+   Target Character: DUKE FREDERICK, Value: 244
+   Target Character: ROSALIND, Value: 2811
+   Target Character: TOUCHSTONE, Value: 262
+   Target Character: SILVIUS, Value: 29

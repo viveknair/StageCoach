@@ -1,0 +1,114 @@
+Character: FERDINAND
+   Target Character: FERDINAND, Value: 144
+   Target Character: CERES, Value: 17
+   Target Character: MIRANDA, Value: 909
+   Target Character: PROSPERO, Value: 358
+   Target Character: ALONSO, Value: 145
+Character: Mariners
+   Target Character: Boatswain, Value: 16
+Character: MIRANDA
+   Target Character: FERDINAND, Value: 719
+   Target Character: PROSPERO, Value: 894
+   Target Character: ALONSO, Value: 38
+Character: TRINCULO
+   Target Character: STEPHANO, Value: 738
+   Target Character: ALONSO, Value: 27
+   Target Character: SEBASTIAN, Value: 27
+   Target Character: CALIBAN, Value: 344
+Character: Boatswain
+   Target Character: Mariners, Value: 21
+   Target Character: ANTONIO, Value: 25
+   Target Character: Master, Value: 4
+   Target Character: ARIEL, Value: 135
+   Target Character: GONZALO, Value: 104
+   Target Character: ALONSO, Value: 126
+   Target Character: SEBASTIAN, Value: 48
+Character: ALONSO
+   Target Character: FERDINAND, Value: 65
+   Target Character: ANTONIO, Value: 94
+   Target Character: GONZALO, Value: 253
+   Target Character: MIRANDA, Value: 33
+   Target Character: PROSPERO, Value: 494
+   Target Character: TRINCULO, Value: 22
+   Target Character: Boatswain, Value: 36
+   Target Character: SEBASTIAN, Value: 172
+   Target Character: FRANCISCO, Value: 69
+   Target Character: CALIBAN, Value: 7
+Character: SEBASTIAN
+   Target Character: ADRIAN, Value: 58
+   Target Character: ANTONIO, Value: 696
+   Target Character: GONZALO, Value: 186
+   Target Character: PROSPERO, Value: 16
+   Target Character: TRINCULO, Value: 4
+   Target Character: Boatswain, Value: 20
+   Target Character: STEPHANO, Value: 4
+   Target Character: ALONSO, Value: 359
+   Target Character: FRANCISCO, Value: 21
+   Target Character: CALIBAN, Value: 13
+Character: CALIBAN
+   Target Character: ARIEL, Value: 123
+   Target Character: PROSPERO, Value: 495
+   Target Character: TRINCULO, Value: 432
+   Target Character: STEPHANO, Value: 1196
+   Target Character: ALONSO, Value: 6
+   Target Character: SEBASTIAN, Value: 19
+Character: ADRIAN
+   Target Character: ANTONIO, Value: 21
+   Target Character: GONZALO, Value: 31
+   Target Character: SEBASTIAN, Value: 68
+Character: Master
+   Target Character: Boatswain, Value: 1
+Character: ANTONIO
+   Target Character: ADRIAN, Value: 13
+   Target Character: ARIEL, Value: 6
+   Target Character: GONZALO, Value: 204
+   Target Character: PROSPERO, Value: 13
+   Target Character: Boatswain, Value: 27
+   Target Character: ALONSO, Value: 88
+   Target Character: SEBASTIAN, Value: 1506
+Character: ARIEL
+   Target Character: ANTONIO, Value: 52
+   Target Character: GONZALO, Value: 14
+   Target Character: PROSPERO, Value: 1518
+   Target Character: Boatswain, Value: 19
+   Target Character: STEPHANO, Value: 8
+   Target Character: CALIBAN, Value: 20
+Character: IRIS
+   Target Character: CERES, Value: 233
+Character: GONZALO
+   Target Character: ADRIAN, Value: 19
+   Target Character: ANTONIO, Value: 481
+   Target Character: ARIEL, Value: 18
+   Target Character: PROSPERO, Value: 131
+   Target Character: Boatswain, Value: 78
+   Target Character: ALONSO, Value: 557
+   Target Character: SEBASTIAN, Value: 468
+Character: CERES
+   Target Character: FERDINAND, Value: 44
+   Target Character: IRIS, Value: 194
+   Target Character: JUNO, Value: 44
+Character: PROSPERO
+   Target Character: FERDINAND, Value: 504
+   Target Character: ANTONIO, Value: 79
+   Target Character: ARIEL, Value: 1548
+   Target Character: GONZALO, Value: 170
+   Target Character: PROSPERO, Value: 520
+   Target Character: MIRANDA, Value: 2996
+   Target Character: STEPHANO, Value: 97
+   Target Character: ALONSO, Value: 401
+   Target Character: SEBASTIAN, Value: 189
+   Target Character: FRANCISCO, Value: 4
+   Target Character: CALIBAN, Value: 618
+Character: STEPHANO
+   Target Character: ARIEL, Value: 10
+   Target Character: PROSPERO, Value: 45
+   Target Character: TRINCULO, Value: 1038
+   Target Character: SEBASTIAN, Value: 11
+   Target Character: CALIBAN, Value: 1230
+Character: FRANCISCO
+   Target Character: PROSPERO, Value: 3
+   Target Character: ALONSO, Value: 152
+   Target Character: SEBASTIAN, Value: 3
+Character: JUNO
+   Target Character: CERES, Value: 19
+   Target Character: JUNO, Value: 41

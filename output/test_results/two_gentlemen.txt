@@ -1,0 +1,100 @@
+Character: SPEED
+   Target Character: First Outlaw, Value: 11
+   Target Character: SILVIA, Value: 94
+   Target Character: PROTEUS, Value: 685
+   Target Character: VALENTINE, Value: 1316
+   Target Character: LAUNCE, Value: 679
+   Target Character: Third Outlaw, Value: 16
+Character: Outlaws
+   Target Character: JULIA, Value: 6
+   Target Character: VALENTINE, Value: 6
+Character: DUKE
+   Target Character: JULIA, Value: 15
+   Target Character: PROTEUS, Value: 718
+   Target Character: SILVIA, Value: 27
+   Target Character: THURIO, Value: 212
+   Target Character: VALENTINE, Value: 1141
+Character: SILVIA
+   Target Character: SPEED, Value: 72
+   Target Character: Second Outlaw, Value: 15
+   Target Character: JULIA, Value: 472
+   Target Character: First Outlaw, Value: 15
+   Target Character: PROTEUS, Value: 587
+   Target Character: DUKE, Value: 8
+   Target Character: EGLAMOUR, Value: 461
+   Target Character: THURIO, Value: 42
+   Target Character: VALENTINE, Value: 367
+Character: PROTEUS
+   Target Character: SPEED, Value: 438
+   Target Character: JULIA, Value: 513
+   Target Character: DUKE, Value: 1007
+   Target Character: SILVIA, Value: 341
+   Target Character: PANTHINO, Value: 173
+   Target Character: THURIO, Value: 382
+   Target Character: VALENTINE, Value: 1409
+   Target Character: LAUNCE, Value: 126
+   Target Character: ANTONIO, Value: 233
+Character: PANTHINO
+   Target Character: PROTEUS, Value: 23
+   Target Character: LAUNCE, Value: 201
+   Target Character: ANTONIO, Value: 343
+Character: LAUNCE
+   Target Character: SPEED, Value: 1511
+   Target Character: PROTEUS, Value: 593
+   Target Character: PANTHINO, Value: 515
+   Target Character: VALENTINE, Value: 16
+Character: ANTONIO
+   Target Character: PROTEUS, Value: 201
+   Target Character: PANTHINO, Value: 232
+Character: Third Outlaw
+   Target Character: SPEED, Value: 19
+   Target Character: Second Outlaw, Value: 107
+   Target Character: First Outlaw, Value: 131
+   Target Character: VALENTINE, Value: 81
+Character: Host
+   Target Character: Host, Value: 110
+   Target Character: JULIA, Value: 350
+   Target Character: THURIO, Value: 13
+Character: JULIA
+   Target Character: Host, Value: 214
+   Target Character: Outlaws, Value: 3
+   Target Character: DUKE, Value: 4
+   Target Character: SILVIA, Value: 706
+   Target Character: PROTEUS, Value: 465
+   Target Character: LUCETTA, Value: 1815
+   Target Character: THURIO, Value: 84
+   Target Character: VALENTINE, Value: 22
+Character: Second Outlaw
+   Target Character: First Outlaw, Value: 70
+   Target Character: SILVIA, Value: 4
+   Target Character: VALENTINE, Value: 50
+   Target Character: Third Outlaw, Value: 66
+Character: First Outlaw
+   Target Character: SPEED, Value: 6
+   Target Character: Second Outlaw, Value: 134
+   Target Character: SILVIA, Value: 11
+   Target Character: VALENTINE, Value: 60
+   Target Character: Third Outlaw, Value: 45
+Character: LUCETTA
+   Target Character: JULIA, Value: 1037
+Character: EGLAMOUR
+   Target Character: SILVIA, Value: 259
+Character: THURIO
+   Target Character: JULIA, Value: 46
+   Target Character: Host, Value: 15
+   Target Character: DUKE, Value: 196
+   Target Character: PROTEUS, Value: 187
+   Target Character: SILVIA, Value: 10
+   Target Character: VALENTINE, Value: 200
+Character: VALENTINE
+   Target Character: SPEED, Value: 598
+   Target Character: JULIA, Value: 12
+   Target Character: Second Outlaw, Value: 126
+   Target Character: Outlaws, Value: 20
+   Target Character: First Outlaw, Value: 65
+   Target Character: DUKE, Value: 1217
+   Target Character: SILVIA, Value: 344
+   Target Character: PROTEUS, Value: 2273
+   Target Character: THURIO, Value: 257
+   Target Character: LAUNCE, Value: 12
+   Target Character: Third Outlaw, Value: 74

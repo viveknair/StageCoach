@@ -1,0 +1,168 @@
+Character: FALSTAFF
+   Target Character: SHALLOW, Value: 64
+   Target Character: BARDOLPH, Value: 326
+   Target Character: H EVANS, Value: 264
+   Target Character: NYM, Value: 212
+   Target Character: SLENDER, Value: 32
+   Target Character: SIMPLE, Value: 133
+   Target Character: PISTOL, Value: 753
+   Target Character: MISTRESS PAGE, Value: 214
+   Target Character: MISTRESS FORD, Value: 2638
+   Target Character: MISTRESS QUICKLY, Value: 777
+   Target Character: ROBIN, Value: 12
+   Target Character: Host, Value: 96
+Character: WILLIAM PAGE
+   Target Character: H EVANS, Value: 65
+   Target Character: MISTRESS QUICKLY, Value: 5
+Character: SHALLOW
+   Target Character: FALSTAFF, Value: 52
+   Target Character: H EVANS, Value: 207
+   Target Character: ANNE PAGE, Value: 83
+   Target Character: SLENDER, Value: 371
+   Target Character: SIMPLE, Value: 37
+   Target Character: MISTRESS PAGE, Value: 525
+   Target Character: MISTRESS QUICKLY, Value: 11
+   Target Character: MISTRESS FORD, Value: 6
+   Target Character: DOCTOR CAIUS, Value: 37
+   Target Character: Host, Value: 245
+Character: ANNE PAGE
+   Target Character: SHALLOW, Value: 67
+   Target Character: H EVANS, Value: 8
+   Target Character: SLENDER, Value: 105
+   Target Character: MISTRESS PAGE, Value: 39
+   Target Character: FENTON, Value: 27
+   Target Character: MISTRESS QUICKLY, Value: 40
+Character: First Servant
+   Target Character: Second Servant, Value: 5
+   Target Character: MISTRESS FORD, Value: 24
+Character: NYM
+   Target Character: FALSTAFF, Value: 44
+   Target Character: SLENDER, Value: 76
+   Target Character: MISTRESS PAGE, Value: 89
+   Target Character: PISTOL, Value: 148
+Character: RUGBY
+   Target Character: DOCTOR CAIUS, Value: 78
+   Target Character: MISTRESS QUICKLY, Value: 11
+   Target Character: Host, Value: 3
+Character: MISTRESS QUICKLY
+   Target Character: FALSTAFF, Value: 1601
+   Target Character: SHALLOW, Value: 12
+   Target Character: WILLIAM PAGE, Value: 39
+   Target Character: ANNE PAGE, Value: 17
+   Target Character: RUGBY, Value: 80
+   Target Character: BARDOLPH, Value: 12
+   Target Character: H EVANS, Value: 447
+   Target Character: SLENDER, Value: 10
+   Target Character: SIMPLE, Value: 326
+   Target Character: MISTRESS PAGE, Value: 135
+   Target Character: PISTOL, Value: 97
+   Target Character: FENTON, Value: 413
+   Target Character: DOCTOR CAIUS, Value: 326
+Character: BARDOLPH
+   Target Character: FALSTAFF, Value: 111
+   Target Character: H EVANS, Value: 32
+   Target Character: SLENDER, Value: 21
+   Target Character: MISTRESS QUICKLY, Value: 3
+   Target Character: Host, Value: 77
+Character: H EVANS
+   Target Character: SHALLOW, Value: 481
+   Target Character: FALSTAFF, Value: 219
+   Target Character: WILLIAM PAGE, Value: 187
+   Target Character: ANNE PAGE, Value: 11
+   Target Character: MISTRESS QUICKLY, Value: 177
+   Target Character: BARDOLPH, Value: 20
+   Target Character: SLENDER, Value: 412
+   Target Character: MISTRESS PAGE, Value: 485
+   Target Character: PISTOL, Value: 26
+   Target Character: SIMPLE, Value: 197
+   Target Character: DOCTOR CAIUS, Value: 318
+   Target Character: MISTRESS FORD, Value: 282
+   Target Character: Host, Value: 31
+Character: Second Servant
+   Target Character: First Servant, Value: 9
+Character: SLENDER
+   Target Character: FALSTAFF, Value: 138
+   Target Character: SHALLOW, Value: 562
+   Target Character: BARDOLPH, Value: 72
+   Target Character: H EVANS, Value: 278
+   Target Character: ANNE PAGE, Value: 359
+   Target Character: NYM, Value: 50
+   Target Character: SIMPLE, Value: 40
+   Target Character: PISTOL, Value: 16
+   Target Character: MISTRESS PAGE, Value: 487
+   Target Character: MISTRESS QUICKLY, Value: 16
+   Target Character: DOCTOR CAIUS, Value: 14
+Character: SIMPLE
+   Target Character: FALSTAFF, Value: 185
+   Target Character: SHALLOW, Value: 19
+   Target Character: H EVANS, Value: 65
+   Target Character: SLENDER, Value: 19
+   Target Character: DOCTOR CAIUS, Value: 30
+   Target Character: MISTRESS QUICKLY, Value: 164
+   Target Character: Host, Value: 134
+Character: MISTRESS PAGE
+   Target Character: SHALLOW, Value: 203
+   Target Character: FALSTAFF, Value: 240
+   Target Character: ANNE PAGE, Value: 79
+   Target Character: NYM, Value: 15
+   Target Character: MISTRESS QUICKLY, Value: 90
+   Target Character: H EVANS, Value: 323
+   Target Character: SLENDER, Value: 258
+   Target Character: MISTRESS PAGE, Value: 431
+   Target Character: FENTON, Value: 56
+   Target Character: MISTRESS FORD, Value: 3685
+   Target Character: DOCTOR CAIUS, Value: 121
+   Target Character: Host, Value: 85
+   Target Character: ROBIN, Value: 98
+Character: PISTOL
+   Target Character: FALSTAFF, Value: 192
+   Target Character: H EVANS, Value: 34
+   Target Character: NYM, Value: 162
+   Target Character: SLENDER, Value: 36
+   Target Character: MISTRESS QUICKLY, Value: 50
+   Target Character: MISTRESS FORD, Value: 153
+   Target Character: ROBIN, Value: 9
+Character: FENTON
+   Target Character: ANNE PAGE, Value: 236
+   Target Character: MISTRESS PAGE, Value: 100
+   Target Character: MISTRESS FORD, Value: 83
+   Target Character: MISTRESS QUICKLY, Value: 200
+   Target Character: Host, Value: 740
+Character: DOCTOR CAIUS
+   Target Character: SHALLOW, Value: 22
+   Target Character: H EVANS, Value: 166
+   Target Character: SLENDER, Value: 40
+   Target Character: MISTRESS PAGE, Value: 96
+   Target Character: SIMPLE, Value: 7
+   Target Character: RUGBY, Value: 208
+   Target Character: MISTRESS FORD, Value: 32
+   Target Character: MISTRESS QUICKLY, Value: 400
+   Target Character: Host, Value: 299
+Character: MISTRESS FORD
+   Target Character: SHALLOW, Value: 19
+   Target Character: FALSTAFF, Value: 1944
+   Target Character: H EVANS, Value: 138
+   Target Character: First Servant, Value: 139
+   Target Character: PISTOL, Value: 40
+   Target Character: MISTRESS PAGE, Value: 2461
+   Target Character: FENTON, Value: 25
+   Target Character: DOCTOR CAIUS, Value: 57
+   Target Character: MISTRESS FORD, Value: 791
+   Target Character: ROBIN, Value: 28
+   Target Character: Host, Value: 88
+Character: ROBIN
+   Target Character: FALSTAFF, Value: 24
+   Target Character: MISTRESS PAGE, Value: 103
+   Target Character: PISTOL, Value: 8
+   Target Character: MISTRESS FORD, Value: 43
+Character: Host
+   Target Character: SHALLOW, Value: 220
+   Target Character: FALSTAFF, Value: 156
+   Target Character: BARDOLPH, Value: 68
+   Target Character: H EVANS, Value: 36
+   Target Character: SIMPLE, Value: 147
+   Target Character: MISTRESS PAGE, Value: 83
+   Target Character: FENTON, Value: 79
+   Target Character: RUGBY, Value: 4
+   Target Character: DOCTOR CAIUS, Value: 520
+   Target Character: MISTRESS FORD, Value: 55

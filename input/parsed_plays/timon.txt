@@ -55,7 +55,6 @@ Third Bandit,
 Banditti,
 Both,
 Soldier,
-,
 
 ACT 1. Scene 1. SCENE I. Athens. A hall in Timon's house.
 [Enter Poet, Painter, Jeweller, Merchant, and others, at several doors]

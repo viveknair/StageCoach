@@ -1,0 +1,375 @@
+Character: IDEN
+   Target Character: YORK, Value: 34
+   Target Character: CADE, Value: 392
+   Target Character: BUCKINGHAM, Value: 14
+   Target Character: Y VI, Value: 76
+Character: Herald
+   Target Character: GLOUCESTER, Value: 17
+Character: Master
+   Target Character: Captain, Value: 20
+   Target Character: First Gentleman, Value: 20
+Character: First Petitioner
+   Target Character: SUFFOLK, Value: 13
+   Target Character: QUEEN MARGARET, Value: 38
+Character: Beadle
+   Target Character: GLOUCESTER, Value: 12
+Character: CLIFFORD
+   Target Character: WARWICK, Value: 104
+   Target Character: QUEEN MARGARET, Value: 17
+   Target Character: YORK, Value: 145
+   Target Character: RICHARD, Value: 50
+   Target Character: ALL, Value: 383
+   Target Character: Y VI, Value: 107
+   Target Character: BUCKINGHAM, Value: 69
+   Target Character: YOUNG CLIFFORD, Value: 23
+Character: SOMERSET
+   Target Character: CARDINAL, Value: 64
+   Target Character: QUEEN MARGARET, Value: 24
+   Target Character: HORNER, Value: 6
+   Target Character: WARWICK, Value: 16
+   Target Character: YORK, Value: 93
+   Target Character: GLOUCESTER, Value: 6
+   Target Character: Y VI, Value: 66
+   Target Character: BUCKINGHAM, Value: 14
+Character: SAY
+   Target Character: BEVIS, Value: 27
+   Target Character: Messenger, Value: 33
+   Target Character: DICK, Value: 24
+   Target Character: CADE, Value: 495
+   Target Character: ALL, Value: 31
+   Target Character: Y VI, Value: 18
+Character: Y VI
+   Target Character: IDEN, Value: 106
+   Target Character: SIMPCOX, Value: 70
+   Target Character: SUFFOLK, Value: 392
+   Target Character: Messenger, Value: 102
+   Target Character: YORK, Value: 58
+   Target Character: DUCHESS, Value: 113
+   Target Character: WARWICK, Value: 283
+   Target Character: ALL, Value: 39
+   Target Character: CLIFFORD, Value: 227
+   Target Character: GLOUCESTER, Value: 306
+   Target Character: SOMERSET, Value: 124
+   Target Character: SAY, Value: 39
+   Target Character: CARDINAL, Value: 129
+   Target Character: QUEEN MARGARET, Value: 986
+   Target Character: HORNER, Value: 15
+   Target Character: SALISBURY, Value: 181
+   Target Character: BUCKINGHAM, Value: 231
+Character: Spirit
+   Target Character: BOLINGBROKE, Value: 60
+   Target Character: MARGARET JOURDAIN, Value: 11
+Character: Wife
+   Target Character: SIMPCOX, Value: 32
+   Target Character: CARDINAL, Value: 17
+   Target Character: SUFFOLK, Value: 10
+   Target Character: GLOUCESTER, Value: 41
+Character: First Citizen
+   Target Character: SCALES, Value: 38
+Character: Second Murderer
+   Target Character: First Murderer, Value: 17
+Character: CADE
+   Target Character: IDEN, Value: 498
+   Target Character: Messenger, Value: 221
+   Target Character: MICHAEL, Value: 79
+   Target Character: WILLIAM STAFFORD, Value: 158
+   Target Character: ALL, Value: 447
+   Target Character: SAY, Value: 463
+   Target Character: CLERK, Value: 22
+   Target Character: SMITH, Value: 133
+   Target Character: Clerk, Value: 33
+   Target Character: DICK, Value: 760
+   Target Character: Soldier, Value: 50
+   Target Character: HOLLAND, Value: 34
+   Target Character: SIR HUMPHREY, Value: 221
+   Target Character: BUCKINGHAM, Value: 36
+Character: Commons
+   Target Character: SUFFOLK, Value: 22
+   Target Character: SALISBURY, Value: 10
+Character: SALISBURY
+   Target Character: SUFFOLK, Value: 219
+   Target Character: HORNER, Value: 8
+   Target Character: QUEEN MARGARET, Value: 86
+   Target Character: YORK, Value: 189
+   Target Character: WARWICK, Value: 253
+   Target Character: Commons, Value: 219
+   Target Character: RICHARD, Value: 71
+   Target Character: GLOUCESTER, Value: 24
+   Target Character: Y VI, Value: 141
+   Target Character: PETER, Value: 38
+   Target Character: BUCKINGHAM, Value: 188
+Character: MARGARET JOURDAIN
+   Target Character: Spirit, Value: 54
+Character: Post
+   Target Character: CARDINAL, Value: 45
+   Target Character: YORK, Value: 45
+Character: SIR HUMPHREY
+   Target Character: WILLIAM STAFFORD, Value: 30
+   Target Character: CADE, Value: 119
+   Target Character: ALL, Value: 14
+   Target Character: SMITH, Value: 14
+Character: PETER
+   Target Character: Second Petitioner, Value: 49
+   Target Character: YORK, Value: 43
+   Target Character: HORNER, Value: 141
+   Target Character: QUEEN MARGARET, Value: 40
+   Target Character: SALISBURY, Value: 83
+   Target Character: GLOUCESTER, Value: 38
+Character: WHITMORE
+   Target Character: SUFFOLK, Value: 186
+   Target Character: Captain, Value: 44
+   Target Character: First Gentleman, Value: 19
+Character: YOUNG CLIFFORD
+   Target Character: RICHARD, Value: 21
+   Target Character: CLIFFORD, Value: 13
+Character: SIMPCOX
+   Target Character: SUFFOLK, Value: 11
+   Target Character: CARDINAL, Value: 5
+   Target Character: Wife, Value: 57
+   Target Character: QUEEN MARGARET, Value: 34
+   Target Character: GLOUCESTER, Value: 153
+   Target Character: Y VI, Value: 41
+Character: Messenger
+   Target Character: CADE, Value: 34
+   Target Character: ALL, Value: 58
+   Target Character: GLOUCESTER, Value: 50
+   Target Character: SAY, Value: 35
+   Target Character: BUCKINGHAM, Value: 35
+   Target Character: Y VI, Value: 210
+Character: YORK
+   Target Character: IDEN, Value: 21
+   Target Character: SUFFOLK, Value: 220
+   Target Character: WARWICK, Value: 578
+   Target Character: DUCHESS, Value: 50
+   Target Character: BOTH, Value: 103
+   Target Character: EDWARD, Value: 4
+   Target Character: CLIFFORD, Value: 211
+   Target Character: First Neighbour, Value: 23
+   Target Character: GLOUCESTER, Value: 202
+   Target Character: SOMERSET, Value: 254
+   Target Character: Y VI, Value: 62
+   Target Character: CARDINAL, Value: 83
+   Target Character: BOLINGBROKE, Value: 50
+   Target Character: HORNER, Value: 44
+   Target Character: QUEEN MARGARET, Value: 360
+   Target Character: SALISBURY, Value: 368
+   Target Character: Post, Value: 17
+   Target Character: PETER, Value: 44
+   Target Character: BUCKINGHAM, Value: 655
+Character: DUCHESS
+   Target Character: BOLINGBROKE, Value: 14
+   Target Character: YORK, Value: 16
+   Target Character: QUEEN MARGARET, Value: 25
+   Target Character: STANLEY, Value: 114
+   Target Character: GLOUCESTER, Value: 778
+   Target Character: Sheriff, Value: 27
+   Target Character: HUME, Value: 153
+   Target Character: Y VI, Value: 32
+Character: MICHAEL
+   Target Character: CADE, Value: 39
+Character: HUME
+   Target Character: BOLINGBROKE, Value: 21
+   Target Character: DUCHESS, Value: 70
+Character: HORNER
+   Target Character: Third Neighbour, Value: 43
+   Target Character: YORK, Value: 70
+   Target Character: SALISBURY, Value: 55
+   Target Character: SOMERSET, Value: 6
+   Target Character: PETER, Value: 73
+   Target Character: Y VI, Value: 86
+Character: SCALES
+   Target Character: First Citizen, Value: 6
+Character: DICK
+   Target Character: Clerk, Value: 15
+   Target Character: CADE, Value: 357
+   Target Character: HOLLAND, Value: 12
+   Target Character: SAY, Value: 29
+   Target Character: SMITH, Value: 48
+Character: VAUX
+   Target Character: QUEEN MARGARET, Value: 84
+Character: Second Petitioner
+   Target Character: SUFFOLK, Value: 26
+   Target Character: PETER, Value: 39
+Character: WARWICK
+   Target Character: SUFFOLK, Value: 612
+   Target Character: CARDINAL, Value: 31
+   Target Character: QUEEN MARGARET, Value: 235
+   Target Character: BOTH, Value: 81
+   Target Character: YORK, Value: 235
+   Target Character: CLIFFORD, Value: 158
+   Target Character: SOMERSET, Value: 15
+   Target Character: SALISBURY, Value: 127
+   Target Character: Y VI, Value: 139
+   Target Character: BUCKINGHAM, Value: 17
+Character: Captain
+   Target Character: SUFFOLK, Value: 579
+   Target Character: Master, Value: 43
+   Target Character: First Gentleman, Value: 151
+   Target Character: WHITMORE, Value: 20
+Character: STANLEY
+   Target Character: DUCHESS, Value: 83
+   Target Character: GLOUCESTER, Value: 20
+Character: First Gentleman
+   Target Character: SUFFOLK, Value: 8
+   Target Character: Master, Value: 8
+   Target Character: Captain, Value: 17
+   Target Character: Second Gentleman, Value: 9
+   Target Character: WHITMORE, Value: 8
+Character: ALL
+   Target Character: Messenger, Value: 8
+   Target Character: QUEEN MARGARET, Value: 4
+   Target Character: WILLIAM STAFFORD, Value: 16
+   Target Character: CADE, Value: 34
+   Target Character: CLIFFORD, Value: 24
+   Target Character: SAY, Value: 4
+   Target Character: SIR HUMPHREY, Value: 8
+   Target Character: CLERK, Value: 12
+   Target Character: Y VI, Value: 7
+Character: EDWARD
+   Target Character: YORK, Value: 8
+   Target Character: RICHARD, Value: 8
+Character: CLERK
+   Target Character: CADE, Value: 17
+   Target Character: ALL, Value: 17
+Character: SMITH
+   Target Character: CADE, Value: 141
+   Target Character: DICK, Value: 75
+   Target Character: HOLLAND, Value: 16
+   Target Character: SIR HUMPHREY, Value: 24
+Character: BOLINGBROKE
+   Target Character: Spirit, Value: 98
+   Target Character: YORK, Value: 10
+   Target Character: DUCHESS, Value: 63
+   Target Character: HUME, Value: 28
+Character: QUEEN MARGARET
+   Target Character: SIMPCOX, Value: 16
+   Target Character: SUFFOLK, Value: 1191
+   Target Character: DUCHESS, Value: 42
+   Target Character: YORK, Value: 154
+   Target Character: WARWICK, Value: 481
+   Target Character: First Petitioner, Value: 36
+   Target Character: ALL, Value: 175
+   Target Character: CLIFFORD, Value: 17
+   Target Character: GLOUCESTER, Value: 127
+   Target Character: SOMERSET, Value: 86
+   Target Character: Y VI, Value: 1113
+   Target Character: CARDINAL, Value: 107
+   Target Character: RICHARD, Value: 9
+   Target Character: SALISBURY, Value: 14
+   Target Character: BUCKINGHAM, Value: 65
+   Target Character: PETER, Value: 32
+   Target Character: VAUX, Value: 9
+Character: Clerk
+   Target Character: DICK, Value: 1
+   Target Character: CADE, Value: 1
+Character: HOLLAND
+   Target Character: BEVIS, Value: 178
+   Target Character: DICK, Value: 22
+   Target Character: CADE, Value: 22
+   Target Character: SMITH, Value: 22
+Character: Townsman
+   Target Character: SUFFOLK, Value: 28
+   Target Character: GLOUCESTER, Value: 4
+Character: BUCKINGHAM
+   Target Character: IDEN, Value: 17
+   Target Character: CARDINAL, Value: 135
+   Target Character: Messenger, Value: 8
+   Target Character: QUEEN MARGARET, Value: 24
+   Target Character: YORK, Value: 233
+   Target Character: WARWICK, Value: 16
+   Target Character: CADE, Value: 42
+   Target Character: CLIFFORD, Value: 42
+   Target Character: GLOUCESTER, Value: 44
+   Target Character: SOMERSET, Value: 18
+   Target Character: SALISBURY, Value: 14
+   Target Character: Y VI, Value: 177
+Character: SUFFOLK
+   Target Character: SIMPCOX, Value: 8
+   Target Character: Second Petitioner, Value: 34
+   Target Character: YORK, Value: 176
+   Target Character: WARWICK, Value: 250
+   Target Character: Captain, Value: 441
+   Target Character: First Petitioner, Value: 7
+   Target Character: First Gentleman, Value: 80
+   Target Character: GLOUCESTER, Value: 259
+   Target Character: Y VI, Value: 437
+   Target Character: CARDINAL, Value: 322
+   Target Character: Wife, Value: 8
+   Target Character: QUEEN MARGARET, Value: 1401
+   Target Character: First Murderer, Value: 100
+   Target Character: Commons, Value: 108
+   Target Character: Townsman, Value: 18
+   Target Character: SALISBURY, Value: 14
+   Target Character: WHITMORE, Value: 283
+Character: BOTH
+   Target Character: YORK, Value: 7
+   Target Character: WARWICK, Value: 7
+Character: WILLIAM STAFFORD
+   Target Character: CADE, Value: 37
+   Target Character: ALL, Value: 25
+   Target Character: SIR HUMPHREY, Value: 15
+Character: GLOUCESTER
+   Target Character: SIMPCOX, Value: 333
+   Target Character: Herald, Value: 96
+   Target Character: SUFFOLK, Value: 291
+   Target Character: Messenger, Value: 17
+   Target Character: YORK, Value: 272
+   Target Character: DUCHESS, Value: 428
+   Target Character: STANLEY, Value: 44
+   Target Character: Beadle, Value: 20
+   Target Character: SOMERSET, Value: 52
+   Target Character: Y VI, Value: 844
+   Target Character: CARDINAL, Value: 882
+   Target Character: Wife, Value: 48
+   Target Character: QUEEN MARGARET, Value: 219
+   Target Character: Mayor, Value: 48
+   Target Character: Townsman, Value: 10
+   Target Character: Servants, Value: 125
+   Target Character: SALISBURY, Value: 48
+   Target Character: Sheriff, Value: 41
+   Target Character: BUCKINGHAM, Value: 103
+   Target Character: PETER, Value: 9
+Character: First Neighbour
+   Target Character: YORK, Value: 21
+   Target Character: Second Neighbour, Value: 21
+Character: Second Gentleman
+   Target Character: First Gentleman, Value: 10
+Character: CARDINAL
+   Target Character: SIMPCOX, Value: 4
+   Target Character: Wife, Value: 4
+   Target Character: SUFFOLK, Value: 224
+   Target Character: QUEEN MARGARET, Value: 42
+   Target Character: YORK, Value: 114
+   Target Character: WARWICK, Value: 108
+   Target Character: SOMERSET, Value: 75
+   Target Character: GLOUCESTER, Value: 469
+   Target Character: Post, Value: 16
+   Target Character: BUCKINGHAM, Value: 185
+   Target Character: Y VI, Value: 285
+Character: BEVIS
+   Target Character: HOLLAND, Value: 193
+   Target Character: SAY, Value: 16
+Character: Third Neighbour
+   Target Character: HORNER, Value: 15
+   Target Character: Second Neighbour, Value: 15
+Character: First Murderer
+   Target Character: SUFFOLK, Value: 20
+   Target Character: Second Murderer, Value: 4
+Character: Soldier
+   Target Character: CADE, Value: 4
+Character: RICHARD
+   Target Character: QUEEN MARGARET, Value: 39
+   Target Character: SALISBURY, Value: 63
+   Target Character: CLIFFORD, Value: 109
+   Target Character: EDWARD, Value: 9
+   Target Character: YOUNG CLIFFORD, Value: 32
+Character: Second Neighbour
+   Target Character: Third Neighbour, Value: 8
+   Target Character: First Neighbour, Value: 8
+Character: Mayor
+   Target Character: GLOUCESTER, Value: 23
+Character: Servants
+   Target Character: GLOUCESTER, Value: 23
+Character: Sheriff
+   Target Character: DUCHESS, Value: 16
+   Target Character: GLOUCESTER, Value: 50

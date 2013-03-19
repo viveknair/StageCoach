@@ -1,0 +1,214 @@
+Character: MALCOLM
+   Target Character: Doctor, Value: 10
+   Target Character: Sergeant, Value: 32
+   Target Character: Soldiers, Value: 29
+   Target Character: MENTEITH, Value: 43
+   Target Character: MACDUFF, Value: 1546
+   Target Character: DUNCAN, Value: 109
+   Target Character: ALL, Value: 26
+   Target Character: MACBETH, Value: 9
+   Target Character: DONALBAIN, Value: 55
+   Target Character: LENNOX, Value: 8
+   Target Character: SIWARD, Value: 114
+   Target Character: ROSS, Value: 126
+Character: Third Murderer
+   Target Character: Second Murderer, Value: 11
+   Target Character: BANQUO, Value: 10
+   Target Character: First Murderer, Value: 42
+Character: Second Apparition
+   Target Character: MACBETH, Value: 3
+   Target Character: First Witch, Value: 3
+Character: MACDUFF
+   Target Character: MALCOLM, Value: 993
+   Target Character: Porter, Value: 64
+   Target Character: ALL, Value: 4
+   Target Character: MACBETH, Value: 210
+   Target Character: LENNOX, Value: 71
+   Target Character: BANQUO, Value: 4
+   Target Character: SIWARD, Value: 124
+   Target Character: ROSS, Value: 321
+   Target Character: LADY MACBETH, Value: 109
+Character: DUNCAN
+   Target Character: Sergeant, Value: 26
+   Target Character: MALCOLM, Value: 52
+   Target Character: MACBETH, Value: 202
+   Target Character: BANQUO, Value: 155
+   Target Character: ROSS, Value: 60
+   Target Character: LADY MACBETH, Value: 136
+Character: ATTENDANT
+   Target Character: MACBETH, Value: 8
+Character: SEYTON
+   Target Character: MACBETH, Value: 40
+Character: LENNOX
+   Target Character: MALCOLM, Value: 61
+   Target Character: MENTEITH, Value: 30
+   Target Character: CAITHNESS, Value: 30
+   Target Character: MACDUFF, Value: 24
+   Target Character: Lord, Value: 251
+   Target Character: MACBETH, Value: 268
+   Target Character: ROSS, Value: 17
+   Target Character: LADY MACBETH, Value: 8
+Character: ANGUS
+   Target Character: CAITHNESS, Value: 58
+   Target Character: MENTEITH, Value: 58
+   Target Character: MACBETH, Value: 58
+   Target Character: ROSS, Value: 42
+Character: Servant
+   Target Character: MACBETH, Value: 18
+   Target Character: LADY MACBETH, Value: 12
+Character: LADY MACBETH
+   Target Character: Doctor, Value: 273
+   Target Character: Gentlewoman, Value: 25
+   Target Character: MACDUFF, Value: 28
+   Target Character: DUNCAN, Value: 119
+   Target Character: MACBETH, Value: 1797
+   Target Character: Messenger, Value: 301
+   Target Character: LENNOX, Value: 29
+   Target Character: ROSS, Value: 81
+   Target Character: Servant, Value: 18
+Character: Gentlewoman
+   Target Character: Doctor, Value: 278
+   Target Character: LADY MACBETH, Value: 43
+Character: Third Apparition
+   Target Character: MACBETH, Value: 32
+Character: Soldiers
+   Target Character: MALCOLM, Value: 4
+   Target Character: SIWARD, Value: 4
+Character: ALL
+   Target Character: MALCOLM, Value: 2
+   Target Character: MACDUFF, Value: 2
+   Target Character: MACBETH, Value: 67
+   Target Character: Third Witch, Value: 20
+   Target Character: First Witch, Value: 10
+   Target Character: Second Witch, Value: 20
+Character: Messenger
+   Target Character: MACBETH, Value: 103
+   Target Character: LADY MACBETH, Value: 43
+Character: Lord
+   Target Character: LENNOX, Value: 302
+Character: MACBETH
+   Target Character: Second Apparition, Value: 7
+   Target Character: MALCOLM, Value: 61
+   Target Character: MACDUFF, Value: 391
+   Target Character: DUNCAN, Value: 158
+   Target Character: ATTENDANT, Value: 60
+   Target Character: SEYTON, Value: 201
+   Target Character: LENNOX, Value: 172
+   Target Character: ANGUS, Value: 13
+   Target Character: Servant, Value: 164
+   Target Character: LADY MACBETH, Value: 2215
+   Target Character: Third Apparition, Value: 72
+   Target Character: ALL, Value: 257
+   Target Character: Messenger, Value: 111
+   Target Character: Lords, Value: 88
+   Target Character: First Apparition, Value: 18
+   Target Character: BANQUO, Value: 793
+   Target Character: YOUNG SIWARD, Value: 56
+   Target Character: First Witch, Value: 134
+   Target Character: First Murderer, Value: 926
+   Target Character: Doctor, Value: 308
+   Target Character: Second Murderer, Value: 219
+   Target Character: DONALBAIN, Value: 75
+   Target Character: Both Murderers, Value: 192
+   Target Character: ROSS, Value: 93
+   Target Character: Second Witch, Value: 12
+Character: LADY MACDUFF
+   Target Character: Son, Value: 206
+   Target Character: ROSS, Value: 213
+   Target Character: First Murderer, Value: 82
+Character: Old Man
+   Target Character: ROSS, Value: 91
+Character: Lords
+   Target Character: MACBETH, Value: 21
+Character: Porter
+   Target Character: MACDUFF, Value: 402
+Character: MENTEITH
+   Target Character: MALCOLM, Value: 8
+   Target Character: CAITHNESS, Value: 27
+   Target Character: LENNOX, Value: 4
+   Target Character: ANGUS, Value: 59
+   Target Character: SIWARD, Value: 8
+Character: FLEANCE
+   Target Character: BANQUO, Value: 25
+Character: Son
+   Target Character: LADY MACDUFF, Value: 231
+   Target Character: First Murderer, Value: 5
+Character: First Apparition
+   Target Character: MACBETH, Value: 13
+Character: Third Witch
+   Target Character: ALL, Value: 140
+   Target Character: BANQUO, Value: 8
+   Target Character: First Witch, Value: 52
+   Target Character: Second Witch, Value: 49
+Character: BANQUO
+   Target Character: Third Murderer, Value: 20
+   Target Character: Second Murderer, Value: 7
+   Target Character: MACDUFF, Value: 55
+   Target Character: FLEANCE, Value: 17
+   Target Character: DUNCAN, Value: 70
+   Target Character: MACBETH, Value: 798
+   Target Character: Third Witch, Value: 92
+   Target Character: First Witch, Value: 92
+   Target Character: ROSS, Value: 14
+   Target Character: First Murderer, Value: 5
+Character: YOUNG SIWARD
+   Target Character: MACBETH, Value: 60
+Character: SIWARD
+   Target Character: MALCOLM, Value: 142
+   Target Character: MACDUFF, Value: 58
+   Target Character: Soldiers, Value: 20
+   Target Character: MENTEITH, Value: 12
+   Target Character: ROSS, Value: 48
+Character: First Witch
+   Target Character: Second Apparition, Value: 12
+   Target Character: ALL, Value: 31
+   Target Character: MACBETH, Value: 56
+   Target Character: Third Witch, Value: 201
+   Target Character: BANQUO, Value: 1
+   Target Character: Second Witch, Value: 175
+Character: First Murderer
+   Target Character: Third Murderer, Value: 54
+   Target Character: Second Murderer, Value: 65
+   Target Character: Son, Value: 3
+   Target Character: MACBETH, Value: 126
+   Target Character: LADY MACDUFF, Value: 11
+   Target Character: BANQUO, Value: 2
+Character: Sergeant
+   Target Character: MALCOLM, Value: 116
+   Target Character: DUNCAN, Value: 296
+Character: Doctor
+   Target Character: MALCOLM, Value: 35
+   Target Character: Gentlewoman, Value: 282
+   Target Character: MACBETH, Value: 74
+   Target Character: LADY MACBETH, Value: 97
+Character: Second Murderer
+   Target Character: Third Murderer, Value: 32
+   Target Character: MACBETH, Value: 37
+   Target Character: BANQUO, Value: 17
+   Target Character: First Murderer, Value: 74
+Character: CAITHNESS
+   Target Character: MENTEITH, Value: 65
+   Target Character: LENNOX, Value: 8
+   Target Character: ANGUS, Value: 41
+Character: DONALBAIN
+   Target Character: MALCOLM, Value: 85
+   Target Character: MACBETH, Value: 6
+Character: Both Murderers
+   Target Character: MACBETH, Value: 11
+Character: ROSS
+   Target Character: MALCOLM, Value: 177
+   Target Character: MACDUFF, Value: 543
+   Target Character: DUNCAN, Value: 200
+   Target Character: MACBETH, Value: 47
+   Target Character: LADY MACDUFF, Value: 270
+   Target Character: Old Man, Value: 170
+   Target Character: LENNOX, Value: 4
+   Target Character: ANGUS, Value: 121
+   Target Character: BANQUO, Value: 121
+   Target Character: SIWARD, Value: 93
+   Target Character: LADY MACBETH, Value: 11
+Character: Second Witch
+   Target Character: ALL, Value: 94
+   Target Character: MACBETH, Value: 15
+   Target Character: Third Witch, Value: 41
+   Target Character: First Witch, Value: 55

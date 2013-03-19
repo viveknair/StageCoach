@@ -1,0 +1,167 @@
+Character: PRINCE HENRY
+   Target Character: PETO, Value: 80
+   Target Character: Y IV, Value: 964
+   Target Character: GADSHILL, Value: 5
+   Target Character: F WORCESTER, Value: 3
+   Target Character: POINS, Value: 1365
+   Target Character: BARDOLPH, Value: 159
+   Target Character: F DOUGLAS, Value: 8
+   Target Character: LANCASTER, Value: 149
+   Target Character: Sheriff, Value: 131
+   Target Character: WESTMORELAND, Value: 40
+   Target Character: Carrier, Value: 58
+   Target Character: FALSTAFF, Value: 2756
+   Target Character: FRANCIS, Value: 277
+   Target Character: Hostess, Value: 140
+   Target Character: HOTSPUR, Value: 152
+Character: Y IV
+   Target Character: F DOUGLAS, Value: 47
+   Target Character: LANCASTER, Value: 17
+   Target Character: PRINCE HENRY, Value: 1913
+   Target Character: WESTMORELAND, Value: 860
+   Target Character: F WORCESTER, Value: 340
+   Target Character: FALSTAFF, Value: 34
+   Target Character: R BLUNT, Value: 143
+   Target Character: NORTHUMBERLAND, Value: 60
+   Target Character: HOTSPUR, Value: 217
+Character: SIR MICHAEL
+   Target Character: F YORK, Value: 97
+Character: GADSHILL
+   Target Character: PETO, Value: 7
+   Target Character: Chamberlain, Value: 464
+   Target Character: PRINCE HENRY, Value: 6
+   Target Character: First Carrier, Value: 44
+   Target Character: FALSTAFF, Value: 53
+   Target Character: Second Carrier, Value: 20
+Character: POINS
+   Target Character: PRINCE HENRY, Value: 754
+   Target Character: BARDOLPH, Value: 11
+   Target Character: FALSTAFF, Value: 229
+   Target Character: FRANCIS, Value: 17
+Character: BARDOLPH
+   Target Character: PETO, Value: 46
+   Target Character: PRINCE HENRY, Value: 123
+   Target Character: POINS, Value: 24
+   Target Character: FALSTAFF, Value: 160
+   Target Character: Hostess, Value: 6
+Character: VERNON
+   Target Character: F DOUGLAS, Value: 136
+   Target Character: F WORCESTER, Value: 12
+   Target Character: HOTSPUR, Value: 624
+Character: NORTHUMBERLAND
+   Target Character: Y IV, Value: 47
+   Target Character: F WORCESTER, Value: 119
+   Target Character: HOTSPUR, Value: 151
+Character: MORTIMER
+   Target Character: F WORCESTER, Value: 128
+   Target Character: GLENDOWER, Value: 391
+   Target Character: HOTSPUR, Value: 149
+Character: LANCASTER
+   Target Character: PRINCE HENRY, Value: 71
+   Target Character: Y IV, Value: 9
+   Target Character: FALSTAFF, Value: 9
+Character: Servant
+   Target Character: HOTSPUR, Value: 34
+Character: Messenger
+   Target Character: F WORCESTER, Value: 59
+   Target Character: HOTSPUR, Value: 54
+Character: Carrier
+   Target Character: PRINCE HENRY, Value: 4
+   Target Character: Sheriff, Value: 4
+Character: Thieves
+   Target Character: Travellers, Value: 1
+   Target Character: First Traveller, Value: 1
+Character: FALSTAFF
+   Target Character: PETO, Value: 18
+   Target Character: LANCASTER, Value: 95
+   Target Character: PRINCE HENRY, Value: 6059
+   Target Character: WESTMORELAND, Value: 100
+   Target Character: Y IV, Value: 27
+   Target Character: GADSHILL, Value: 113
+   Target Character: BARDOLPH, Value: 854
+   Target Character: POINS, Value: 614
+   Target Character: Hostess, Value: 787
+   Target Character: Travellers, Value: 44
+   Target Character: First Traveller, Value: 15
+   Target Character: Scene III, Value: 103
+Character: GLENDOWER
+   Target Character: HOTSPUR, Value: 748
+   Target Character: MORTIMER, Value: 338
+Character: Second Carrier
+   Target Character: First Carrier, Value: 168
+   Target Character: GADSHILL, Value: 62
+Character: Hostess
+   Target Character: PRINCE HENRY, Value: 229
+   Target Character: BARDOLPH, Value: 7
+   Target Character: FALSTAFF, Value: 570
+Character: Scene III
+   Target Character: FALSTAFF, Value: 4
+Character: PETO
+   Target Character: PRINCE HENRY, Value: 86
+   Target Character: GADSHILL, Value: 12
+   Target Character: BARDOLPH, Value: 34
+   Target Character: FALSTAFF, Value: 6
+Character: F YORK
+   Target Character: SIR MICHAEL, Value: 342
+Character: F WORCESTER
+   Target Character: F DOUGLAS, Value: 81
+   Target Character: PRINCE HENRY, Value: 334
+   Target Character: Y IV, Value: 461
+   Target Character: Messenger, Value: 43
+   Target Character: VERNON, Value: 203
+   Target Character: R BLUNT, Value: 16
+   Target Character: NORTHUMBERLAND, Value: 149
+   Target Character: HOTSPUR, Value: 1005
+   Target Character: MORTIMER, Value: 117
+Character: LADY PERCY
+   Target Character: HOTSPUR, Value: 592
+Character: R BLUNT
+   Target Character: F DOUGLAS, Value: 28
+   Target Character: Y IV, Value: 108
+   Target Character: F WORCESTER, Value: 15
+   Target Character: HOTSPUR, Value: 344
+Character: First Traveller
+   Target Character: Thieves, Value: 19
+   Target Character: FALSTAFF, Value: 19
+Character: Travellers
+   Target Character: Thieves, Value: 3
+   Target Character: FALSTAFF, Value: 13
+Character: Chamberlain
+   Target Character: GADSHILL, Value: 281
+Character: F DOUGLAS
+   Target Character: PRINCE HENRY, Value: 31
+   Target Character: Y IV, Value: 31
+   Target Character: F WORCESTER, Value: 90
+   Target Character: VERNON, Value: 49
+   Target Character: R BLUNT, Value: 80
+   Target Character: HOTSPUR, Value: 204
+Character: Ostler
+   Target Character: First Carrier, Value: 3
+Character: WESTMORELAND
+   Target Character: PRINCE HENRY, Value: 9
+   Target Character: Y IV, Value: 457
+   Target Character: FALSTAFF, Value: 105
+Character: Sheriff
+   Target Character: PRINCE HENRY, Value: 96
+   Target Character: Carrier, Value: 13
+Character: First Carrier
+   Target Character: Ostler, Value: 27
+   Target Character: GADSHILL, Value: 96
+   Target Character: Second Carrier, Value: 118
+Character: FRANCIS
+   Target Character: PRINCE HENRY, Value: 98
+   Target Character: POINS, Value: 60
+Character: HOTSPUR
+   Target Character: PRINCE HENRY, Value: 76
+   Target Character: Y IV, Value: 184
+   Target Character: F WORCESTER, Value: 1319
+   Target Character: LADY PERCY, Value: 1005
+   Target Character: VERNON, Value: 443
+   Target Character: NORTHUMBERLAND, Value: 1008
+   Target Character: R BLUNT, Value: 1308
+   Target Character: MORTIMER, Value: 379
+   Target Character: F DOUGLAS, Value: 271
+   Target Character: Servant, Value: 42
+   Target Character: Messenger, Value: 227
+   Target Character: GLENDOWER, Value: 845
+   Target Character: HOTSPUR, Value: 10

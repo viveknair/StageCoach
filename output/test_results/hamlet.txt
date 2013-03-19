@@ -1,0 +1,172 @@
+Character: First Priest
+   Target Character: LAERTES, Value: 180
+Character: BERNARDO
+   Target Character: MARCELLUS, Value: 117
+   Target Character: HORATIO, Value: 143
+   Target Character: FRANCISCO, Value: 59
+   Target Character: HAMLET, Value: 26
+Character: GUILDENSTERN
+   Target Character: QUEEN GERTRUDE, Value: 41
+   Target Character: LORD POLONIUS, Value: 4
+   Target Character: KING CLAUDIUS, Value: 49
+   Target Character: HAMLET, Value: 418
+   Target Character: ROSENCRANTZ, Value: 114
+Character: Prologue
+   Target Character: HAMLET, Value: 16
+Character: Player Queen
+   Target Character: HAMLET, Value: 136
+   Target Character: Player King, Value: 329
+Character: First Player
+   Target Character: LORD POLONIUS, Value: 666
+   Target Character: HAMLET, Value: 53
+Character: REYNALDO
+   Target Character: LORD POLONIUS, Value: 129
+Character: KING CLAUDIUS
+   Target Character: GUILDENSTERN, Value: 56
+   Target Character: OPHELIA, Value: 128
+   Target Character: Messenger, Value: 70
+   Target Character: Danes, Value: 42
+   Target Character: LAERTES, Value: 2157
+   Target Character: HAMLET, Value: 678
+   Target Character: ROSENCRANTZ, Value: 224
+   Target Character: QUEEN GERTRUDE, Value: 1025
+   Target Character: OSRIC, Value: 105
+   Target Character: VOLTIMAND, Value: 298
+   Target Character: Gentleman, Value: 13
+   Target Character: LORD POLONIUS, Value: 351
+   Target Character: All, Value: 9
+Character: First Ambassador
+   Target Character: PRINCE FORTINBRAS, Value: 40
+   Target Character: HORATIO, Value: 40
+Character: OSRIC
+   Target Character: HORATIO, Value: 26
+   Target Character: KING CLAUDIUS, Value: 4
+   Target Character: LAERTES, Value: 12
+   Target Character: HAMLET, Value: 608
+Character: LUCIANUS
+   Target Character: HAMLET, Value: 40
+Character: Gentleman
+   Target Character: QUEEN GERTRUDE, Value: 187
+   Target Character: HORATIO, Value: 88
+   Target Character: KING CLAUDIUS, Value: 77
+Character: All
+   Target Character: QUEEN GERTRUDE, Value: 1
+   Target Character: KING CLAUDIUS, Value: 2
+   Target Character: HAMLET, Value: 10
+Character: Ghost
+   Target Character: HAMLET, Value: 612
+Character: First Sailor
+   Target Character: HORATIO, Value: 43
+Character: Captain
+   Target Character: PRINCE FORTINBRAS, Value: 5
+   Target Character: ROSENCRANTZ, Value: 5
+   Target Character: HAMLET, Value: 148
+Character: Second Clown
+   Target Character: First Clown, Value: 186
+Character: MARCELLUS
+   Target Character: BERNARDO, Value: 144
+   Target Character: HORATIO, Value: 513
+   Target Character: FRANCISCO, Value: 15
+   Target Character: HAMLET, Value: 81
+Character: PRINCE FORTINBRAS
+   Target Character: Captain, Value: 50
+   Target Character: First Ambassador, Value: 28
+   Target Character: HORATIO, Value: 114
+   Target Character: HAMLET, Value: 3
+Character: OPHELIA
+   Target Character: QUEEN GERTRUDE, Value: 109
+   Target Character: KING CLAUDIUS, Value: 299
+   Target Character: LORD POLONIUS, Value: 560
+   Target Character: LAERTES, Value: 353
+   Target Character: HAMLET, Value: 389
+Character: HORATIO
+   Target Character: BERNARDO, Value: 374
+   Target Character: First Ambassador, Value: 109
+   Target Character: PRINCE FORTINBRAS, Value: 203
+   Target Character: OSRIC, Value: 60
+   Target Character: MARCELLUS, Value: 878
+   Target Character: FRANCISCO, Value: 4
+   Target Character: Servant, Value: 8
+   Target Character: Gentleman, Value: 15
+   Target Character: First Sailor, Value: 33
+   Target Character: HAMLET, Value: 1437
+Character: FRANCISCO
+   Target Character: BERNARDO, Value: 66
+   Target Character: MARCELLUS, Value: 16
+   Target Character: HORATIO, Value: 9
+Character: Messenger
+   Target Character: KING CLAUDIUS, Value: 49
+Character: Danes
+   Target Character: KING CLAUDIUS, Value: 5
+   Target Character: LAERTES, Value: 12
+Character: LAERTES
+   Target Character: First Priest, Value: 46
+   Target Character: OSRIC, Value: 24
+   Target Character: QUEEN GERTRUDE, Value: 64
+   Target Character: OPHELIA, Value: 815
+   Target Character: Danes, Value: 29
+   Target Character: LORD POLONIUS, Value: 56
+   Target Character: KING CLAUDIUS, Value: 828
+   Target Character: HAMLET, Value: 330
+Character: ROSENCRANTZ
+   Target Character: Captain, Value: 6
+   Target Character: GUILDENSTERN, Value: 175
+   Target Character: QUEEN GERTRUDE, Value: 97
+   Target Character: LORD POLONIUS, Value: 51
+   Target Character: KING CLAUDIUS, Value: 172
+   Target Character: HAMLET, Value: 829
+Character: HAMLET
+   Target Character: Captain, Value: 107
+   Target Character: BERNARDO, Value: 32
+   Target Character: PRINCE FORTINBRAS, Value: 6
+   Target Character: MARCELLUS, Value: 131
+   Target Character: GUILDENSTERN, Value: 953
+   Target Character: Player Queen, Value: 18
+   Target Character: HORATIO, Value: 4598
+   Target Character: OPHELIA, Value: 1317
+   Target Character: Prologue, Value: 10
+   Target Character: First Player, Value: 1027
+   Target Character: KING CLAUDIUS, Value: 738
+   Target Character: LAERTES, Value: 537
+   Target Character: ROSENCRANTZ, Value: 1522
+   Target Character: OSRIC, Value: 778
+   Target Character: LUCIANUS, Value: 33
+   Target Character: QUEEN GERTRUDE, Value: 2438
+   Target Character: LORD POLONIUS, Value: 1651
+   Target Character: First Clown, Value: 525
+   Target Character: All, Value: 141
+   Target Character: Ghost, Value: 376
+   Target Character: Lord, Value: 129
+   Target Character: Player King, Value: 3
+Character: QUEEN GERTRUDE
+   Target Character: GUILDENSTERN, Value: 33
+   Target Character: OPHELIA, Value: 62
+   Target Character: Gentleman, Value: 30
+   Target Character: LORD POLONIUS, Value: 48
+   Target Character: KING CLAUDIUS, Value: 390
+   Target Character: All, Value: 2
+   Target Character: LAERTES, Value: 301
+   Target Character: ROSENCRANTZ, Value: 91
+   Target Character: HAMLET, Value: 797
+Character: VOLTIMAND
+   Target Character: KING CLAUDIUS, Value: 10
+Character: Servant
+   Target Character: HORATIO, Value: 9
+Character: LORD POLONIUS
+   Target Character: GUILDENSTERN, Value: 73
+   Target Character: QUEEN GERTRUDE, Value: 325
+   Target Character: OPHELIA, Value: 610
+   Target Character: First Player, Value: 39
+   Target Character: REYNALDO, Value: 970
+   Target Character: KING CLAUDIUS, Value: 1073
+   Target Character: LAERTES, Value: 458
+   Target Character: ROSENCRANTZ, Value: 17
+   Target Character: HAMLET, Value: 756
+Character: First Clown
+   Target Character: Second Clown, Value: 579
+   Target Character: HAMLET, Value: 724
+Character: Lord
+   Target Character: HAMLET, Value: 118
+Character: Player King
+   Target Character: Player Queen, Value: 585
+   Target Character: HAMLET, Value: 45

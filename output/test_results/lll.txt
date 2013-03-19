@@ -1,0 +1,178 @@
+Character: PRINCESS
+   Target Character: FERDINAND, Value: 1428
+   Target Character: Forester, Value: 298
+   Target Character: E ARMADO, Value: 25
+   Target Character: KATHARINE, Value: 119
+   Target Character: First Lord, Value: 31
+   Target Character: BOYET, Value: 949
+   Target Character: BIRON, Value: 200
+   Target Character: COSTARD, Value: 112
+   Target Character: DUMAIN, Value: 71
+   Target Character: MARIA, Value: 109
+   Target Character: SIR NATHANIEL, Value: 7
+   Target Character: MERCADE, Value: 24
+   Target Character: ROSALINE, Value: 572
+Character: LONGAVILLE
+   Target Character: DUMAIN, Value: 161
+   Target Character: FERDINAND, Value: 69
+   Target Character: MARIA, Value: 21
+   Target Character: E ARMADO, Value: 15
+   Target Character: DULL, Value: 18
+   Target Character: KATHARINE, Value: 110
+   Target Character: ROSALINE, Value: 4
+   Target Character: BOYET, Value: 69
+   Target Character: BIRON, Value: 339
+Character: Forester
+   Target Character: PRINCESS, Value: 70
+Character: FERDINAND
+   Target Character: PRINCESS, Value: 902
+   Target Character: LONGAVILLE, Value: 211
+   Target Character: COSTARD, Value: 675
+   Target Character: DUMAIN, Value: 105
+   Target Character: E ARMADO, Value: 64
+   Target Character: DULL, Value: 107
+   Target Character: ROSALINE, Value: 255
+   Target Character: JAQUENETTA, Value: 31
+   Target Character: BOYET, Value: 160
+   Target Character: BIRON, Value: 1212
+Character: E ARMADO
+   Target Character: PRINCESS, Value: 68
+   Target Character: LONGAVILLE, Value: 12
+   Target Character: DUMAIN, Value: 184
+   Target Character: COSTARD, Value: 199
+   Target Character: FERDINAND, Value: 137
+   Target Character: MOTH, Value: 1415
+   Target Character: DULL, Value: 18
+   Target Character: JAQUENETTA, Value: 55
+   Target Character: HOLOFERNES, Value: 613
+   Target Character: BOYET, Value: 7
+   Target Character: BIRON, Value: 34
+Character: DULL
+   Target Character: LONGAVILLE, Value: 6
+   Target Character: COSTARD, Value: 12
+   Target Character: FERDINAND, Value: 18
+   Target Character: SIR NATHANIEL, Value: 44
+   Target Character: MOTH, Value: 50
+   Target Character: E ARMADO, Value: 54
+   Target Character: HOLOFERNES, Value: 196
+   Target Character: BIRON, Value: 64
+Character: KATHARINE
+   Target Character: PRINCESS, Value: 149
+   Target Character: LONGAVILLE, Value: 110
+   Target Character: DUMAIN, Value: 118
+   Target Character: MARIA, Value: 42
+   Target Character: ROSALINE, Value: 279
+   Target Character: BOYET, Value: 8
+Character: First Lord
+   Target Character: PRINCESS, Value: 11
+Character: HOLOFERNES
+   Target Character: DUMAIN, Value: 77
+   Target Character: COSTARD, Value: 51
+   Target Character: MOTH, Value: 103
+   Target Character: SIR NATHANIEL, Value: 1074
+   Target Character: E ARMADO, Value: 244
+   Target Character: DULL, Value: 303
+   Target Character: JAQUENETTA, Value: 443
+   Target Character: BOYET, Value: 13
+   Target Character: BIRON, Value: 62
+Character: BOYET
+   Target Character: PRINCESS, Value: 2045
+   Target Character: LONGAVILLE, Value: 81
+   Target Character: FERDINAND, Value: 180
+   Target Character: E ARMADO, Value: 8
+   Target Character: KATHARINE, Value: 44
+   Target Character: HOLOFERNES, Value: 12
+   Target Character: BIRON, Value: 133
+   Target Character: DUMAIN, Value: 51
+   Target Character: COSTARD, Value: 58
+   Target Character: MARIA, Value: 166
+   Target Character: MOTH, Value: 50
+   Target Character: SIR NATHANIEL, Value: 20
+   Target Character: MERCADE, Value: 35
+   Target Character: ROSALINE, Value: 313
+Character: BIRON
+   Target Character: PRINCESS, Value: 561
+   Target Character: LONGAVILLE, Value: 319
+   Target Character: FERDINAND, Value: 3786
+   Target Character: E ARMADO, Value: 34
+   Target Character: DULL, Value: 14
+   Target Character: HOLOFERNES, Value: 84
+   Target Character: BOYET, Value: 444
+   Target Character: d I, Value: 16
+   Target Character: DUMAIN, Value: 639
+   Target Character: COSTARD, Value: 309
+   Target Character: MARIA, Value: 30
+   Target Character: MOTH, Value: 30
+   Target Character: SIR NATHANIEL, Value: 10
+   Target Character: MERCADE, Value: 8
+   Target Character: ROSALINE, Value: 611
+   Target Character: JAQUENETTA, Value: 9
+Character: d I
+   Target Character: ROSALINE, Value: 149
+   Target Character: BIRON, Value: 149
+Character: COSTARD
+   Target Character: PRINCESS, Value: 247
+   Target Character: DUMAIN, Value: 124
+   Target Character: FERDINAND, Value: 301
+   Target Character: SIR NATHANIEL, Value: 5
+   Target Character: MARIA, Value: 43
+   Target Character: MOTH, Value: 310
+   Target Character: E ARMADO, Value: 420
+   Target Character: DULL, Value: 8
+   Target Character: HOLOFERNES, Value: 91
+   Target Character: BOYET, Value: 50
+   Target Character: BIRON, Value: 686
+Character: DUMAIN
+   Target Character: PRINCESS, Value: 23
+   Target Character: LONGAVILLE, Value: 270
+   Target Character: COSTARD, Value: 20
+   Target Character: FERDINAND, Value: 83
+   Target Character: MOTH, Value: 3
+   Target Character: MARIA, Value: 13
+   Target Character: E ARMADO, Value: 57
+   Target Character: KATHARINE, Value: 57
+   Target Character: HOLOFERNES, Value: 22
+   Target Character: BOYET, Value: 45
+   Target Character: BIRON, Value: 476
+Character: MARIA
+   Target Character: PRINCESS, Value: 259
+   Target Character: LONGAVILLE, Value: 34
+   Target Character: DUMAIN, Value: 15
+   Target Character: COSTARD, Value: 40
+   Target Character: KATHARINE, Value: 43
+   Target Character: ROSALINE, Value: 63
+   Target Character: BOYET, Value: 126
+   Target Character: BIRON, Value: 8
+Character: SIR NATHANIEL
+   Target Character: PRINCESS, Value: 11
+   Target Character: COSTARD, Value: 18
+   Target Character: DULL, Value: 135
+   Target Character: HOLOFERNES, Value: 741
+   Target Character: BOYET, Value: 41
+   Target Character: BIRON, Value: 30
+Character: MOTH
+   Target Character: DUMAIN, Value: 27
+   Target Character: COSTARD, Value: 105
+   Target Character: DULL, Value: 6
+   Target Character: E ARMADO, Value: 1867
+   Target Character: HOLOFERNES, Value: 172
+   Target Character: BOYET, Value: 55
+   Target Character: BIRON, Value: 42
+Character: MERCADE
+   Target Character: PRINCESS, Value: 46
+   Target Character: BOYET, Value: 4
+   Target Character: BIRON, Value: 6
+Character: ROSALINE
+   Target Character: PRINCESS, Value: 779
+   Target Character: LONGAVILLE, Value: 6
+   Target Character: FERDINAND, Value: 267
+   Target Character: MARIA, Value: 48
+   Target Character: KATHARINE, Value: 275
+   Target Character: BOYET, Value: 357
+   Target Character: d I, Value: 5
+   Target Character: BIRON, Value: 909
+Character: JAQUENETTA
+   Target Character: FERDINAND, Value: 25
+   Target Character: E ARMADO, Value: 46
+   Target Character: HOLOFERNES, Value: 104
+   Target Character: BIRON, Value: 4

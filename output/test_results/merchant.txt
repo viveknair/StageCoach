@@ -1,0 +1,142 @@
+Character: NERISSA
+   Target Character: GRATIANO, Value: 279
+   Target Character: DUKE, Value: 26
+   Target Character: PORTIA, Value: 794
+   Target Character: LORENZO, Value: 35
+   Target Character: BASSANIO, Value: 71
+Character: GOBBO
+   Target Character: LAUNCELOT, Value: 514
+   Target Character: BASSANIO, Value: 20
+Character: ALL
+   Target Character: PORTIA, Value: 3
+   Target Character: BASSANIO, Value: 3
+Character: LEONARDO
+   Target Character: GRATIANO, Value: 11
+Character: SALANIO
+   Target Character: SALARINO, Value: 664
+   Target Character: SALANIO, Value: 12
+   Target Character: SHYLOCK, Value: 108
+   Target Character: LORENZO, Value: 12
+Character: LAUNCELOT
+   Target Character: GRATIANO, Value: 4
+   Target Character: GOBBO, Value: 1086
+   Target Character: JESSICA, Value: 274
+   Target Character: SHYLOCK, Value: 153
+   Target Character: LORENZO, Value: 234
+   Target Character: BASSANIO, Value: 210
+Character: JESSICA
+   Target Character: GRATIANO, Value: 18
+   Target Character: SALERIO, Value: 56
+   Target Character: PORTIA, Value: 56
+   Target Character: LAUNCELOT, Value: 157
+   Target Character: SHYLOCK, Value: 13
+   Target Character: LORENZO, Value: 734
+Character: BALTHASAR
+   Target Character: PORTIA, Value: 7
+Character: ARRAGON
+   Target Character: PORTIA, Value: 619
+Character: BASSANIO
+   Target Character: NERISSA, Value: 168
+   Target Character: GRATIANO, Value: 323
+   Target Character: SALERIO, Value: 196
+   Target Character: DUKE, Value: 62
+   Target Character: ALL, Value: 268
+   Target Character: GOBBO, Value: 52
+   Target Character: SALARINO, Value: 17
+   Target Character: PORTIA, Value: 2074
+   Target Character: LAUNCELOT, Value: 155
+   Target Character: ANTONIO, Value: 822
+   Target Character: SHYLOCK, Value: 209
+   Target Character: LORENZO, Value: 5
+Character: Clerk
+   Target Character: DUKE, Value: 139
+Character: GRATIANO
+   Target Character: NERISSA, Value: 240
+   Target Character: SALERIO, Value: 80
+   Target Character: DUKE, Value: 62
+   Target Character: SALARINO, Value: 146
+   Target Character: PORTIA, Value: 529
+   Target Character: LEONARDO, Value: 6
+   Target Character: LAUNCELOT, Value: 3
+   Target Character: JESSICA, Value: 9
+   Target Character: ANTONIO, Value: 295
+   Target Character: SHYLOCK, Value: 265
+   Target Character: LORENZO, Value: 224
+   Target Character: BASSANIO, Value: 490
+Character: MOROCCO
+   Target Character: PORTIA, Value: 886
+Character: Servant
+   Target Character: PORTIA, Value: 187
+   Target Character: SHYLOCK, Value: 15
+Character: SALERIO
+   Target Character: GRATIANO, Value: 33
+   Target Character: DUKE, Value: 42
+   Target Character: PORTIA, Value: 11
+   Target Character: JESSICA, Value: 99
+   Target Character: BASSANIO, Value: 137
+Character: SALARINO
+   Target Character: GRATIANO, Value: 65
+   Target Character: SALANIO, Value: 929
+   Target Character: ANTONIO, Value: 262
+   Target Character: SHYLOCK, Value: 128
+   Target Character: LORENZO, Value: 8
+   Target Character: BASSANIO, Value: 5
+Character: DUKE
+   Target Character: GRATIANO, Value: 49
+   Target Character: NERISSA, Value: 42
+   Target Character: SALERIO, Value: 175
+   Target Character: PORTIA, Value: 145
+   Target Character: ANTONIO, Value: 89
+   Target Character: SHYLOCK, Value: 207
+   Target Character: Clerk, Value: 25
+   Target Character: BASSANIO, Value: 30
+Character: STEPHANO
+   Target Character: LORENZO, Value: 92
+Character: PORTIA
+   Target Character: NERISSA, Value: 2072
+   Target Character: ALL, Value: 235
+   Target Character: JESSICA, Value: 10
+   Target Character: BALTHASAR, Value: 23
+   Target Character: ARRAGON, Value: 108
+   Target Character: BASSANIO, Value: 1981
+   Target Character: MOROCCO, Value: 284
+   Target Character: GRATIANO, Value: 788
+   Target Character: Servant, Value: 73
+   Target Character: SALERIO, Value: 61
+   Target Character: DUKE, Value: 82
+   Target Character: ANTONIO, Value: 377
+   Target Character: SHYLOCK, Value: 1062
+   Target Character: LORENZO, Value: 657
+Character: TUBAL
+   Target Character: SHYLOCK, Value: 189
+Character: ANTONIO
+   Target Character: GRATIANO, Value: 193
+   Target Character: DUKE, Value: 248
+   Target Character: SALARINO, Value: 266
+   Target Character: PORTIA, Value: 384
+   Target Character: SHYLOCK, Value: 629
+   Target Character: LORENZO, Value: 2
+   Target Character: BASSANIO, Value: 687
+Character: SHYLOCK
+   Target Character: GRATIANO, Value: 87
+   Target Character: Servant, Value: 194
+   Target Character: DUKE, Value: 575
+   Target Character: SALARINO, Value: 206
+   Target Character: PORTIA, Value: 543
+   Target Character: SALANIO, Value: 59
+   Target Character: LAUNCELOT, Value: 228
+   Target Character: TUBAL, Value: 470
+   Target Character: JESSICA, Value: 73
+   Target Character: ANTONIO, Value: 1426
+   Target Character: BASSANIO, Value: 1007
+Character: LORENZO
+   Target Character: NERISSA, Value: 11
+   Target Character: GRATIANO, Value: 90
+   Target Character: SALARINO, Value: 26
+   Target Character: STEPHANO, Value: 37
+   Target Character: PORTIA, Value: 372
+   Target Character: SALANIO, Value: 41
+   Target Character: LAUNCELOT, Value: 335
+   Target Character: JESSICA, Value: 640
+   Target Character: ANTONIO, Value: 68
+   Target Character: BASSANIO, Value: 26

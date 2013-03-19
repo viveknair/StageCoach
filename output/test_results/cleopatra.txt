@@ -1,0 +1,299 @@
+Character: All
+   Target Character: OCTAVIUS CAESAR, Value: 1
+   Target Character: CLEOPATRA, Value: 3
+   Target Character: First Guard, Value: 6
+   Target Character: MARK ANTONY, Value: 15
+   Target Character: First Soldier, Value: 10
+   Target Character: Captain, Value: 3
+   Target Character: Second Soldier, Value: 10
+Character: Second Attendant
+   Target Character: First Attendant, Value: 5
+Character: AGRIPPA
+   Target Character: OCTAVIUS CAESAR, Value: 90
+   Target Character: MARK ANTONY, Value: 236
+   Target Character: DOMITIUS ENOBARBUS, Value: 218
+   Target Character: MECAENAS, Value: 89
+   Target Character: SCARUS, Value: 18
+   Target Character: LEPIDUS, Value: 25
+Character: Third Guard
+   Target Character: CLEOPATRA, Value: 21
+Character: SILIUS
+   Target Character: VENTIDIUS, Value: 130
+Character: Second Messenger
+   Target Character: MARK ANTONY, Value: 10
+Character: Third Soldier
+   Target Character: Fourth Soldier, Value: 18
+   Target Character: DOMITIUS ENOBARBUS, Value: 4
+   Target Character: First Soldier, Value: 33
+   Target Character: Second Soldier, Value: 16
+Character: MENAS
+   Target Character: POMPEY, Value: 387
+   Target Character: MARK ANTONY, Value: 8
+   Target Character: DOMITIUS ENOBARBUS, Value: 343
+   Target Character: LEPIDUS, Value: 6
+Character: First Servant
+   Target Character: Second Servant, Value: 55
+   Target Character: MARK ANTONY, Value: 27
+Character: EROS
+   Target Character: CLEOPATRA, Value: 29
+   Target Character: MARK ANTONY, Value: 209
+   Target Character: DOMITIUS ENOBARBUS, Value: 230
+   Target Character: First Soldier, Value: 10
+   Target Character: SCARUS, Value: 24
+   Target Character: IRAS, Value: 15
+Character: Attendant
+   Target Character: MARK ANTONY, Value: 12
+   Target Character: DOMITIUS ENOBARBUS, Value: 4
+Character: CHARMIAN
+   Target Character: DOLABELLA, Value: 20
+   Target Character: CLEOPATRA, Value: 330
+   Target Character: First Guard, Value: 64
+   Target Character: MARK ANTONY, Value: 7
+   Target Character: DOMITIUS ENOBARBUS, Value: 6
+   Target Character: ALEXAS, Value: 115
+   Target Character: Messenger, Value: 17
+   Target Character: IRAS, Value: 250
+   Target Character: Soothsayer, Value: 179
+Character: OCTAVIUS CAESAR
+   Target Character: SELEUCUS, Value: 11
+   Target Character: All, Value: 9
+   Target Character: POMPEY, Value: 190
+   Target Character: CLEOPATRA, Value: 412
+   Target Character: MARK ANTONY, Value: 830
+   Target Character: AGRIPPA, Value: 346
+   Target Character: OCTAVIA, Value: 587
+   Target Character: DERCETAS, Value: 129
+   Target Character: Messenger, Value: 273
+   Target Character: MECAENAS, Value: 280
+   Target Character: DOLABELLA, Value: 117
+   Target Character: First Guard, Value: 34
+   Target Character: DOMITIUS ENOBARBUS, Value: 132
+   Target Character: Egyptian, Value: 224
+   Target Character: TAURUS, Value: 1
+   Target Character: THYREUS, Value: 76
+   Target Character: LEPIDUS, Value: 499
+   Target Character: EUPHRONIUS, Value: 99
+Character: MARK ANTONY
+   Target Character: All, Value: 140
+   Target Character: AGRIPPA, Value: 17
+   Target Character: OCTAVIA, Value: 325
+   Target Character: First Soldier, Value: 88
+   Target Character: Messenger, Value: 194
+   Target Character: CANIDIUS, Value: 6
+   Target Character: Second Messenger, Value: 21
+   Target Character: DIOMEDES, Value: 69
+   Target Character: MENAS, Value: 9
+   Target Character: First Servant, Value: 61
+   Target Character: Soothsayer, Value: 48
+   Target Character: Attendant, Value: 14
+   Target Character: EROS, Value: 1052
+   Target Character: CHARMIAN, Value: 81
+   Target Character: POMPEY, Value: 189
+   Target Character: OCTAVIUS CAESAR, Value: 1068
+   Target Character: CLEOPATRA, Value: 2620
+   Target Character: MARDIAN, Value: 124
+   Target Character: First Attendant, Value: 89
+   Target Character: Second Guard, Value: 16
+   Target Character: First Guard, Value: 116
+   Target Character: DOMITIUS ENOBARBUS, Value: 915
+   Target Character: THYREUS, Value: 63
+   Target Character: SCARUS, Value: 39
+   Target Character: LEPIDUS, Value: 360
+   Target Character: EUPHRONIUS, Value: 50
+   Target Character: DEMETRIUS, Value: 58
+Character: MARDIAN
+   Target Character: CLEOPATRA, Value: 55
+   Target Character: MARK ANTONY, Value: 151
+Character: IRAS
+   Target Character: CHARMIAN, Value: 172
+   Target Character: GALLUS, Value: 2
+   Target Character: CLEOPATRA, Value: 70
+   Target Character: DOMITIUS ENOBARBUS, Value: 8
+   Target Character: Soothsayer, Value: 24
+   Target Character: EROS, Value: 21
+Character: DOLABELLA
+   Target Character: CHARMIAN, Value: 8
+   Target Character: OCTAVIUS CAESAR, Value: 83
+   Target Character: DOLABELLA, Value: 37
+   Target Character: CLEOPATRA, Value: 285
+   Target Character: First Guard, Value: 24
+   Target Character: Second Guard, Value: 4
+   Target Character: PROCULEIUS, Value: 24
+Character: Attendants
+   Target Character: CLEOPATRA, Value: 3
+Character: SCARUS
+   Target Character: MARK ANTONY, Value: 80
+   Target Character: DOMITIUS ENOBARBUS, Value: 207
+   Target Character: AGRIPPA, Value: 24
+   Target Character: CANIDIUS, Value: 22
+   Target Character: EROS, Value: 33
+Character: LEPIDUS
+   Target Character: POMPEY, Value: 56
+   Target Character: OCTAVIUS CAESAR, Value: 219
+   Target Character: MARK ANTONY, Value: 112
+   Target Character: DOMITIUS ENOBARBUS, Value: 84
+   Target Character: MENAS, Value: 18
+   Target Character: AGRIPPA, Value: 42
+   Target Character: MECAENAS, Value: 45
+   Target Character: Messenger, Value: 3
+Character: DEMETRIUS
+   Target Character: PHILO, Value: 7
+   Target Character: MARK ANTONY, Value: 7
+Character: PROCULEIUS
+   Target Character: DOLABELLA, Value: 15
+   Target Character: CLEOPATRA, Value: 276
+Character: SELEUCUS
+   Target Character: OCTAVIUS CAESAR, Value: 8
+   Target Character: CLEOPATRA, Value: 44
+Character: VARRIUS
+   Target Character: POMPEY, Value: 54
+Character: Second Servant
+   Target Character: First Servant, Value: 83
+Character: OCTAVIA
+   Target Character: OCTAVIUS CAESAR, Value: 185
+   Target Character: MARK ANTONY, Value: 232
+   Target Character: MECAENAS, Value: 4
+Character: First Soldier
+   Target Character: All, Value: 4
+   Target Character: Third Soldier, Value: 57
+   Target Character: Fourth Soldier, Value: 2
+   Target Character: MARK ANTONY, Value: 165
+   Target Character: DOMITIUS ENOBARBUS, Value: 59
+   Target Character: Captain, Value: 17
+   Target Character: CANIDIUS, Value: 73
+   Target Character: Second Soldier, Value: 66
+   Target Character: EROS, Value: 5
+Character: DERCETAS
+   Target Character: OCTAVIUS CAESAR, Value: 260
+   Target Character: DIOMEDES, Value: 25
+Character: Messenger
+   Target Character: CHARMIAN, Value: 18
+   Target Character: OCTAVIUS CAESAR, Value: 187
+   Target Character: CLEOPATRA, Value: 375
+   Target Character: MARK ANTONY, Value: 165
+   Target Character: CANIDIUS, Value: 4
+   Target Character: LEPIDUS, Value: 49
+Character: CANIDIUS
+   Target Character: CLEOPATRA, Value: 6
+   Target Character: MARK ANTONY, Value: 6
+   Target Character: DOMITIUS ENOBARBUS, Value: 139
+   Target Character: First Soldier, Value: 100
+   Target Character: Messenger, Value: 5
+   Target Character: SCARUS, Value: 24
+Character: MENECRATES
+   Target Character: POMPEY, Value: 76
+Character: PHILO
+   Target Character: CLEOPATRA, Value: 104
+   Target Character: DEMETRIUS, Value: 21
+Character: GALLUS
+   Target Character: IRAS, Value: 13
+Character: TAURUS
+   Target Character: OCTAVIUS CAESAR, Value: 2
+Character: DIOMEDES
+   Target Character: CLEOPATRA, Value: 21
+   Target Character: MARK ANTONY, Value: 182
+   Target Character: DERCETAS, Value: 4
+Character: Soothsayer
+   Target Character: CHARMIAN, Value: 133
+   Target Character: MARK ANTONY, Value: 204
+   Target Character: ALEXAS, Value: 2
+   Target Character: IRAS, Value: 10
+Character: POMPEY
+   Target Character: VARRIUS, Value: 125
+   Target Character: OCTAVIUS CAESAR, Value: 355
+   Target Character: MARK ANTONY, Value: 280
+   Target Character: DOMITIUS ENOBARBUS, Value: 99
+   Target Character: MENAS, Value: 386
+   Target Character: LEPIDUS, Value: 198
+   Target Character: MENECRATES, Value: 105
+Character: CLEOPATRA
+   Target Character: CHARMIAN, Value: 1001
+   Target Character: SELEUCUS, Value: 78
+   Target Character: OCTAVIUS CAESAR, Value: 379
+   Target Character: All, Value: 70
+   Target Character: MARK ANTONY, Value: 1801
+   Target Character: Third Guard, Value: 115
+   Target Character: ALEXAS, Value: 432
+   Target Character: MARDIAN, Value: 156
+   Target Character: Messenger, Value: 1009
+   Target Character: CANIDIUS, Value: 4
+   Target Character: IRAS, Value: 209
+   Target Character: PHILO, Value: 9
+   Target Character: DOLABELLA, Value: 489
+   Target Character: Clown, Value: 72
+   Target Character: DOMITIUS ENOBARBUS, Value: 180
+   Target Character: DIOMEDES, Value: 33
+   Target Character: Attendants, Value: 8
+   Target Character: THYREUS, Value: 132
+   Target Character: EROS, Value: 13
+   Target Character: PROCULEIUS, Value: 450
+Character: Fourth Soldier
+   Target Character: Third Soldier, Value: 33
+   Target Character: First Soldier, Value: 3
+Character: ALEXAS
+   Target Character: CHARMIAN, Value: 67
+   Target Character: CLEOPATRA, Value: 293
+   Target Character: DOMITIUS ENOBARBUS, Value: 30
+   Target Character: Soothsayer, Value: 1
+Character: First Attendant
+   Target Character: Second Attendant, Value: 8
+   Target Character: MARK ANTONY, Value: 18
+Character: Captain
+   Target Character: All, Value: 7
+   Target Character: First Soldier, Value: 7
+Character: MECAENAS
+   Target Character: OCTAVIUS CAESAR, Value: 53
+   Target Character: DOMITIUS ENOBARBUS, Value: 104
+   Target Character: AGRIPPA, Value: 107
+   Target Character: OCTAVIA, Value: 37
+   Target Character: LEPIDUS, Value: 88
+Character: Second Soldier
+   Target Character: Third Soldier, Value: 12
+   Target Character: All, Value: 3
+   Target Character: DOMITIUS ENOBARBUS, Value: 17
+   Target Character: First Soldier, Value: 68
+Character: Second Guard
+   Target Character: DOLABELLA, Value: 2
+   Target Character: First Guard, Value: 20
+   Target Character: MARK ANTONY, Value: 4
+Character: VENTIDIUS
+   Target Character: SILIUS, Value: 352
+Character: First Guard
+   Target Character: CHARMIAN, Value: 18
+   Target Character: OCTAVIUS CAESAR, Value: 71
+   Target Character: All, Value: 22
+   Target Character: DOLABELLA, Value: 33
+   Target Character: MARK ANTONY, Value: 24
+   Target Character: Second Guard, Value: 24
+Character: Clown
+   Target Character: CLEOPATRA, Value: 476
+Character: DOMITIUS ENOBARBUS
+   Target Character: CHARMIAN, Value: 11
+   Target Character: OCTAVIUS CAESAR, Value: 107
+   Target Character: POMPEY, Value: 125
+   Target Character: CLEOPATRA, Value: 321
+   Target Character: MARK ANTONY, Value: 899
+   Target Character: AGRIPPA, Value: 880
+   Target Character: ALEXAS, Value: 26
+   Target Character: First Soldier, Value: 92
+   Target Character: MECAENAS, Value: 224
+   Target Character: CANIDIUS, Value: 76
+   Target Character: Second Soldier, Value: 113
+   Target Character: IRAS, Value: 11
+   Target Character: Third Soldier, Value: 5
+   Target Character: MENAS, Value: 513
+   Target Character: THYREUS, Value: 106
+   Target Character: SCARUS, Value: 77
+   Target Character: LEPIDUS, Value: 167
+   Target Character: Attendant, Value: 64
+   Target Character: EROS, Value: 95
+Character: Egyptian
+   Target Character: OCTAVIUS CAESAR, Value: 69
+Character: THYREUS
+   Target Character: OCTAVIUS CAESAR, Value: 6
+   Target Character: CLEOPATRA, Value: 196
+   Target Character: MARK ANTONY, Value: 18
+   Target Character: DOMITIUS ENOBARBUS, Value: 103
+Character: EUPHRONIUS
+   Target Character: OCTAVIUS CAESAR, Value: 197
+   Target Character: MARK ANTONY, Value: 12

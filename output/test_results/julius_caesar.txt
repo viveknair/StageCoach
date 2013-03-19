@@ -1,0 +1,277 @@
+Character: First Soldier
+   Target Character: LUCILIUS, Value: 10
+   Target Character: DECIUS BRUTUS, Value: 1
+   Target Character: ANTONY, Value: 16
+   Target Character: Second Soldier, Value: 7
+Character: PINDARUS
+   Target Character: DECIUS BRUTUS, Value: 40
+   Target Character: MESSALA, Value: 33
+   Target Character: TITINIUS, Value: 23
+   Target Character: CASSIUS, Value: 31
+Character: OCTAVIUS
+   Target Character: STRATO, Value: 20
+   Target Character: LEPIDUS, Value: 16
+   Target Character: LUCILIUS, Value: 16
+   Target Character: DECIUS BRUTUS, Value: 117
+   Target Character: MESSALA, Value: 8
+   Target Character: CASSIUS, Value: 89
+   Target Character: ANTONY, Value: 109
+Character: Poet
+   Target Character: LUCILIUS, Value: 21
+   Target Character: DECIUS BRUTUS, Value: 21
+   Target Character: CASSIUS, Value: 63
+Character: Soothsayer
+   Target Character: CAESAR, Value: 22
+   Target Character: PORTIA, Value: 108
+   Target Character: ARTEMIDORUS, Value: 5
+Character: ARTEMIDORUS
+   Target Character: DECIUS BRUTUS, Value: 22
+   Target Character: CAESAR, Value: 29
+   Target Character: Soothsayer, Value: 5
+Character: GHOST
+   Target Character: DECIUS BRUTUS, Value: 29
+Character: TREBONIUS
+   Target Character: DECIUS BRUTUS, Value: 37
+   Target Character: CAESAR, Value: 19
+   Target Character: CASSIUS, Value: 26
+Character: MESSALA
+   Target Character: STRATO, Value: 28
+   Target Character: DECIUS BRUTUS, Value: 158
+   Target Character: PINDARUS, Value: 19
+   Target Character: OCTAVIUS, Value: 13
+   Target Character: TITINIUS, Value: 191
+   Target Character: CASSIUS, Value: 44
+   Target Character: ANTONY, Value: 15
+Character: CASCA
+   Target Character: DECIUS BRUTUS, Value: 682
+   Target Character: CINNA, Value: 64
+   Target Character: CAESAR, Value: 35
+   Target Character: CICERO, Value: 476
+   Target Character: CASSIUS, Value: 765
+Character: First Citizen
+   Target Character: E POET, Value: 30
+   Target Character: DECIUS BRUTUS, Value: 23
+   Target Character: Third Citizen, Value: 19
+   Target Character: All, Value: 14
+   Target Character: Second Citizen, Value: 81
+   Target Character: Fourth Citizen, Value: 40
+   Target Character: ANTONY, Value: 42
+Character: CATO
+   Target Character: DECIUS BRUTUS, Value: 54
+Character: CALPURNIA
+   Target Character: Servant, Value: 18
+   Target Character: CAESAR, Value: 317
+Character: Third Citizen
+   Target Character: E POET, Value: 14
+   Target Character: First Citizen, Value: 33
+   Target Character: DECIUS BRUTUS, Value: 6
+   Target Character: Second Citizen, Value: 57
+   Target Character: Fourth Citizen, Value: 67
+   Target Character: ANTONY, Value: 9
+Character: FLAVIUS
+   Target Character: l I, Value: 62
+   Target Character: First Commoner, Value: 37
+   Target Character: Second Commoner, Value: 46
+Character: STRATO
+   Target Character: LUCILIUS, Value: 31
+   Target Character: DECIUS BRUTUS, Value: 10
+   Target Character: MESSALA, Value: 51
+   Target Character: OCTAVIUS, Value: 16
+Character: LUCILIUS
+   Target Character: STRATO, Value: 16
+   Target Character: DECIUS BRUTUS, Value: 135
+   Target Character: First Soldier, Value: 46
+   Target Character: OCTAVIUS, Value: 16
+   Target Character: CASSIUS, Value: 4
+   Target Character: Poet, Value: 7
+   Target Character: ANTONY, Value: 46
+Character: DECIUS BRUTUS
+   Target Character: METELLUS CIMBER, Value: 91
+   Target Character: First Soldier, Value: 6
+   Target Character: PINDARUS, Value: 51
+   Target Character: OCTAVIUS, Value: 90
+   Target Character: CASSIUS, Value: 4894
+   Target Character: Poet, Value: 21
+   Target Character: ANTONY, Value: 315
+   Target Character: ARTEMIDORUS, Value: 28
+   Target Character: GHOST, Value: 175
+   Target Character: Servant, Value: 50
+   Target Character: TREBONIUS, Value: 28
+   Target Character: MESSALA, Value: 161
+   Target Character: VARRO, Value: 65
+   Target Character: TITINIUS, Value: 7
+   Target Character: VOLUMNIUS, Value: 73
+   Target Character: CASCA, Value: 187
+   Target Character: First Citizen, Value: 100
+   Target Character: CATO, Value: 32
+   Target Character: Third Citizen, Value: 234
+   Target Character: All, Value: 346
+   Target Character: DARDANIUS, Value: 3
+   Target Character: CLAUDIUS, Value: 45
+   Target Character: CLITUS, Value: 136
+   Target Character: POPILIUS, Value: 4
+   Target Character: LIGARIUS, Value: 152
+   Target Character: STRATO, Value: 48
+   Target Character: DECIUS BRUTUS, Value: 27
+   Target Character: LUCILIUS, Value: 222
+   Target Character: CINNA, Value: 18
+   Target Character: CAESAR, Value: 329
+   Target Character: PORTIA, Value: 209
+   Target Character: LUCIUS, Value: 524
+   Target Character: Second Citizen, Value: 2
+   Target Character: Several Citizens, Value: 46
+Character: CAESAR
+   Target Character: CASCA, Value: 179
+   Target Character: CALPURNIA, Value: 254
+   Target Character: Servant, Value: 148
+   Target Character: DECIUS BRUTUS, Value: 366
+   Target Character: METELLUS CIMBER, Value: 200
+   Target Character: CINNA, Value: 27
+   Target Character: TREBONIUS, Value: 18
+   Target Character: PUBLIUS, Value: 73
+   Target Character: CASSIUS, Value: 30
+   Target Character: Soothsayer, Value: 59
+   Target Character: ANTONY, Value: 194
+   Target Character: ARTEMIDORUS, Value: 21
+Character: Messenger
+   Target Character: ANTONY, Value: 48
+Character: PUBLIUS
+   Target Character: CAESAR, Value: 9
+Character: LUCIUS
+   Target Character: DECIUS BRUTUS, Value: 237
+   Target Character: PORTIA, Value: 63
+   Target Character: VARRO, Value: 3
+Character: Second Citizen
+   Target Character: E POET, Value: 49
+   Target Character: First Citizen, Value: 67
+   Target Character: DECIUS BRUTUS, Value: 4
+   Target Character: Third Citizen, Value: 68
+   Target Character: All, Value: 13
+   Target Character: Fourth Citizen, Value: 9
+   Target Character: Several Citizens, Value: 1
+   Target Character: ANTONY, Value: 40
+Character: CICERO
+   Target Character: CASCA, Value: 98
+Character: METELLUS CIMBER
+   Target Character: DECIUS BRUTUS, Value: 104
+   Target Character: CAESAR, Value: 41
+   Target Character: CINNA, Value: 80
+Character: CASSIUS
+   Target Character: CASCA, Value: 1193
+   Target Character: PINDARUS, Value: 69
+   Target Character: OCTAVIUS, Value: 44
+   Target Character: POPILIUS, Value: 15
+   Target Character: CASSIUS, Value: 151
+   Target Character: Poet, Value: 18
+   Target Character: ANTONY, Value: 149
+   Target Character: DECIUS BRUTUS, Value: 3631
+   Target Character: LUCILIUS, Value: 1
+   Target Character: CAESAR, Value: 52
+   Target Character: CINNA, Value: 320
+   Target Character: Third Soldier, Value: 8
+   Target Character: TREBONIUS, Value: 67
+   Target Character: MESSALA, Value: 317
+   Target Character: TITINIUS, Value: 56
+Character: ANTONY
+   Target Character: First Citizen, Value: 544
+   Target Character: First Soldier, Value: 3
+   Target Character: Third Citizen, Value: 12
+   Target Character: All, Value: 398
+   Target Character: OCTAVIUS, Value: 421
+   Target Character: CASSIUS, Value: 379
+   Target Character: LEPIDUS, Value: 68
+   Target Character: LUCILIUS, Value: 3
+   Target Character: DECIUS BRUTUS, Value: 682
+   Target Character: Servant, Value: 326
+   Target Character: CAESAR, Value: 44
+   Target Character: Messenger, Value: 58
+   Target Character: MESSALA, Value: 65
+   Target Character: Second Citizen, Value: 252
+   Target Character: Fourth Citizen, Value: 450
+   Target Character: Several Citizens, Value: 546
+Character: LEPIDUS
+   Target Character: OCTAVIUS, Value: 19
+   Target Character: ANTONY, Value: 19
+Character: Servant
+   Target Character: CALPURNIA, Value: 4
+   Target Character: DECIUS BRUTUS, Value: 234
+   Target Character: CAESAR, Value: 54
+   Target Character: ANTONY, Value: 80
+Character: VARRO
+   Target Character: DECIUS BRUTUS, Value: 21
+   Target Character: LUCIUS, Value: 3
+   Target Character: CLAUDIUS, Value: 8
+Character: First Commoner
+   Target Character: MARULLUS, Value: 4
+   Target Character: FLAVIUS, Value: 4
+Character: TITINIUS
+   Target Character: DECIUS BRUTUS, Value: 102
+   Target Character: MESSALA, Value: 176
+   Target Character: PINDARUS, Value: 30
+   Target Character: CASSIUS, Value: 8
+Character: Second Commoner
+   Target Character: MARULLUS, Value: 150
+   Target Character: FLAVIUS, Value: 142
+Character: VOLUMNIUS
+   Target Character: DECIUS BRUTUS, Value: 12
+   Target Character: CLITUS, Value: 9
+Character: All
+   Target Character: First Citizen, Value: 6
+   Target Character: DECIUS BRUTUS, Value: 7
+   Target Character: Second Citizen, Value: 16
+   Target Character: Fourth Citizen, Value: 13
+   Target Character: ANTONY, Value: 61
+Character: DARDANIUS
+   Target Character: DECIUS BRUTUS, Value: 6
+   Target Character: CLITUS, Value: 24
+Character: CLAUDIUS
+   Target Character: DECIUS BRUTUS, Value: 14
+   Target Character: VARRO, Value: 6
+Character: CLITUS
+   Target Character: VOLUMNIUS, Value: 9
+   Target Character: DECIUS BRUTUS, Value: 61
+   Target Character: DARDANIUS, Value: 36
+Character: POPILIUS
+   Target Character: DECIUS BRUTUS, Value: 3
+   Target Character: CASSIUS, Value: 14
+Character: Second Soldier
+   Target Character: Third Soldier, Value: 1
+   Target Character: First Soldier, Value: 8
+Character: E POET
+   Target Character: First Citizen, Value: 54
+   Target Character: Third Citizen, Value: 49
+   Target Character: Second Citizen, Value: 48
+   Target Character: Fourth Citizen, Value: 28
+Character: LIGARIUS
+   Target Character: DECIUS BRUTUS, Value: 196
+Character: CINNA
+   Target Character: CASCA, Value: 38
+   Target Character: DECIUS BRUTUS, Value: 23
+   Target Character: CAESAR, Value: 24
+   Target Character: METELLUS CIMBER, Value: 18
+   Target Character: CASSIUS, Value: 131
+Character: Third Soldier
+   Target Character: CASSIUS, Value: 1
+   Target Character: Second Soldier, Value: 1
+Character: PORTIA
+   Target Character: DECIUS BRUTUS, Value: 885
+   Target Character: LUCIUS, Value: 227
+   Target Character: Soothsayer, Value: 54
+Character: l I
+   Target Character: MARULLUS, Value: 11
+   Target Character: FLAVIUS, Value: 11
+Character: MARULLUS
+   Target Character: l I, Value: 12
+   Target Character: First Commoner, Value: 22
+   Target Character: Second Commoner, Value: 253
+Character: Fourth Citizen
+   Target Character: E POET, Value: 46
+   Target Character: First Citizen, Value: 44
+   Target Character: Third Citizen, Value: 66
+   Target Character: All, Value: 13
+   Target Character: Second Citizen, Value: 11
+   Target Character: ANTONY, Value: 57
+Character: Several Citizens
+   Target Character: DECIUS BRUTUS, Value: 8
+   Target Character: Second Citizen, Value: 2
+   Target Character: ANTONY, Value: 24

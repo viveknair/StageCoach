@@ -1,0 +1,266 @@
+Character: LANCASTER
+   Target Character: FALSTAFF, Value: 165
+   Target Character: WARWICK, Value: 35
+   Target Character: WESTMORELAND, Value: 127
+   Target Character: PISTOL, Value: 42
+   Target Character: LANCASTER, Value: 54
+   Target Character: COLEVILE, Value: 10
+   Target Character: GLOUCESTER, Value: 41
+   Target Character: CLARENCE, Value: 36
+   Target Character: HASTINGS, Value: 19
+   Target Character: Y IV, Value: 16
+   Target Character: MOWBRAY, Value: 20
+   Target Character: F YORK, Value: 337
+Character: Page
+   Target Character: DOLL TEARSHEET, Value: 5
+   Target Character: FALSTAFF, Value: 185
+   Target Character: Servant, Value: 33
+   Target Character: PISTOL, Value: 8
+   Target Character: PRINCE HENRY, Value: 143
+   Target Character: LORD BARDOLPH, Value: 59
+Character: MORTON
+   Target Character: NORTHUMBERLAND, Value: 353
+   Target Character: LORD BARDOLPH, Value: 719
+Character: SILENCE
+   Target Character: FALSTAFF, Value: 151
+   Target Character: SHADOW, Value: 12
+   Target Character: PISTOL, Value: 42
+   Target Character: SHALLOW, Value: 118
+   Target Character: DAVY, Value: 11
+   Target Character: LORD BARDOLPH, Value: 11
+Character: LORD BARDOLPH
+   Target Character: FEEBLE, Value: 10
+   Target Character: DOLL TEARSHEET, Value: 6
+   Target Character: POINS, Value: 38
+   Target Character: PISTOL, Value: 22
+   Target Character: Page, Value: 42
+   Target Character: MORTON, Value: 131
+   Target Character: DAVY, Value: 7
+   Target Character: MOULDY, Value: 8
+   Target Character: SILENCE, Value: 11
+   Target Character: TRAVERS, Value: 8
+   Target Character: MISTRESS QUICKLY, Value: 24
+   Target Character: FALSTAFF, Value: 112
+   Target Character: BULLCALF, Value: 4
+   Target Character: Porter, Value: 22
+   Target Character: SHALLOW, Value: 195
+   Target Character: HASTINGS, Value: 595
+   Target Character: PRINCE HENRY, Value: 102
+   Target Character: NORTHUMBERLAND, Value: 359
+   Target Character: F YORK, Value: 99
+Character: Second Drawer
+   Target Character: First Drawer, Value: 176
+   Target Character: MISTRESS QUICKLY, Value: 8
+Character: FALSTAFF
+   Target Character: FEEBLE, Value: 203
+   Target Character: DOLL TEARSHEET, Value: 569
+   Target Character: SHADOW, Value: 42
+   Target Character: POINS, Value: 123
+   Target Character: PISTOL, Value: 340
+   Target Character: LANCASTER, Value: 571
+   Target Character: Page, Value: 972
+   Target Character: MOULDY, Value: 41
+   Target Character: MISTRESS QUICKLY, Value: 967
+   Target Character: SILENCE, Value: 81
+   Target Character: LORD BARDOLPH, Value: 695
+   Target Character: FALSTAFF, Value: 2320
+   Target Character: WART, Value: 16
+   Target Character: Servant, Value: 369
+   Target Character: BULLCALF, Value: 87
+   Target Character: GOWER, Value: 120
+   Target Character: COLEVILE, Value: 208
+   Target Character: First Groom, Value: 35
+   Target Character: FANG, Value: 28
+   Target Character: SHALLOW, Value: 1373
+   Target Character: Y IV, Value: 24
+   Target Character: PRINCE HENRY, Value: 324
+Character: Y V
+   Target Character: Y V, Value: 310
+   Target Character: WARWICK, Value: 144
+   Target Character: Princes, Value: 181
+Character: WART
+   Target Character: FALSTAFF, Value: 8
+Character: Servant
+   Target Character: FALSTAFF, Value: 130
+   Target Character: Servant, Value: 92
+   Target Character: Page, Value: 2
+Character: HARCOURT
+   Target Character: Y IV, Value: 128
+Character: BULLCALF
+   Target Character: FALSTAFF, Value: 72
+   Target Character: SHALLOW, Value: 73
+   Target Character: LORD BARDOLPH, Value: 73
+Character: FANG
+   Target Character: FALSTAFF, Value: 26
+   Target Character: SNARE, Value: 7
+   Target Character: MISTRESS QUICKLY, Value: 60
+Character: Porter
+   Target Character: LORD BARDOLPH, Value: 12
+Character: SHALLOW
+   Target Character: FEEBLE, Value: 23
+   Target Character: FALSTAFF, Value: 1075
+   Target Character: SHADOW, Value: 2
+   Target Character: BULLCALF, Value: 37
+   Target Character: PISTOL, Value: 92
+   Target Character: DAVY, Value: 350
+   Target Character: MOULDY, Value: 79
+   Target Character: SILENCE, Value: 681
+   Target Character: LORD BARDOLPH, Value: 305
+Character: CLARENCE
+   Target Character: WARWICK, Value: 84
+   Target Character: WESTMORELAND, Value: 4
+   Target Character: LANCASTER, Value: 80
+   Target Character: GLOUCESTER, Value: 76
+   Target Character: PRINCE HENRY, Value: 14
+   Target Character: Y IV, Value: 102
+Character: HASTINGS
+   Target Character: WESTMORELAND, Value: 86
+   Target Character: LANCASTER, Value: 74
+   Target Character: MOWBRAY, Value: 144
+   Target Character: Messenger, Value: 3
+   Target Character: F YORK, Value: 225
+   Target Character: LORD BARDOLPH, Value: 257
+Character: PRINCE HENRY
+   Target Character: DOLL TEARSHEET, Value: 2
+   Target Character: FALSTAFF, Value: 245
+   Target Character: PETO, Value: 5
+   Target Character: WARWICK, Value: 16
+   Target Character: POINS, Value: 1167
+   Target Character: GLOUCESTER, Value: 40
+   Target Character: CLARENCE, Value: 18
+   Target Character: Y IV, Value: 697
+   Target Character: Page, Value: 68
+   Target Character: MISTRESS QUICKLY, Value: 39
+   Target Character: LORD BARDOLPH, Value: 126
+Character: MOWBRAY
+   Target Character: WESTMORELAND, Value: 448
+   Target Character: LANCASTER, Value: 16
+   Target Character: HASTINGS, Value: 145
+   Target Character: Messenger, Value: 18
+   Target Character: F YORK, Value: 169
+Character: First Beadle
+   Target Character: DOLL TEARSHEET, Value: 70
+   Target Character: MISTRESS QUICKLY, Value: 70
+Character: NORTHUMBERLAND
+   Target Character: LADY PERCY, Value: 76
+   Target Character: MORTON, Value: 709
+   Target Character: NORTHUMBERLAND, Value: 144
+   Target Character: TRAVERS, Value: 231
+   Target Character: LORD BARDOLPH, Value: 285
+Character: Messenger
+   Target Character: HASTINGS, Value: 33
+   Target Character: MOWBRAY, Value: 33
+Character: F YORK
+   Target Character: WESTMORELAND, Value: 788
+   Target Character: LANCASTER, Value: 118
+   Target Character: HASTINGS, Value: 511
+   Target Character: MOWBRAY, Value: 500
+   Target Character: LORD BARDOLPH, Value: 28
+Character: FEEBLE
+   Target Character: FALSTAFF, Value: 58
+   Target Character: SHALLOW, Value: 6
+   Target Character: LORD BARDOLPH, Value: 116
+Character: DOLL TEARSHEET
+   Target Character: FALSTAFF, Value: 387
+   Target Character: POINS, Value: 7
+   Target Character: First Drawer, Value: 75
+   Target Character: PISTOL, Value: 182
+   Target Character: PRINCE HENRY, Value: 4
+   Target Character: Page, Value: 18
+   Target Character: First Beadle, Value: 101
+   Target Character: MISTRESS QUICKLY, Value: 216
+   Target Character: LORD BARDOLPH, Value: 100
+Character: SHADOW
+   Target Character: FALSTAFF, Value: 10
+   Target Character: SHALLOW, Value: 2
+   Target Character: SILENCE, Value: 56
+Character: POINS
+   Target Character: DOLL TEARSHEET, Value: 22
+   Target Character: FALSTAFF, Value: 44
+   Target Character: PRINCE HENRY, Value: 901
+   Target Character: LORD BARDOLPH, Value: 58
+Character: PISTOL
+   Target Character: DOLL TEARSHEET, Value: 54
+   Target Character: FALSTAFF, Value: 337
+   Target Character: LANCASTER, Value: 6
+   Target Character: SHALLOW, Value: 129
+   Target Character: Page, Value: 55
+   Target Character: SILENCE, Value: 108
+   Target Character: MISTRESS QUICKLY, Value: 191
+   Target Character: LORD BARDOLPH, Value: 19
+Character: GLOUCESTER
+   Target Character: WARWICK, Value: 16
+   Target Character: LANCASTER, Value: 54
+   Target Character: CLARENCE, Value: 76
+   Target Character: PRINCE HENRY, Value: 18
+   Target Character: Y IV, Value: 60
+Character: DAVY
+   Target Character: SHALLOW, Value: 354
+   Target Character: SILENCE, Value: 13
+   Target Character: LORD BARDOLPH, Value: 9
+Character: MISTRESS QUICKLY
+   Target Character: DOLL TEARSHEET, Value: 322
+   Target Character: FALSTAFF, Value: 1349
+   Target Character: PISTOL, Value: 109
+   Target Character: FANG, Value: 134
+   Target Character: PRINCE HENRY, Value: 69
+   Target Character: SNARE, Value: 63
+   Target Character: First Beadle, Value: 66
+   Target Character: MISTRESS QUICKLY, Value: 160
+   Target Character: LORD BARDOLPH, Value: 37
+   Target Character: Second Drawer, Value: 67
+Character: MOULDY
+   Target Character: FALSTAFF, Value: 101
+   Target Character: SHALLOW, Value: 9
+   Target Character: LORD BARDOLPH, Value: 78
+Character: TRAVERS
+   Target Character: NORTHUMBERLAND, Value: 232
+   Target Character: LORD BARDOLPH, Value: 8
+Character: PETO
+   Target Character: PRINCE HENRY, Value: 45
+Character: WARWICK
+   Target Character: Y V, Value: 13
+   Target Character: WARWICK, Value: 174
+   Target Character: WESTMORELAND, Value: 24
+   Target Character: LANCASTER, Value: 79
+   Target Character: GLOUCESTER, Value: 16
+   Target Character: CLARENCE, Value: 66
+   Target Character: PRINCE HENRY, Value: 22
+   Target Character: Y IV, Value: 544
+Character: WESTMORELAND
+   Target Character: WARWICK, Value: 8
+   Target Character: LANCASTER, Value: 53
+   Target Character: CLARENCE, Value: 8
+   Target Character: HASTINGS, Value: 60
+   Target Character: Y IV, Value: 77
+   Target Character: MOWBRAY, Value: 726
+   Target Character: F YORK, Value: 636
+Character: First Drawer
+   Target Character: DOLL TEARSHEET, Value: 18
+   Target Character: Second Drawer, Value: 102
+Character: GOWER
+   Target Character: FALSTAFF, Value: 154
+Character: Second Groom
+   Target Character: First Groom, Value: 5
+Character: COLEVILE
+   Target Character: FALSTAFF, Value: 79
+   Target Character: LANCASTER, Value: 8
+Character: First Groom
+   Target Character: FALSTAFF, Value: 12
+   Target Character: Second Groom, Value: 4
+Character: LADY PERCY
+   Target Character: NORTHUMBERLAND, Value: 667
+Character: Y IV
+   Target Character: FALSTAFF, Value: 256
+   Target Character: WARWICK, Value: 1101
+   Target Character: WESTMORELAND, Value: 16
+   Target Character: HARCOURT, Value: 112
+   Target Character: LANCASTER, Value: 44
+   Target Character: GLOUCESTER, Value: 149
+   Target Character: CLARENCE, Value: 625
+   Target Character: PRINCE HENRY, Value: 1134
+Character: SNARE
+   Target Character: FANG, Value: 2
+   Target Character: MISTRESS QUICKLY, Value: 28
+Character: Princes
+   Target Character: Y V, Value: 14

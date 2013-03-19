@@ -1,0 +1,281 @@
+Character: First Servant
+   Target Character: HORTENSIUS, Value: 13
+   Target Character: All Lords, Value: 16
+   Target Character: First Servant, Value: 36
+   Target Character: SEMPRONIUS, Value: 17
+   Target Character: First Lord, Value: 5
+   Target Character: TITUS, Value: 30
+   Target Character: Second Servant, Value: 3
+   Target Character: FLAVIUS, Value: 49
+   Target Character: FLAMINIUS, Value: 3
+   Target Character: TIMON, Value: 59
+   Target Character: LUCULLUS, Value: 14
+Character: First Stranger
+   Target Character: Third Stranger, Value: 96
+   Target Character: LUCILIUS, Value: 93
+   Target Character: Second Stranger, Value: 101
+Character: Second Lord
+   Target Character: APEMANTUS, Value: 72
+   Target Character: First Lord, Value: 263
+   Target Character: Fourth Lord, Value: 2
+   Target Character: Third Lord, Value: 50
+   Target Character: TIMON, Value: 137
+Character: Servants
+   Target Character: TIMON, Value: 8
+Character: Some Others
+   Target Character: Some Speak, Value: 3
+Character: Soldier
+   Target Character: ALCIBIADES, Value: 34
+Character: Second Stranger
+   Target Character: LUCILIUS, Value: 82
+   Target Character: First Stranger, Value: 6
+Character: Old Athenian
+   Target Character: LUCILIUS, Value: 70
+   Target Character: Messenger, Value: 5
+   Target Character: TIMON, Value: 339
+Character: All Ladies
+   Target Character: TIMON, Value: 4
+Character: LUCULLUS
+   Target Character: First Servant, Value: 96
+   Target Character: FLAMINIUS, Value: 103
+Character: HORTENSIUS
+   Target Character: HORTENSIUS, Value: 64
+   Target Character: First Servant, Value: 27
+   Target Character: TITUS, Value: 78
+   Target Character: TIMON, Value: 25
+   Target Character: PHILOTUS, Value: 11
+Character: Third Lord
+   Target Character: APEMANTUS, Value: 9
+   Target Character: First Lord, Value: 40
+   Target Character: Fourth Lord, Value: 6
+   Target Character: TIMON, Value: 17
+   Target Character: Second Lord, Value: 62
+Character: Banditti
+   Target Character: Third Bandit, Value: 3
+   Target Character: First Bandit, Value: 1
+   Target Character: TIMON, Value: 29
+   Target Character: Second Bandit, Value: 1
+Character: Second Bandit
+   Target Character: Third Bandit, Value: 22
+   Target Character: First Bandit, Value: 30
+   Target Character: Banditti, Value: 3
+Character: TIMANDRA
+   Target Character: ALCIBIADES, Value: 3
+   Target Character: TIMON, Value: 85
+Character: First Lady
+   Target Character: APEMANTUS, Value: 9
+   Target Character: TIMON, Value: 9
+Character: All Lords
+   Target Character: First Servant, Value: 4
+   Target Character: TIMON, Value: 8
+Character: Third Bandit
+   Target Character: First Bandit, Value: 12
+   Target Character: TIMON, Value: 12
+   Target Character: Banditti, Value: 4
+   Target Character: Second Bandit, Value: 56
+Character: PHRYNIA
+   Target Character: TIMON, Value: 8
+Character: Second Servant
+   Target Character: First Servant, Value: 2
+   Target Character: TITUS, Value: 34
+   Target Character: FLAVIUS, Value: 83
+Character: Messenger
+   Target Character: Second Senator, Value: 69
+   Target Character: First Senator, Value: 10
+   Target Character: Old Athenian, Value: 5
+   Target Character: TIMON, Value: 85
+Character: Third Senator
+   Target Character: ALCIBIADES, Value: 2
+Character: Fourth Lord
+   Target Character: First Lord, Value: 9
+   Target Character: Third Lord, Value: 5
+   Target Character: Second Lord, Value: 4
+Character: First Senator
+   Target Character: ALCIBIADES, Value: 387
+   Target Character: Messenger, Value: 12
+   Target Character: FLAVIUS, Value: 18
+   Target Character: Second Senator, Value: 394
+   Target Character: TIMON, Value: 186
+Character: TIMON
+   Target Character: Third Servant, Value: 28
+   Target Character: First Servant, Value: 29
+   Target Character: LUCILIUS, Value: 12
+   Target Character: Merchant, Value: 22
+   Target Character: Second Lord, Value: 241
+   Target Character: Servants, Value: 92
+   Target Character: First Lord, Value: 494
+   Target Character: VENTIDIUS, Value: 92
+   Target Character: Old Athenian, Value: 167
+   Target Character: All Ladies, Value: 1
+   Target Character: Both, Value: 208
+   Target Character: CAPHIS, Value: 114
+   Target Character: Poet, Value: 222
+   Target Character: HORTENSIUS, Value: 12
+   Target Character: ALCIBIADES, Value: 936
+   Target Character: Jeweller, Value: 60
+   Target Character: Third Lord, Value: 34
+   Target Character: Painter, Value: 363
+   Target Character: Banditti, Value: 64
+   Target Character: TIMANDRA, Value: 616
+   Target Character: APEMANTUS, Value: 2402
+   Target Character: First Lady, Value: 46
+   Target Character: All Lords, Value: 96
+   Target Character: Third Bandit, Value: 218
+   Target Character: First Bandit, Value: 286
+   Target Character: PHRYNIA, Value: 70
+   Target Character: TITUS, Value: 62
+   Target Character: Messenger, Value: 123
+   Target Character: Second Senator, Value: 83
+   Target Character: FLAVIUS, Value: 1528
+   Target Character: Some Speak, Value: 194
+   Target Character: First Senator, Value: 575
+   Target Character: FLAMINIUS, Value: 98
+   Target Character: TIMON, Value: 40
+   Target Character: PHILOTUS, Value: 15
+   Target Character: Cupid, Value: 6
+Character: PHILOTUS
+   Target Character: HORTENSIUS, Value: 3
+   Target Character: TITUS, Value: 22
+   Target Character: TIMON, Value: 3
+   Target Character: PHILOTUS, Value: 170
+Character: Fool
+   Target Character: APEMANTUS, Value: 166
+   Target Character: All Servants, Value: 84
+   Target Character: Fool, Value: 84
+   Target Character: Page, Value: 7
+Character: Third Servant
+   Target Character: FLAVIUS, Value: 47
+   Target Character: TIMON, Value: 52
+Character: LUCILIUS
+   Target Character: Poet, Value: 21
+   Target Character: Second Stranger, Value: 13
+   Target Character: SERVILIUS, Value: 434
+   Target Character: First Stranger, Value: 49
+   Target Character: Old Athenian, Value: 14
+   Target Character: TIMON, Value: 14
+Character: All Servants
+   Target Character: APEMANTUS, Value: 26
+   Target Character: Fool, Value: 18
+Character: Merchant
+   Target Character: Poet, Value: 19
+   Target Character: APEMANTUS, Value: 12
+   Target Character: Jeweller, Value: 31
+   Target Character: Painter, Value: 5
+   Target Character: Merchant, Value: 41
+   Target Character: TIMON, Value: 21
+Character: Page
+   Target Character: APEMANTUS, Value: 67
+   Target Character: Fool, Value: 18
+Character: First Lord
+   Target Character: APEMANTUS, Value: 76
+   Target Character: First Servant, Value: 4
+   Target Character: ALCIBIADES, Value: 5
+   Target Character: Fourth Lord, Value: 38
+   Target Character: Third Lord, Value: 53
+   Target Character: FLAVIUS, Value: 4
+   Target Character: Second Lord, Value: 235
+   Target Character: TIMON, Value: 114
+Character: VENTIDIUS
+   Target Character: TIMON, Value: 59
+Character: Both
+   Target Character: ALCIBIADES, Value: 4
+   Target Character: TIMON, Value: 71
+Character: CAPHIS
+   Target Character: APEMANTUS, Value: 41
+   Target Character: FLAVIUS, Value: 48
+   Target Character: Second Senator, Value: 21
+   Target Character: TIMON, Value: 170
+   Target Character: CAPHIS, Value: 47
+Character: Poet
+   Target Character: APEMANTUS, Value: 34
+   Target Character: LUCILIUS, Value: 8
+   Target Character: Painter, Value: 1042
+   Target Character: Merchant, Value: 25
+   Target Character: TIMON, Value: 232
+Character: SEMPRONIUS
+   Target Character: First Servant, Value: 35
+Character: ALCIBIADES
+   Target Character: TIMANDRA, Value: 62
+   Target Character: Soldier, Value: 5
+   Target Character: APEMANTUS, Value: 35
+   Target Character: First Lord, Value: 5
+   Target Character: Third Senator, Value: 37
+   Target Character: Second Senator, Value: 284
+   Target Character: First Senator, Value: 803
+   Target Character: TIMON, Value: 393
+   Target Character: Both, Value: 68
+Character: SERVILIUS
+   Target Character: LUCILIUS, Value: 139
+   Target Character: SERVILIUS, Value: 79
+   Target Character: TITUS, Value: 79
+Character: Jeweller
+   Target Character: Painter, Value: 8
+   Target Character: Merchant, Value: 16
+   Target Character: TIMON, Value: 84
+Character: Painter
+   Target Character: Poet, Value: 461
+   Target Character: APEMANTUS, Value: 6
+   Target Character: Jeweller, Value: 13
+   Target Character: Merchant, Value: 8
+   Target Character: TIMON, Value: 240
+Character: APEMANTUS
+   Target Character: Poet, Value: 83
+   Target Character: ALCIBIADES, Value: 53
+   Target Character: All Servants, Value: 59
+   Target Character: Third Lord, Value: 10
+   Target Character: Painter, Value: 28
+   Target Character: Merchant, Value: 31
+   Target Character: Second Lord, Value: 90
+   Target Character: Page, Value: 78
+   Target Character: APEMANTUS, Value: 43
+   Target Character: First Lady, Value: 14
+   Target Character: First Lord, Value: 82
+   Target Character: TIMON, Value: 2357
+   Target Character: CAPHIS, Value: 36
+   Target Character: Fool, Value: 115
+Character: First Bandit
+   Target Character: Third Bandit, Value: 19
+   Target Character: FLAVIUS, Value: 19
+   Target Character: TIMON, Value: 61
+   Target Character: Banditti, Value: 4
+   Target Character: Second Bandit, Value: 56
+Character: Third Stranger
+   Target Character: First Stranger, Value: 4
+Character: TITUS
+   Target Character: HORTENSIUS, Value: 59
+   Target Character: First Servant, Value: 25
+   Target Character: SERVILIUS, Value: 16
+   Target Character: Second Servant, Value: 14
+   Target Character: FLAVIUS, Value: 14
+   Target Character: FLAMINIUS, Value: 32
+   Target Character: TIMON, Value: 16
+   Target Character: PHILOTUS, Value: 26
+Character: FLAVIUS
+   Target Character: First Bandit, Value: 111
+   Target Character: Third Servant, Value: 7
+   Target Character: First Servant, Value: 60
+   Target Character: First Lord, Value: 50
+   Target Character: TITUS, Value: 97
+   Target Character: Second Servant, Value: 20
+   Target Character: First Senator, Value: 30
+   Target Character: FLAMINIUS, Value: 6
+   Target Character: TIMON, Value: 1533
+   Target Character: CAPHIS, Value: 79
+Character: Second Senator
+   Target Character: ALCIBIADES, Value: 120
+   Target Character: Messenger, Value: 18
+   Target Character: Second Senator, Value: 58
+   Target Character: First Senator, Value: 467
+   Target Character: TIMON, Value: 108
+   Target Character: CAPHIS, Value: 443
+Character: Some Speak
+   Target Character: TIMON, Value: 5
+   Target Character: Some Others, Value: 5
+Character: FLAMINIUS
+   Target Character: First Servant, Value: 4
+   Target Character: TITUS, Value: 42
+   Target Character: FLAVIUS, Value: 6
+   Target Character: TIMON, Value: 13
+   Target Character: LUCULLUS, Value: 59
+Character: Cupid
+   Target Character: TIMON, Value: 49

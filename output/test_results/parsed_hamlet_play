@@ -1,0 +1,124 @@
+Character: Horatio
+   Target Character: Osric, Value: 56
+   Target Character: Gertrude, Value: 5
+   Target Character: Ghost of Hamlet's Father, Value: 1464
+   Target Character: Horatio, Value: 12
+   Target Character: Marcellus, Value: 788
+   Target Character: Fortinbras, Value: 328
+   Target Character: Sailors, Value: 182
+   Target Character: Bernardo, Value: 491
+Character: 2 Clown
+   Target Character: 1 Clown, Value: 190
+Character: A Gentleman
+   Target Character: Gertrude, Value: 305
+Character: Sailors
+   Target Character: Horatio, Value: 68
+Character: Laertes
+   Target Character: Osric, Value: 22
+   Target Character: Ghost of Hamlet's Father, Value: 384
+   Target Character: Gertrude, Value: 190
+   Target Character: Ophelia, Value: 753
+   Target Character: Claudius, Value: 916
+   Target Character: Laertes, Value: 59
+   Target Character: Polonius, Value: 20
+Character: Bernardo
+   Target Character: Horatio, Value: 212
+   Target Character: Marcellus, Value: 98
+   Target Character: Francisco, Value: 78
+Character: Polonius
+   Target Character: Ghost of Hamlet's Father, Value: 783
+   Target Character: Gertrude, Value: 572
+   Target Character: Ophelia, Value: 849
+   Target Character: Claudius, Value: 1193
+   Target Character: Rosencrantz, Value: 27
+   Target Character: Laertes, Value: 16
+   Target Character: I Player, Value: 39
+   Target Character: Reynaldo, Value: 957
+Character: Reynaldo
+   Target Character: Polonius, Value: 132
+Character: Ghost of Hamlet's Father
+   Target Character: Horatio, Value: 4529
+   Target Character: Laertes, Value: 427
+   Target Character: Polonius, Value: 1109
+   Target Character: Osric, Value: 773
+   Target Character: Gertrude, Value: 2866
+   Target Character: Ghost of Hamlet's Father, Value: 1568
+   Target Character: Ophelia, Value: 1328
+   Target Character: A Captain., Value: 148
+   Target Character: Marcellus, Value: 112
+   Target Character: Claudius, Value: 764
+   Target Character: Rosencrantz, Value: 1627
+   Target Character: 1 Clown, Value: 520
+   Target Character: Guildenstern, Value: 877
+   Target Character: Lords, Value: 66
+   Target Character: I Player, Value: 832
+Character: Ophelia
+   Target Character: Ghost of Hamlet's Father, Value: 399
+   Target Character: Gertrude, Value: 147
+   Target Character: Claudius, Value: 289
+   Target Character: Laertes, Value: 412
+   Target Character: Polonius, Value: 569
+Character: Gertrude
+   Target Character: Ophelia, Value: 72
+   Target Character: Ghost of Hamlet's Father, Value: 971
+   Target Character: Horatio, Value: 2
+   Target Character: A Gentleman, Value: 34
+   Target Character: Claudius, Value: 750
+   Target Character: Rosencrantz, Value: 90
+   Target Character: Laertes, Value: 334
+   Target Character: Guildenstern, Value: 33
+   Target Character: Polonius, Value: 60
+Character: A Captain.
+   Target Character: Ghost of Hamlet's Father, Value: 153
+   Target Character: Fortinbras, Value: 10
+Character: Osric
+   Target Character: Ghost of Hamlet's Father, Value: 639
+   Target Character: Horatio, Value: 18
+   Target Character: Claudius, Value: 4
+   Target Character: Laertes, Value: 12
+Character: Marcellus
+   Target Character: Ghost of Hamlet's Father, Value: 82
+   Target Character: Horatio, Value: 539
+   Target Character: Francisco, Value: 21
+   Target Character: Bernardo, Value: 106
+Character: Fortinbras
+   Target Character: A Captain., Value: 53
+   Target Character: Horatio, Value: 202
+Character: Francisco
+   Target Character: Marcellus, Value: 13
+   Target Character: Bernardo, Value: 76
+Character: Claudius
+   Target Character: Osric, Value: 104
+   Target Character: Ophelia, Value: 34
+   Target Character: Gertrude, Value: 1385
+   Target Character: Ghost of Hamlet's Father, Value: 747
+   Target Character: Claudius, Value: 301
+   Target Character: Messengers, Value: 17
+   Target Character: Rosencrantz, Value: 99
+   Target Character: Guildenstern, Value: 57
+   Target Character: Laertes, Value: 2234
+   Target Character: Voltimand, Value: 38
+   Target Character: Polonius, Value: 383
+Character: Rosencrantz
+   Target Character: Ghost of Hamlet's Father, Value: 875
+   Target Character: Gertrude, Value: 97
+   Target Character: Claudius, Value: 159
+   Target Character: Guildenstern, Value: 169
+   Target Character: Polonius, Value: 58
+Character: Messengers
+   Target Character: Claudius, Value: 57
+Character: 1 Clown
+   Target Character: Ghost of Hamlet's Father, Value: 661
+   Target Character: 2 Clown, Value: 581
+Character: Guildenstern
+   Target Character: Ghost of Hamlet's Father, Value: 403
+   Target Character: Gertrude, Value: 53
+   Target Character: Claudius, Value: 48
+   Target Character: Rosencrantz, Value: 110
+Character: Voltimand
+   Target Character: Claudius, Value: 152
+Character: Lords
+   Target Character: Ghost of Hamlet's Father, Value: 92
+Character: I Player
+   Target Character: Ghost of Hamlet's Father, Value: 59
+   Target Character: Polonius, Value: 668

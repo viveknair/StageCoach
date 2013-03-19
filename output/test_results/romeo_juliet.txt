@@ -1,0 +1,176 @@
+Character: ROMEO
+   Target Character: FRIAR LAURENCE, Value: 1546
+   Target Character: BENVOLIO, Value: 1330
+   Target Character: JULIET, Value: 1588
+   Target Character: Nurse, Value: 549
+   Target Character: First Servant, Value: 234
+   Target Character: NURSE, Value: 18
+   Target Character: TYBALT, Value: 281
+   Target Character: MERCUTIO, Value: 597
+   Target Character: Apothecary, Value: 449
+   Target Character: BALTHASAR, Value: 388
+   Target Character: PARIS, Value: 300
+   Target Character: CAPULET, Value: 15
+Character: PAGE
+   Target Character: JULIET, Value: 10
+   Target Character: PRINCE, Value: 90
+Character: Third Musician
+   Target Character: PETER, Value: 7
+Character: First Servant
+   Target Character: ROMEO, Value: 82
+   Target Character: BENVOLIO, Value: 104
+   Target Character: JULIET, Value: 36
+   Target Character: Second Servant, Value: 105
+   Target Character: CAPULET, Value: 10
+Character: Second Capulet
+   Target Character: CAPULET, Value: 34
+Character: PETER
+   Target Character: Third Musician, Value: 7
+   Target Character: First Musician, Value: 221
+   Target Character: Nurse, Value: 89
+   Target Character: Musician, Value: 64
+   Target Character: Second Musician, Value: 71
+Character: CAPULET
+   Target Character: ROMEO, Value: 14
+   Target Character: First Servant, Value: 10
+   Target Character: First Citizen, Value: 10
+   Target Character: Second Capulet, Value: 228
+   Target Character: First Watchman, Value: 30
+   Target Character: PARIS, Value: 497
+   Target Character: FRIAR LAURENCE, Value: 166
+   Target Character: MONTAGUE, Value: 47
+   Target Character: LADY CAPULET, Value: 465
+   Target Character: JULIET, Value: 542
+   Target Character: Nurse, Value: 298
+   Target Character: Second Servant, Value: 27
+   Target Character: TYBALT, Value: 326
+   Target Character: PRINCE, Value: 27
+   Target Character: LADY  CAPULET, Value: 9
+Character: FRIAR LAURENCE
+   Target Character: ROMEO, Value: 1649
+   Target Character: First Musician, Value: 42
+   Target Character: JULIET, Value: 868
+   Target Character: Nurse, Value: 464
+   Target Character: BALTHASAR, Value: 145
+   Target Character: PARIS, Value: 66
+   Target Character: PRINCE, Value: 728
+   Target Character: CAPULET, Value: 332
+   Target Character: FRIAR JOHN, Value: 105
+Character: First Musician
+   Target Character: FRIAR LAURENCE, Value: 10
+   Target Character: Second Musician, Value: 10
+   Target Character: PETER, Value: 78
+Character: BENVOLIO
+   Target Character: ROMEO, Value: 678
+   Target Character: LADY MONTAGUE, Value: 172
+   Target Character: MONTAGUE, Value: 214
+   Target Character: LADY CAPULET, Value: 217
+   Target Character: Nurse, Value: 14
+   Target Character: First Servant, Value: 94
+   Target Character: First Citizen, Value: 8
+   Target Character: MERCUTIO, Value: 409
+   Target Character: TYBALT, Value: 31
+   Target Character: PRINCE, Value: 217
+Character: MONTAGUE
+   Target Character: BENVOLIO, Value: 308
+   Target Character: PRINCE, Value: 115
+   Target Character: CAPULET, Value: 86
+Character: LADY CAPULET
+   Target Character: BENVOLIO, Value: 86
+   Target Character: JULIET, Value: 550
+   Target Character: Nurse, Value: 530
+   Target Character: PARIS, Value: 60
+   Target Character: PRINCE, Value: 125
+   Target Character: CAPULET, Value: 144
+Character: Nurse
+   Target Character: FRIAR LAURENCE, Value: 128
+   Target Character: ROMEO, Value: 718
+   Target Character: BENVOLIO, Value: 12
+   Target Character: LADY CAPULET, Value: 1029
+   Target Character: JULIET, Value: 1462
+   Target Character: MERCUTIO, Value: 61
+   Target Character: PETER, Value: 172
+   Target Character: PARIS, Value: 44
+   Target Character: CAPULET, Value: 113
+Character: Musician
+   Target Character: PETER, Value: 16
+Character: NURSE
+   Target Character: ROMEO, Value: 174
+Character: Third Watchman
+   Target Character: First Watchman, Value: 26
+Character: BALTHASAR
+   Target Character: FRIAR LAURENCE, Value: 135
+   Target Character: ROMEO, Value: 170
+   Target Character: PRINCE, Value: 98
+Character: Second Musician
+   Target Character: First Musician, Value: 11
+   Target Character: PETER, Value: 29
+Character: PRINCE
+   Target Character: PAGE, Value: 111
+   Target Character: FRIAR LAURENCE, Value: 92
+   Target Character: BENVOLIO, Value: 14
+   Target Character: MONTAGUE, Value: 263
+   Target Character: LADY CAPULET, Value: 47
+   Target Character: First Citizen, Value: 8
+   Target Character: BALTHASAR, Value: 44
+   Target Character: First Watchman, Value: 27
+   Target Character: CAPULET, Value: 99
+Character: LADY  CAPULET
+   Target Character: CAPULET, Value: 11
+Character: Second Watchman
+   Target Character: First Watchman, Value: 9
+Character: First Citizen
+   Target Character: BENVOLIO, Value: 28
+   Target Character: PRINCE, Value: 13
+   Target Character: CAPULET, Value: 16
+Character: First Watchman
+   Target Character: JULIET, Value: 5
+   Target Character: Second Watchman, Value: 76
+   Target Character: Third Watchman, Value: 9
+   Target Character: PRINCE, Value: 55
+   Target Character: CAPULET, Value: 19
+Character: PARIS
+   Target Character: ROMEO, Value: 158
+   Target Character: FRIAR LAURENCE, Value: 123
+   Target Character: JULIET, Value: 147
+   Target Character: LADY CAPULET, Value: 36
+   Target Character: Nurse, Value: 27
+   Target Character: CAPULET, Value: 134
+Character: GREGORY
+   Target Character: SAMPSON, Value: 279
+   Target Character: ABRAHAM, Value: 4
+Character: LADY MONTAGUE
+   Target Character: BENVOLIO, Value: 36
+Character: JULIET
+   Target Character: PAGE, Value: 19
+   Target Character: FRIAR LAURENCE, Value: 577
+   Target Character: ROMEO, Value: 2027
+   Target Character: LADY CAPULET, Value: 697
+   Target Character: First Servant, Value: 26
+   Target Character: Nurse, Value: 2003
+   Target Character: First Watchman, Value: 63
+   Target Character: PARIS, Value: 213
+   Target Character: CAPULET, Value: 280
+Character: SAMPSON
+   Target Character: GREGORY, Value: 386
+   Target Character: ABRAHAM, Value: 83
+Character: Second Servant
+   Target Character: First Servant, Value: 46
+   Target Character: CAPULET, Value: 53
+Character: MERCUTIO
+   Target Character: ROMEO, Value: 1743
+   Target Character: BENVOLIO, Value: 1662
+   Target Character: Nurse, Value: 108
+   Target Character: TYBALT, Value: 238
+Character: TYBALT
+   Target Character: ROMEO, Value: 142
+   Target Character: BENVOLIO, Value: 30
+   Target Character: MERCUTIO, Value: 124
+   Target Character: CAPULET, Value: 140
+Character: Apothecary
+   Target Character: ROMEO, Value: 80
+Character: ABRAHAM
+   Target Character: SAMPSON, Value: 42
+   Target Character: GREGORY, Value: 4
+Character: FRIAR JOHN
+   Target Character: FRIAR LAURENCE, Value: 173
