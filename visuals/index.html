@@ -29,7 +29,7 @@ h3 {
 }
 
 .link {
-  stroke: #999;
+  stroke: #BBB;
   stroke-opacity: .6;
 }
 
@@ -40,7 +40,7 @@ h3 {
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
-var DOMAIN_REP = 0.05;
+var DOMAIN_REP = 0.35;
 
 var width = 1260,
     height = 800;
@@ -71,11 +71,11 @@ function returnDomain(values) {
   return [bottomValue, topValue];
 }
 
-d3.json("jsonDatasets/json_networks/1henryiv.json", function(error, graph) {
+d3.json("json_networks/titus.json", function(error, graph) {
 
   var trueDomain = returnDomain(graph);
   var usedDomain = [trueDomain[0] + DOMAIN_REP * (trueDomain[1] - trueDomain[0]), trueDomain[0] + (1-DOMAIN_REP) * (trueDomain[1] - trueDomain[0])];
-  var scale = d3.scale.linear().domain(usedDomain).range([0,20]).clamp(true);
+  var scale = d3.scale.linear().domain(usedDomain).range([3,30]).clamp(true);
 
   force
     .nodes(graph.nodes)
@@ -86,6 +86,9 @@ d3.json("jsonDatasets/json_networks/1henryiv.json", function(error, graph) {
       .data(graph.links)
     .enter().append("line")
       .attr("class", "link")
+      .attr("id", function(d) {
+        return d.source.name + "_" + d.target.name;
+      })
       .style("stroke-width", function(d) { return scale(d.value); });
 
   var node = svg.selectAll(".node")
@@ -98,6 +101,72 @@ d3.json("jsonDatasets/json_networks/1henryiv.json", function(error, graph) {
 
       node.append("title")
       .text(function(d) { return d.name; });
+
+  node.on('mouseover', function(d) {
+    var resulting = link.filter(function(link) {
+      return (link.source == d || link.target == d);
+    });
+
+    var excluding = link.filter(function(link) {
+      return !(link.source == d || link.target == d);
+    });
+
+    var excluding_nodes = node.filter(function(currNode) {
+      var found = false;
+      resulting.each(function(resLink) {
+        if (resLink.source == currNode || resLink.target == currNode) {
+          found = true;
+        }
+      });
+      return !found;
+    });
+
+    var excluding_text = text.filter(function(currText) {
+      var found = false;
+      resulting.each(function(resLink) {
+        if (resLink.source.name == currText.name || resLink.target == currText.name) {
+          found = true;
+        }
+      });
+      return !found;
+    });
+
+    excluding
+      .transition()
+     .duration(300)
+      .style("opacity", 0.2);
+
+    resulting 
+     .transition()
+     .duration(300)
+    .style("stroke", "red");
+
+    excluding_nodes
+      .transition()
+     .duration(300)
+      .style("opacity", 0.05);
+
+    excluding_text
+      .transition()
+     .duration(300)
+      .style("fill", "white");
+  })
+  .on('mouseout', function(d) {
+    link
+     .transition()
+     .duration(300)
+      .style("stroke", "#BBB").style("opacity", 1.0);
+
+    node
+      .transition()
+      .duration(300)
+      .style("opacity", 1.0);
+
+    text 
+      .transition()
+      .duration(300)
+      .style('fill', 'black');
+  });
 
   var text_shadow = svg.selectAll('.text_shadow')
     .data(graph.nodes)
